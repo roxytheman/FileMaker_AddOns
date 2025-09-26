@@ -1,0 +1,16 @@
+﻿{
+  "Title": "badgeStack",
+  "Description": "Apresente facilmente crachás circulares sobrepostos com este visualizador SVG totalmente personalizável para FileMaker Pro por jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Crachás circulares sobrepostos com o da esquerda em destaque",
+    "Personalize cores, bordas, raio, espaçamento e fontes via JSON",
+    "Atualização dinâmica com script FileMaker e payload",
+    "Totalmente renderizado com SVG — sem necessidade de HTML",
+    "Layout alinhado ao topo adaptado à altura do Web Viewer",
+    "Ideal para mostrar responsáveis, etiquetas, avatares ou estados"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

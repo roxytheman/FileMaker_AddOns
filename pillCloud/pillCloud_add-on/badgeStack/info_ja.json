@@ -1,0 +1,16 @@
+﻿{
+  "Title": "badgeStack",
+  "Description": "FileMaker Pro 用の完全にカスタマイズ可能な SVG バッジビューアで、円形のバッジを簡単に重ねて表示できます。by jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "左側のバッジが上に来る、重なった円形バッジ",
+    "JSON で色、枠線、半径、間隔、フォントをカスタマイズ可能",
+    "FileMaker スクリプトとペイロードで動的に更新",
+    "すべて SVG でレンダリング — HTML 不要",
+    "Web Viewer の高さに合わせて上部に整列されたレイアウト",
+    "担当者、タグ、アバター、ステータス表示に最適"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

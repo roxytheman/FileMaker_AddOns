@@ -1,0 +1,16 @@
+﻿{
+  "Title": "badgeStack",
+  "Description": "Stellen Sie gestapelte, runde Badges mühelos mit diesem vollständig anpassbaren SVG-Viewer für FileMaker Pro dar, erstellt von jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Überlappende runde Badges mit dem linken Badge oben",
+    "Farben, Ränder, Radius, Abstand und Schriftart per JSON anpassbar",
+    "Dynamische Aktualisierung über ein FileMaker-Skript und Payload",
+    "Vollständig mit SVG gerendert – kein HTML erforderlich",
+    "Oben ausgerichtetes Layout, das sich an die Höhe des Web Viewers anpasst",
+    "Ideal zur Darstellung von Verantwortlichen, Tags, Avataren oder Statusanzeigen"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

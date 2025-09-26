@@ -1,0 +1,16 @@
+﻿{
+  "Title": "badgeStack",
+  "Description": "使用此完全可自定义的 SVG 徽章视图器，轻松显示叠加的圆形徽章，适用于 FileMaker Pro，作者：jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "圆形徽章重叠，左侧徽章置于最上层",
+    "通过 JSON 自定义颜色、边框、半径、间距和字体",
+    "可通过 FileMaker 脚本和 payload 动态更新",
+    "完全使用 SVG 渲染，无需 HTML",
+    "顶部对齐布局，自动适配 Web Viewer 高度",
+    "非常适合显示指派人、标签、头像或状态指示"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

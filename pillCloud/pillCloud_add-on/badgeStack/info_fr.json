@@ -1,0 +1,16 @@
+﻿{
+  "Title": "badgeStack",
+  "Description": "Affichez facilement des badges circulaires superposés avec ce composant SVG entièrement personnalisable pour FileMaker Pro par jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Badges circulaires superposés avec le badge gauche au-dessus",
+    "Personnalisez couleurs, bordures, rayon, espacement et police via JSON",
+    "Mise à jour dynamique via un script et un payload FileMaker",
+    "Rendu entièrement en SVG – aucun HTML requis",
+    "Disposition alignée en haut qui s’adapte à la hauteur du Web Viewer",
+    "Parfait pour afficher des assignés, des étiquettes, des avatars ou des statuts"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

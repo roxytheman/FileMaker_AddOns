@@ -1,0 +1,16 @@
+﻿{
+  "Title": "badgeStack",
+  "Description": "Visa enkelt överlappande cirkulära badges med denna fullt anpassningsbara SVG-visare för FileMaker Pro av jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Överlappande cirkulära badges med den vänstra överst",
+    "Anpassa färger, kantlinjer, radie, avstånd och typsnitt via JSON",
+    "Dynamisk uppdatering via FileMaker-skript och payload",
+    "Renderas helt med SVG – inget HTML behövs",
+    "Toppjusterad layout som anpassas till Web Viewer-höjden",
+    "Perfekt för att visa tilldelningar, taggar, avatarer eller statusindikatorer"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

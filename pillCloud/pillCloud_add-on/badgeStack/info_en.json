@@ -1,0 +1,16 @@
+﻿{
+  "Title": "badgeStack",
+  "Description": "Easily display stacked circular badges with this fully customisable SVG badge viewer for FileMaker Pro by jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Overlapping circular badges with leftmost badge on top",
+    "Customise colours, borders, radius, spacing, and font via JSON",
+    "Update badges dynamically with a FileMaker script and payload",
+    "Rendered entirely with SVG — no HTML required",
+    "Top-aligned layout that auto-sizes to Web Viewer height",
+    "Perfect for displaying assignees, tags, avatars or status indicators"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}
