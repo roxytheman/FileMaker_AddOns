@@ -1,0 +1,16 @@
+﻿{
+    "Title": "datePicker",
+    "Description": "このカスタマイズ可能なカレンダーウィジェットでFileMaker Proで日付や日付範囲を簡単に選択できます jonni@me.com",
+    "Category": "JavaScript",
+    "Features": [
+        "単一日付と範囲選択モード",
+        "FileMakerから色、フォント、スケールを完全にカスタマイズ可能",
+        "デフォルトの日付を事前選択し、範囲を即座にハイライト表示",
+        "JavaScriptを使用してFileMakerスクリプトとシームレスに統合",
+        "FileMaker ProおよびWebDirectで動作",
+        "FileMakerソリューションでの日付フィルタリング、スケジューリング、データ入力に最適です"
+    ],
+    "Optimized": [
+        "デスクトップ", "タブレット", "モバイル", "WebDirect"
+    ]
+}

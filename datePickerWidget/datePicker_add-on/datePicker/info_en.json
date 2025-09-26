@@ -1,0 +1,16 @@
+﻿{
+    "Title": "datePicker",
+    "Description": "Effortlessly select single dates or date ranges with this customizable calendar widget designed for FileMaker Pro by jonni@me.com",
+    "Category": "JavaScript",
+    "Features": [
+        "Single and range date selection modes",
+        "Fully customizable colors, fonts, and scale from FileMaker",
+        "Preselect default dates and highlight the range immediately",
+        "Seamless integration with FileMaker scripts using JavaScript",
+        "Works in FileMaker Pro and WebDirect environments",
+        "Ideal for date filtering, scheduling, and data entry in FileMaker solutions"
+    ],
+    "Optimized": [
+        "Desktop", "Tablet", "Mobile", "WebDirect"
+    ]
+}

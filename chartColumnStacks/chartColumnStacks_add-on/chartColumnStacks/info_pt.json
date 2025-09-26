@@ -1,0 +1,13 @@
+﻿{
+  "Title": "ColumnStacksChart",
+  "Description": "Adicione colunas verticais múltiplas com este complemento SVG escalável para FileMaker Pro, por jonni@me.com",
+  "Category": "Interface do Usuário",
+  "Features": [
+    "Colunas verticais baseadas em intervalo e valor",
+    "Personalizável via JSON: cor, largura, alinhamento e extremidades",
+    "Renderização SVG dinâmica sem necessidade de plugins",
+    "Ideal para exibir métricas ou distribuições visuais",
+    "Compatível com o tamanho do Web Viewer"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

@@ -1,0 +1,16 @@
+﻿{
+    "Title": "datePicker",
+    "Description": "Sélectionnez facilement des dates uniques ou des plages de dates avec ce widget de calendrier personnalisable pour FileMaker Pro par jonni@me.com",
+    "Category": "JavaScript",
+    "Features": [
+        "Modes de sélection de date unique et de plage",
+        "Couleurs, polices et échelle entièrement personnalisables depuis FileMaker",
+        "Pré-sélectionnez des dates par défaut et mettez en surbrillance la plage immédiatement",
+        "Intégration transparente avec les scripts FileMaker via JavaScript",
+        "Fonctionne avec FileMaker Pro et WebDirect",
+        "Idéal pour le filtrage des dates, la planification et la saisie de données dans les solutions FileMaker"
+    ],
+    "Optimized": [
+        "Bureau", "Tablette", "Mobile", "WebDirect"
+    ]
+}

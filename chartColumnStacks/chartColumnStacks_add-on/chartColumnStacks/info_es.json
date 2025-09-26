@@ -1,0 +1,13 @@
+﻿{
+  "Title": "ColumnStacksChart",
+  "Description": "Representa barras verticales múltiples con este complemento SVG escalable y personalizable para FileMaker Pro de jonni@me.com",
+  "Category": "Interfaz de Usuario",
+  "Features": [
+    "Columnas verticales apiladas definidas por rango y valor",
+    "Personalización JSON de color, grosor, alineación y extremos",
+    "SVG dinámico sin complementos ni imágenes externas",
+    "Perfecto para mostrar distribución de progreso",
+    "Adaptable a tamaño del Web Viewer"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

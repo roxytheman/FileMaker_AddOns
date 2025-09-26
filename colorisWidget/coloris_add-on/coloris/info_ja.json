@@ -1,0 +1,17 @@
+﻿{
+	"Title" : "Coloris",
+
+	"Description" : "この FileMaker アドオンは、Coloris.js カラーピッカーを Web ビューアに統合し、ユーザーがスムーズなインターフェイスとカスタマイズ可能なスウォッチで色を選択できるようにします。",
+
+	"Category" : "JavaScript",
+
+	"Features" :
+		[
+			"colorpicker"
+		],
+
+	"Optimized" :
+		[
+			"Tablet", "Mobile", "Desktop"
+		]
+}

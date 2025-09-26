@@ -1,0 +1,987 @@
+﻿
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.00991E2BB79FD87E9E3BCA2E4AEE683A</StringID>
+	<SourceText>color</SourceText>
+	<TargetText>color</TargetText>
+	<Comment>com.fmi.calculation.text.color</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.06EEBD6F7BAD74D4DA4D2D1201C117C3</StringID>
+	<SourceText>columns[5]color</SourceText>
+	<TargetText>columns[5]color</TargetText>
+	<Comment>com.fmi.calculation.text.columns[5]color</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0C58CFE7EC618428F11E761F68584378</StringID>
+	<SourceText> Graph alignment [ left, center, right - or empty ]<CR/></SourceText>
+	<TargetText> Graph alignment [ left, center, right - or empty ]<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Graph alignment [ left, center, right - or empty ]_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0C6186AC5FB0DFA77B4F52BCDE865E90</StringID>
+	<SourceText> Customisable with JSON for appearance, padding, stroke, and alignment.<CR/></SourceText>
+	<TargetText> Customisable with JSON for appearance, padding, stroke, and alignment.<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Customisable with JSON for appearance, padding, stroke, and alignment._CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0ED571BE0B996ABD27836D0493F61BC0</StringID>
+	<SourceText> SVG structure<CR/></SourceText>
+	<TargetText> SVG structure<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. SVG structure_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0FB122270860D13374996F21902B49E2</StringID>
+	<SourceText>height</SourceText>
+	<TargetText>height</TargetText>
+	<Comment>com.fmi.calculation.text.height</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1045CAB688508D066D9D54E4E96967E1</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;min&quot; ; 0 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;min&quot; ; 0 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;min&quot; ; 0 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1631C943C7D01FB53BFE822ABC02973E</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;endCap&quot; ; &quot;round&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;endCap&quot; ; &quot;round&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;endCap&quot; ; &quot;round&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1BFD3D882830AFDBF0786F4E0AD96981</StringID>
+	<SourceText>color.foreground</SourceText>
+	<TargetText>color.foreground</TargetText>
+	<Comment>com.fmi.calculation.text.color.foreground</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.248F804C1DCA767BE04493F208A08A71</StringID>
+	<SourceText>value</SourceText>
+	<TargetText>value</TargetText>
+	<Comment>com.fmi.calculation.text.value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2ACBCDBBE2756BA6DB1839243819F6AC</StringID>
+	<SourceText> Data Array Example<CR/></SourceText>
+	<TargetText> Data Array Example<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Data Array Example_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2B6984065DE07A6CB127AD5D3A6C271C</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2D6F021C0E5EB972999F59B031E3E0EC</StringID>
+	<SourceText> Default space between columns<CR/></SourceText>
+	<TargetText> Default space between columns<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Default space between columns_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2F42FC9329AFFE93085A85D6500BDBB4</StringID>
+	<SourceText>color.background</SourceText>
+	<TargetText>color.background</TargetText>
+	<Comment>com.fmi.calculation.text.color.background</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.31330BE6160A6C29AF91E6D7AD142551</StringID>
+	<SourceText>defaultArray</SourceText>
+	<TargetText>defaultArray</TargetText>
+	<Comment>com.fmi.calculation.text.defaultArray</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.317F1BBFD52B7598CE7FD68780290032</StringID>
+	<SourceText>columns[4]value</SourceText>
+	<TargetText>columns[4]value</TargetText>
+	<Comment>com.fmi.calculation.text.columns[4]value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.37609A6A450C7B2738754FE4103F7576</StringID>
+	<SourceText>columns[3]cap</SourceText>
+	<TargetText>columns[3]cap</TargetText>
+	<Comment>com.fmi.calculation.text.columns[3]cap</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.38AC7DE741E05CBC1EC6BECD5C4A25B7</StringID>
+	<SourceText>stroke</SourceText>
+	<TargetText>stroke</TargetText>
+	<Comment>com.fmi.calculation.text.stroke</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3B817C97E2B27ED828C1B903A141D93E</StringID>
+	<SourceText>columns[2]cap</SourceText>
+	<TargetText>columns[2]cap</TargetText>
+	<Comment>com.fmi.calculation.text.columns[2]cap</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3B910F043FDDDCAFF7837F814AD59590</StringID>
+	<SourceText>max</SourceText>
+	<TargetText>max</TargetText>
+	<Comment>com.fmi.calculation.text.max</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3C2EC8F2B5F3E841D07A6354AD05377F</StringID>
+	<SourceText>dataArray</SourceText>
+	<TargetText>dataArray</TargetText>
+	<Comment>com.fmi.calculation.text.dataArray</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.454DD36B48548B80AA6CFC160CA3AF1A</StringID>
+	<SourceText>&apos; fill=&apos;</SourceText>
+	<TargetText>&apos; fill=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; fill=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.46FCBE13FEBEB8A36942A67CA6A2E669</StringID>
+	<SourceText>&lt;rect width=&apos;</SourceText>
+	<TargetText>&lt;rect width=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;rect width=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.477AF1FD5AAA79D640F9F90B48C4B58A</StringID>
+	<SourceText> Floor figure of graph<CR/></SourceText>
+	<TargetText> Floor figure of graph<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Floor figure of graph_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.482E7688EF258196EAB1187C40983202</StringID>
+	<SourceText>wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.calculation.text.wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.487BC337552D188F4450EA8053D823AA</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;max&quot; ; 50 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;max&quot; ; 50 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;max&quot; ; 50 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.49ABA915F64B4EECB097937932724B6B</StringID>
+	<SourceText> Ceiling figure of graph<CR/></SourceText>
+	<TargetText> Ceiling figure of graph<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Ceiling figure of graph_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4A105D1930CD8DC15ED5D4F2A4D4A1E1</StringID>
+	<SourceText> Each column can define its own height, stroke, color, and cap style, while shared defaults like padding, stroke width, <CR/></SourceText>
+	<TargetText> Each column can define its own height, stroke, color, and cap style, while shared defaults like padding, stroke width, <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Each column can define its own height, stroke, color, and cap style, while shared defaults like padding, stroke width, _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4A70FFFD7EF3B84FEACE65F46D2DB3DA</StringID>
+	<SourceText>columns[1]color</SourceText>
+	<TargetText>columns[1]color</TargetText>
+	<Comment>com.fmi.calculation.text.columns[1]color</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4B7D65141F62E1F012312F30E349EFE9</StringID>
+	<SourceText>columns</SourceText>
+	<TargetText>columns</TargetText>
+	<Comment>com.fmi.calculation.text.columns</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.58016D7BE48826BF7888E410F9BBDA05</StringID>
+	<SourceText>targetWebViewer</SourceText>
+	<TargetText>targetWebViewer</TargetText>
+	<Comment>com.fmi.calculation.text.targetWebViewer</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.58DD63B27553509848ADB270CD783606</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[:]cap&quot; ; &quot;&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[:]cap&quot; ; &quot;&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[:]cap&quot; ; &quot;&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5ABDBB39D1F9C589030E34ABCDC03A10</StringID>
+	<SourceText>Web</SourceText>
+	<TargetText>Web</TargetText>
+	<Comment>com.fmi.calculation.text.Web</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5D362105D954A667BCED9915DE0F0BC5</StringID>
+	<SourceText>#CB4400</SourceText>
+	<TargetText>#CB4400</TargetText>
+	<Comment>com.fmi.calculation.text.#CB4400</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5D3B8CC8AB6EE3980B6A3377B3998A6E</StringID>
+	<SourceText> Function Name : chartColumnStacks<CR/></SourceText>
+	<TargetText> Function Name : chartColumnStacks<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Function Name : chartColumnStacks_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5DF961979BCF99311F24F8E976EE5CA0</StringID>
+	<SourceText>&apos; y=&apos;</SourceText>
+	<TargetText>&apos; y=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; y=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5ECC3EB33393ED9847AD80E59BDDDBCC</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;stroke&quot; ; 20 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;stroke&quot; ; 20 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;stroke&quot; ; 20 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5FB07D5203EA4B6D483FA572E55D9290</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.60A16F993504ECDAA0F15932C07DC519</StringID>
+	<SourceText> Column default thickness<CR/></SourceText>
+	<TargetText> Column default thickness<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Column default thickness_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.62C78CEFEF898054DCA8A72212798023</StringID>
+	<SourceText>columns[2]value</SourceText>
+	<TargetText>columns[2]value</TargetText>
+	<Comment>com.fmi.calculation.text.columns[2]value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.637EE3251F002A514A48EC4AA23D7968</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6CF81005F0AECCD264B96C503C019529</StringID>
+	<SourceText>columns[1]value</SourceText>
+	<TargetText>columns[1]value</TargetText>
+	<Comment>com.fmi.calculation.text.columns[1]value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6ED8E1E5982D593CE8E163D319663531</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 45 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 45 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[+]value&quot; ; 45 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6FFED7F7A4A4F257B519AA994CF33BE4</StringID>
+	<SourceText> Column Stacks Chart is a stacked column chart widget for FileMaker layouts, styled and rendered using scalable SVG. <CR/></SourceText>
+	<TargetText> Column Stacks Chart is a stacked column chart widget for FileMaker layouts, styled and rendered using scalable SVG. <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Column Stacks Chart is a stacked column chart widget for FileMaker layouts, styled and rendered using scalable SVG. _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.778CA55E2478E6A387DF0DCC5380F0A7</StringID>
+	<SourceText>padding</SourceText>
+	<TargetText>padding</TargetText>
+	<Comment>com.fmi.calculation.text.padding</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.789F364FC0AF60F10035779C5585EC68</StringID>
+	<SourceText>min</SourceText>
+	<TargetText>min</TargetText>
+	<Comment>com.fmi.calculation.text.min</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.79DAFBA321E8084042069E25AD389EF2</StringID>
+	<SourceText>&lt;/svg&gt;</SourceText>
+	<TargetText>&lt;/svg&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;/svg&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.7A4C2F23EEC4928791A8C006CE83E1AF</StringID>
+	<SourceText>right</SourceText>
+	<TargetText>right</TargetText>
+	<Comment>com.fmi.calculation.text.right</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.7C7A6928C27D3FC2D1C3FBB8EAFA626B</StringID>
+	<SourceText> Draws stacked vertical columns based on range and value input using SVG. <CR/></SourceText>
+	<TargetText> Draws stacked vertical columns based on range and value input using SVG. <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Draws stacked vertical columns based on range and value input using SVG. _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.7C831DA0233DCC35CBC52C029D5A4ACD</StringID>
+	<SourceText>&apos; rx=&apos;</SourceText>
+	<TargetText>&apos; rx=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; rx=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.7EBF2D84CB6E95D3BB18BCF317AAAAB7</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 15 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 15 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[+]value&quot; ; 15 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.808DCADE1E9BA91875DA4CE84F945703</StringID>
+	<SourceText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; style=&apos;width:100%;height:100%;&apos; viewBox=&apos;0 0 </SourceText>
+	<TargetText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; style=&apos;width:100%;height:100%;&apos; viewBox=&apos;0 0 </TargetText>
+	<Comment>com.fmi.calculation.text.&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; style=&apos;width:100%;height:100%;&apos; viewBox=&apos;0 0</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.817723C7266D138CA9B2FECF1295AF04</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[:]cap&quot; ; &quot;square&quot; ; 1 ]  ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[:]cap&quot; ; &quot;square&quot; ; 1 ]  ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[:]cap&quot; ; &quot;square&quot; ; 1 ]  ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.819C10963D89B5F28A7AC2C8BC4EF7A8</StringID>
+	<SourceText>columns[5]value</SourceText>
+	<TargetText>columns[5]value</TargetText>
+	<Comment>com.fmi.calculation.text.columns[5]value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.81DBB097BD91BDD58AC976DAC49C38AF</StringID>
+	<SourceText>&apos; height=&apos;</SourceText>
+	<TargetText>&apos; height=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; height=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.83250D3BF61B31A99757356A9123C63F</StringID>
+	<SourceText>&lt;html&gt;<CR/><TAB/><TAB/><TAB/>&lt;meta name=&apos;viewport&apos; content=&apos;width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no&apos;&gt;<CR/><TAB/><TAB/><TAB/>&lt;body style=&apos;margin:0;padding:0;background:</SourceText>
+	<TargetText>&lt;html&gt;<CR/><TAB/><TAB/><TAB/>&lt;meta name=&apos;viewport&apos; content=&apos;width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no&apos;&gt;<CR/><TAB/><TAB/><TAB/>&lt;body style=&apos;margin:0;padding:0;background:</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;html&gt;_CR/__TAB/__TAB/__TAB/_&lt;meta name=&apos;viewport&apos; content=&apos;width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no&apos;&gt;_CR/__TAB/__TAB/__TAB/_&lt;body style=&apos;margin:0;padding:0;background:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.83B28AC97AEFFA13161A0AB2805CEF71</StringID>
+	<SourceText> Use example : chartColumnStacks ( 400 ; 400 ; $defaultArray ; $dataArray )<CR/></SourceText>
+	<TargetText> Use example : chartColumnStacks ( 400 ; 400 ; $defaultArray ; $dataArray )<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Use example : chartColumnStacks ( 400 ; 400 ; $defaultArray ; $dataArray )_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.83FE6AE161795FB137BD51C72D6DBC01</StringID>
+	<SourceText>center</SourceText>
+	<TargetText>center</TargetText>
+	<Comment>com.fmi.calculation.text.center</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.842CFAD84AA1D978765790F34764AF7D</StringID>
+	<SourceText> Widget&apos;s default background colour<CR/></SourceText>
+	<TargetText> Widget&apos;s default background colour<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Widget&apos;s default background colour_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.87FDD5A88AB827826251480DA7121603</StringID>
+	<SourceText>#CCCCCC</SourceText>
+	<TargetText>#CCCCCC</TargetText>
+	<Comment>com.fmi.calculation.text.#CCCCCC</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8FDA0BAC1C5000F636F4F4AD78090CF7</StringID>
+	<SourceText>columns[</SourceText>
+	<TargetText>columns[</TargetText>
+	<Comment>com.fmi.calculation.text.columns[</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8FF99D9FDEBF58A6A4E816E4C438F84F</StringID>
+	<SourceText> COLUMN STACKS CHART<CR/></SourceText>
+	<TargetText> COLUMN STACKS CHART<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. COLUMN STACKS CHART_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9286618FE0B2C104A3FBBEC4C6CD20A4</StringID>
+	<SourceText> </SourceText>
+	<TargetText> </TargetText>
+	<Comment>com.fmi.calculation.text.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.94FD8D617EAB602679355DCE7C25A50D</StringID>
+	<SourceText><TAB/>JSONSetElement ( &quot;&quot; ; <CR/></SourceText>
+	<TargetText><TAB/>JSONSetElement ( &quot;&quot; ; <CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/_JSONSetElement ( &quot;&quot; ; _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.95F3A1BA77DCC738C7E9FE1293716F1F</StringID>
+	<SourceText> BD Link : https://www.briandunning.com/cf/2810<CR/></SourceText>
+	<TargetText> BD Link : https://www.briandunning.com/cf/2810<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. BD Link : https://www.briandunning.com/cf/2810_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9AE54AF42689B84A7B5C924E5B3D4E69</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 25 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 25 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[+]value&quot; ; 25 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9D4C16629845041208A05ED24CD782D5</StringID>
+	<SourceText>columns[0]stroke</SourceText>
+	<TargetText>columns[0]stroke</TargetText>
+	<Comment>com.fmi.calculation.text.columns[0]stroke</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9F7A012CA139836D7986C4EEB9780E92</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[:]stroke&quot; ; 10 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[:]stroke&quot; ; 10 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[:]stroke&quot; ; 10 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A5370BF92F9C7349B3C59144523564F8</StringID>
+	<SourceText> Columns default column colour<CR/></SourceText>
+	<TargetText> Columns default column colour<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Columns default column colour_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A5FE43EA961286412DF811724BD8BD24</StringID>
+	<SourceText>columns[3]stroke</SourceText>
+	<TargetText>columns[3]stroke</TargetText>
+	<Comment>com.fmi.calculation.text.columns[3]stroke</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A730DDAEC7868992541CA842D3FEC3D8</StringID>
+	<SourceText>columns[0]color</SourceText>
+	<TargetText>columns[0]color</TargetText>
+	<Comment>com.fmi.calculation.text.columns[0]color</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A8BE78BEC41FC3A8084594FE323D6F0A</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 22 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 22 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[+]value&quot; ; 22 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AC8CEB2F62AA3BF1228B4E29FC41CC8C</StringID>
+	<SourceText>columns[5]cap</SourceText>
+	<TargetText>columns[5]cap</TargetText>
+	<Comment>com.fmi.calculation.text.columns[5]cap</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AE4671075E3CE0301009571A5314C713</StringID>
+	<SourceText>&apos; width=&apos;</SourceText>
+	<TargetText>&apos; width=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; width=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AF00F351C15C4CFED6996E8722B2DF55</StringID>
+	<SourceText>width</SourceText>
+	<TargetText>width</TargetText>
+	<Comment>com.fmi.calculation.text.width</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AFC7C7EAF2FE1BFBCA5B53E57FC35D7D</StringID>
+	<SourceText>background.fill</SourceText>
+	<TargetText>background.fill</TargetText>
+	<Comment>com.fmi.calculation.text.background.fill</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B0FF5FB12BBC97BAF49DC09388F82E04</StringID>
+	<SourceText>data:text/html,</SourceText>
+	<TargetText>data:text/html,</TargetText>
+	<Comment>com.fmi.calculation.text.data:text/html,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B382B0428537C826C523549AE210EF0D</StringID>
+	<SourceText>columns[0]cap</SourceText>
+	<TargetText>columns[0]cap</TargetText>
+	<Comment>com.fmi.calculation.text.columns[0]cap</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B3EA220BED6DF567CD817C838403821E</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;align&quot; ; &quot;center&quot; ; 1 ]<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;align&quot; ; &quot;center&quot; ; 1 ]<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;align&quot; ; &quot;center&quot; ; 1 ]_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B4BF536D781343D2808C1C47D4256EC3</StringID>
+	<SourceText> Note : See structure and syntax for defaultArray and dataArray below<CR/></SourceText>
+	<TargetText> Note : See structure and syntax for defaultArray and dataArray below<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Note : See structure and syntax for defaultArray and dataArray below_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B613EA7ED210F1B43EB9CF2D7C456F36</StringID>
+	<SourceText>data:image/svg+xml;base64,</SourceText>
+	<TargetText>data:image/svg+xml;base64,</TargetText>
+	<Comment>com.fmi.calculation.text.data:image/svg+xml;base64,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B66267025C280ACED81945B735623E12</StringID>
+	<SourceText> and background fill are set centrally. Columns align left, center, or right based on layout needs. Perfect for <CR/></SourceText>
+	<TargetText> and background fill are set centrally. Columns align left, center, or right based on layout needs. Perfect for <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. and background fill are set centrally. Columns align left, center, or right based on layout needs. Perfect for _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BA768046D8E68FD3AC95EE6245C19B87</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 30 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 30 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[+]value&quot; ; 30 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BB745AB23A89313EE2D52BB59BAD35D0</StringID>
+	<SourceText>columns[0]value</SourceText>
+	<TargetText>columns[0]value</TargetText>
+	<Comment>com.fmi.calculation.text.columns[0]value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BBB71BE88C53A02CCAA1E84677E66289</StringID>
+	<SourceText>&apos; /&gt;</SourceText>
+	<TargetText>&apos; /&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; /&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BF11C5445C1E403338578A2F7A53B417</StringID>
+	<SourceText> Column override colour<CR/></SourceText>
+	<TargetText> Column override colour<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Column override colour_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C256901C54666874E612B583C084F2DA</StringID>
+	<SourceText> Columns<CR/></SourceText>
+	<TargetText> Columns<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Columns_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C32332D3A76B3C07F3CD195ED13DB43E</StringID>
+	<SourceText>round</SourceText>
+	<TargetText>round</TargetText>
+	<Comment>com.fmi.calculation.text.round</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C50FCD6315B2154FFAA2AF0538E31CD0</StringID>
+	<SourceText>endCap</SourceText>
+	<TargetText>endCap</TargetText>
+	<Comment>com.fmi.calculation.text.endCap</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C6BD61A5F0700FA5777CB2BEC13B46DE</StringID>
+	<SourceText>&lt;/body&gt;&lt;/html&gt;</SourceText>
+	<TargetText>&lt;/body&gt;&lt;/html&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;/body&gt;&lt;/html&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C82C9199005E2B454EE00A313DE0A02D</StringID>
+	<SourceText><TAB/>)<CR/></SourceText>
+	<TargetText><TAB/>)<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/_)_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C8303CD40D1E381C7BDD3EF0ECE6B61D</StringID>
+	<SourceText>cap</SourceText>
+	<TargetText>cap</TargetText>
+	<Comment>com.fmi.calculation.text.cap</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C90EE444ACF31F959B4BC8E9B36828CA</StringID>
+	<SourceText>#FFFFFF</SourceText>
+	<TargetText>#FFFFFF</TargetText>
+	<Comment>com.fmi.calculation.text.#FFFFFF</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CA4F9A50B021896DC8D17D6BFB0255C7</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 32 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[+]value&quot; ; 32 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[+]value&quot; ; 32 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CB74A79CABB78BEA3635AA5AEEA57157</StringID>
+	<SourceText>columns[3]color</SourceText>
+	<TargetText>columns[3]color</TargetText>
+	<Comment>com.fmi.calculation.text.columns[3]color</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CB7A68C052A68EB1007EF58A3D7CB772</StringID>
+	<SourceText>&apos;&gt;</SourceText>
+	<TargetText>&apos;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CDF2272932810A811B03A6EC3BDE90BF</StringID>
+	<SourceText>data:image/svg+xml;utf8,</SourceText>
+	<TargetText>data:image/svg+xml;utf8,</TargetText>
+	<Comment>com.fmi.calculation.text.data:image/svg+xml;utf8,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D0393F39CD9C4C4BA85511D03B8CDE1C</StringID>
+	<SourceText> Written by: jonni@me.com<CR/></SourceText>
+	<TargetText> Written by: jonni@me.com<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Written by: jonni@me.com_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D0A7D0325D15B344CDA64869596E98E7</StringID>
+	<SourceText>&apos; preserveAspectRatio=&apos;xMidYMid meet&apos;&gt;</SourceText>
+	<TargetText>&apos; preserveAspectRatio=&apos;xMidYMid meet&apos;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; preserveAspectRatio=&apos;xMidYMid meet&apos;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D368224758B103B0BB2EFF5175339335</StringID>
+	<SourceText>]</SourceText>
+	<TargetText>]</TargetText>
+	<Comment>com.fmi.calculation.text.]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D7C21139A7CC6BD5463FA37026975A9F</StringID>
+	<SourceText>columns[2]color</SourceText>
+	<TargetText>columns[2]color</TargetText>
+	<Comment>com.fmi.calculation.text.columns[2]color</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D94213CDA680E561A85915BE4AD2E808</StringID>
+	<SourceText> Columns default background colour<CR/></SourceText>
+	<TargetText> Columns default background colour<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Columns default background colour_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D95AFD2AB6EC354310928210C8961830</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[:]stroke&quot; ; 18 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[:]stroke&quot; ; 18 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[:]stroke&quot; ; 18 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DABFD27173C21E478BB227F2E919F378</StringID>
+	<SourceText> V 1.0</SourceText>
+	<TargetText> V 1.0</TargetText>
+	<Comment>com.fmi.calculation.text. V 1.0</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DCE846DE76478C82F9CD90B3BC71F462</StringID>
+	<SourceText>columns[3]value</SourceText>
+	<TargetText>columns[3]value</TargetText>
+	<Comment>com.fmi.calculation.text.columns[3]value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E0ECE08AC543EE713C8A3805E3EB77A4</StringID>
+	<SourceText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0 </SourceText>
+	<TargetText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0 </TargetText>
+	<Comment>com.fmi.calculation.text.&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E211737A5DE9120BF4C6C5E39FB3F92A</StringID>
+	<SourceText> Default Array Example<CR/></SourceText>
+	<TargetText> Default Array Example<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Default Array Example_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E493454F7221548459F0EFB4B5F052DA</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E5E4F933C80E03DE02C93EF0AB8B8379</StringID>
+	<SourceText>&lt;rect x=&apos;</SourceText>
+	<TargetText>&lt;rect x=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;rect x=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E5E51B7D0584B74FA19093FE730FE03B</StringID>
+	<SourceText>#F4511E</SourceText>
+	<TargetText>#F4511E</TargetText>
+	<Comment>com.fmi.calculation.text.#F4511E</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E6FDBF725D43CBAA0C95AEFC2CA2107B</StringID>
+	<SourceText> Column override cap style [ round, butt, square - or empty ]<CR/></SourceText>
+	<TargetText> Column override cap style [ round, butt, square - or empty ]<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Column override cap style [ round, butt, square - or empty ]_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E94E3FFF1D578572AA2C0D0DBEE6F590</StringID>
+	<SourceText> Defaults<CR/></SourceText>
+	<TargetText> Defaults<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Defaults_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EA65264728A18C2F301DC7938B18A1DA</StringID>
+	<SourceText> Column override stroke / thickness<CR/></SourceText>
+	<TargetText> Column override stroke / thickness<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Column override stroke / thickness_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EBAF886AB268AE018D49D4060D3C28A1</StringID>
+	<SourceText> End cap style [ round, butt, square - or empty ]<CR/></SourceText>
+	<TargetText> End cap style [ round, butt, square - or empty ]<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. End cap style [ round, butt, square - or empty ]_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EE50057C1B752BE8CCFCD0BD5A0D8245</StringID>
+	<SourceText> GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/73748a1616e122a06df61c8d5c6df0630fab85b6/functions/chartColumnStacks.fmfn<CR/></SourceText>
+	<TargetText> GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/73748a1616e122a06df61c8d5c6df0630fab85b6/functions/chartColumnStacks.fmfn<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/73748a1616e122a06df61c8d5c6df0630fab85b6/functions/chartColumnStacks.fmfn_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EECE2E542B0CDCE586A27B7931BA8BF0</StringID>
+	<SourceText>¶</SourceText>
+	<TargetText>¶</TargetText>
+	<Comment>com.fmi.calculation.text.¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F03BCCFC1504A3F606F863D7F60E5977</StringID>
+	<SourceText> Column value ( full value will be rendered in relation of floor and ceiling )<CR/></SourceText>
+	<TargetText> Column value ( full value will be rendered in relation of floor and ceiling )<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Column value ( full value will be rendered in relation of floor and ceiling )_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F58F3F17F867E6A67B5990E5E889157C</StringID>
+	<SourceText> Parameters : width ; height ; defaultArray ; dataArray<CR/></SourceText>
+	<TargetText> Parameters : width ; height ; defaultArray ; dataArray<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Parameters : width ; height ; defaultArray ; dataArray_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F6E0E68C89C62E47E1D85930F53EF2BF</StringID>
+	<SourceText> visualising multi-part progress or distribution metrics. Optimised for FileMaker Pro, Go, and WebDirect.<CR/></SourceText>
+	<TargetText> visualising multi-part progress or distribution metrics. Optimised for FileMaker Pro, Go, and WebDirect.<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. visualising multi-part progress or distribution metrics. Optimised for FileMaker Pro, Go, and WebDirect._CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F71476FD34E427D4B24B3819A95C0481</StringID>
+	<SourceText> Layout<CR/></SourceText>
+	<TargetText> Layout<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Layout_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F724F6547F2F470B7D8C28BF1CD63C7D</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;padding&quot; ; 10 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;padding&quot; ; 10 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;padding&quot; ; 10 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FD174C12B519A39AF5C5EA33268BAFF2</StringID>
+	<SourceText>align</SourceText>
+	<TargetText>align</TargetText>
+	<Comment>com.fmi.calculation.text.align</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FD54683CDC641B21B0A7253A663E6FA3</StringID>
+	<SourceText>&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</SourceText>
+	<TargetText>&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FD7B53E8302459B50DE7E99F86F49EF7</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;columns[:]cap&quot; ; &quot;&quot; ; 1 ] <CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;columns[:]cap&quot; ; &quot;&quot; ; 1 ] <CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;columns[:]cap&quot; ; &quot;&quot; ; 1 ] _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FE27849EC792779DB6283E9A9BCBF2CF</StringID>
+	<SourceText>columns[4]color</SourceText>
+	<TargetText>columns[4]color</TargetText>
+	<Comment>com.fmi.calculation.text.columns[4]color</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FFA98F4239D444B249AC29301A86553B</StringID>
+	<SourceText>;&apos;&gt;</SourceText>
+	<TargetText>;&apos;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.;&apos;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.482E7688EF258196EAB1187C40983202</StringID>
+	<SourceText>wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.layoutobject.wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.E9289BF82956411F2E51B412C23DFB94</StringID>
+	<SourceText>chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.layoutobject.chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.ED1A13BE0726148093B8BCE070C520BE</StringID>
+	<SourceText>setColumnStacksChart</SourceText>
+	<TargetText>setColumnStacksChart</TargetText>
+	<Comment>com.fmi.script.setColumnStacksChart</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.B5F7192E40CFFAFA9A273D2E1BC97ECD</StringID>
+	<SourceText>ColumnStacksChart</SourceText>
+	<TargetText>ColumnStacksChart</TargetText>
+	<Comment>com.fmi.script.folder.ColumnStacksChart</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.111839C0417DE18B8CF74F955F50BD29</StringID>
+	<SourceText>Dependencies: <TAB/><TAB/>Script Parameter Payload</SourceText>
+	<TargetText>Dependencies: <TAB/><TAB/>Script Parameter Payload</TargetText>
+	<Comment>com.fmi.scriptstep.text.Dependencies: _TAB/__TAB/_Script Parameter Payload</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.6E93D27030534AD82F0364250B306C64</StringID>
+	<SourceText>Subscripts Called: <TAB/>None</SourceText>
+	<TargetText>Subscripts Called: <TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Subscripts Called: _TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7C4D22BEA4B93DC796F1B01B99B4FFBE</StringID>
+	<SourceText>Written on 07.05.2025 |  Updated: 00.00.0000  | Valid: Yes  |  By: jonni@me.com</SourceText>
+	<TargetText>Written on 07.05.2025 |  Updated: 00.00.0000  | Valid: Yes  |  By: jonni@me.com</TargetText>
+	<Comment>com.fmi.scriptstep.text.Written on 07.05.2025 |  Updated: 00.00.0000  | Valid: Yes  |  By: jonni@me.com</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.92BE465ADCBC089039E4C575698EC422</StringID>
+	<SourceText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;<CR/><TAB/>[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.min&quot; ; 0 ; 2 ] ; // Floor figure of graph<CR/><TAB/>[ &quot;defaultArray.max&quot; ; 50 ; 2 ] ; // Ceiling figure of graph<CR/><TAB/>[ &quot;defaultArray.padding&quot; ; 10 ; 2 ] ; // Default space between columns<CR/><TAB/>[ &quot;defaultArray.stroke&quot; ; 20 ; 2 ] ; // Column default thickness<CR/><TAB/>[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]<CR/><TAB/>[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour<CR/><TAB/>[ &quot;defaultArray.color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ; // Columns default background colour<CR/><TAB/>[ &quot;defaultArray.color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ; // Columns default column colour<CR/><TAB/>[ &quot;defaultArray.align&quot; ; &quot;center&quot; ; 1 ] // Graph alignment [ left, center, right - or empty ]<CR/><CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 30 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[:]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness<CR/><TAB/>[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 25 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/>  <CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 45 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ]  ; // Column override cap style [ round, butt, square - or empty ]<CR/><CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 15 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[:]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness<CR/><TAB/>[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 32 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/>  <CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 22 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ]  // Column override cap style [ round, butt, square - or empty ]<CR/><CR/>)<CR/><CR/>or<CR/><CR/>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;<CR/><TAB/>[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.min&quot; ; 0 ; 2 ] ; // Floor figure of graph<CR/><TAB/>[ &quot;defaultArray.max&quot; ; 50 ; 2 ] ; // Ceiling figure of graph<CR/><TAB/>[ &quot;defaultArray.padding&quot; ; 10 ; 2 ] ; // Default space between columns<CR/><TAB/>[ &quot;defaultArray.stroke&quot; ; 20 ; 2 ] ; // Column default thickness<CR/><TAB/>[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]<CR/><TAB/>[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour<CR/><TAB/>[ &quot;defaultArray.color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ; // Columns default background colour<CR/><TAB/>[ &quot;defaultArray.color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ; // Columns default column colour<CR/><TAB/>[ &quot;defaultArray.align&quot; ; &quot;center&quot; ; 1 ] // Graph alignment [ left, center, right - or empty ]<CR/><CR/><TAB/>[ &quot;dataArray.columns[0]value&quot; ; 30 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[0]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[0]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness<CR/><TAB/>[ &quot;dataArray.columns[0]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.columns[1]value&quot; ; 25 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[1]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/>  <CR/><TAB/>[ &quot;dataArray.columns[2]value&quot; ; 45 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[2]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[2]cap&quot; ; &quot;&quot; ; 1 ]  ; // Column override cap style [ round, butt, square - or empty ]<CR/><CR/><TAB/>[ &quot;dataArray.columns[3]value&quot; ; 15 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[3]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[3]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness<CR/><TAB/>[ &quot;dataArray.columns[3]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.columns[4]value&quot; ; 32 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[4]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/>  <CR/><TAB/>[ &quot;dataArray.columns[5]value&quot; ; 22 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[5]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[5]cap&quot; ; &quot;&quot; ; 1 ]  // Column override cap style [ round, butt, square - or empty ]<CR/><CR/>)</SourceText>
+	<TargetText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;<CR/><TAB/>[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.min&quot; ; 0 ; 2 ] ; // Floor figure of graph<CR/><TAB/>[ &quot;defaultArray.max&quot; ; 50 ; 2 ] ; // Ceiling figure of graph<CR/><TAB/>[ &quot;defaultArray.padding&quot; ; 10 ; 2 ] ; // Default space between columns<CR/><TAB/>[ &quot;defaultArray.stroke&quot; ; 20 ; 2 ] ; // Column default thickness<CR/><TAB/>[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]<CR/><TAB/>[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour<CR/><TAB/>[ &quot;defaultArray.color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ; // Columns default background colour<CR/><TAB/>[ &quot;defaultArray.color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ; // Columns default column colour<CR/><TAB/>[ &quot;defaultArray.align&quot; ; &quot;center&quot; ; 1 ] // Graph alignment [ left, center, right - or empty ]<CR/><CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 30 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[:]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness<CR/><TAB/>[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 25 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/>  <CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 45 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ]  ; // Column override cap style [ round, butt, square - or empty ]<CR/><CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 15 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[:]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness<CR/><TAB/>[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 32 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/>  <CR/><TAB/>[ &quot;dataArray.columns[+]value&quot; ; 22 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ]  // Column override cap style [ round, butt, square - or empty ]<CR/><CR/>)<CR/><CR/>or<CR/><CR/>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;<CR/><TAB/>[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.min&quot; ; 0 ; 2 ] ; // Floor figure of graph<CR/><TAB/>[ &quot;defaultArray.max&quot; ; 50 ; 2 ] ; // Ceiling figure of graph<CR/><TAB/>[ &quot;defaultArray.padding&quot; ; 10 ; 2 ] ; // Default space between columns<CR/><TAB/>[ &quot;defaultArray.stroke&quot; ; 20 ; 2 ] ; // Column default thickness<CR/><TAB/>[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]<CR/><TAB/>[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour<CR/><TAB/>[ &quot;defaultArray.color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ; // Columns default background colour<CR/><TAB/>[ &quot;defaultArray.color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ; // Columns default column colour<CR/><TAB/>[ &quot;defaultArray.align&quot; ; &quot;center&quot; ; 1 ] // Graph alignment [ left, center, right - or empty ]<CR/><CR/><TAB/>[ &quot;dataArray.columns[0]value&quot; ; 30 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[0]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[0]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness<CR/><TAB/>[ &quot;dataArray.columns[0]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.columns[1]value&quot; ; 25 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[1]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/>  <CR/><TAB/>[ &quot;dataArray.columns[2]value&quot; ; 45 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[2]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[2]cap&quot; ; &quot;&quot; ; 1 ]  ; // Column override cap style [ round, butt, square - or empty ]<CR/><CR/><TAB/>[ &quot;dataArray.columns[3]value&quot; ; 15 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[3]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[3]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness<CR/><TAB/>[ &quot;dataArray.columns[3]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.columns[4]value&quot; ; 32 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[4]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/>  <CR/><TAB/>[ &quot;dataArray.columns[5]value&quot; ; 22 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.columns[5]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour<CR/><TAB/>[ &quot;dataArray.columns[5]cap&quot; ; &quot;&quot; ; 1 ]  // Column override cap style [ round, butt, square - or empty ]<CR/><CR/>)</TargetText>
+	<Comment>com.fmi.scriptstep.text.JSONSetElement ( &quot;&quot; ; _CR/__CR/__TAB/_[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;_CR/__CR/__TAB/_[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;_CR/__TAB/_[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;_CR/__CR/__TAB/_[ &quot;defaultArray.min&quot; ; 0 ; 2 ] ; // Floor figure of graph_CR/__TAB/_[ &quot;defaultArray.max&quot; ; 50 ; 2 ] ; // Ceiling figure of graph_CR/__TAB/_[ &quot;defaultArray.padding&quot; ; 10 ; 2 ] ; // Default space between columns_CR/__TAB/_[ &quot;defaultArray.stroke&quot; ; 20 ; 2 ] ; // Column default thickness_CR/__TAB/_[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]_CR/__TAB/_[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour_CR/__TAB/_[ &quot;defaultArray.color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ; // Columns default background colour_CR/__TAB/_[ &quot;defaultArray.color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ; // Columns default column colour_CR/__TAB/_[ &quot;defaultArray.align&quot; ; &quot;center&quot; ; 1 ] // Graph alignment [ left, center, right - or empty ]_CR/__CR/__TAB/_[ &quot;dataArray.columns[+]value&quot; ; 30 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/__TAB/_[ &quot;dataArray.columns[:]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness_CR/__TAB/_[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]_CR/__TAB/__CR/__TAB/_[ &quot;dataArray.columns[+]value&quot; ; 25 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/_  _CR/__TAB/_[ &quot;dataArray.columns[+]value&quot; ; 45 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/__TAB/_[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ]  ; // Column override cap style [ round, butt, square - or empty ]_CR/__CR/__TAB/_[ &quot;dataArray.columns[+]value&quot; ; 15 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/__TAB/_[ &quot;dataArray.columns[:]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness_CR/__TAB/_[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]_CR/__TAB/__CR/__TAB/_[ &quot;dataArray.columns[+]value&quot; ; 32 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/_  _CR/__TAB/_[ &quot;dataArray.columns[+]value&quot; ; 22 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[:]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/__TAB/_[ &quot;dataArray.columns[:]cap&quot; ; &quot;&quot; ; 1 ]  // Column override cap style [ round, butt, square - or empty ]_CR/__CR/_)_CR/__CR/_or_CR/__CR/_JSONSetElement ( &quot;&quot; ; _CR/__CR/__TAB/_[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;_CR/__CR/__TAB/_[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;_CR/__TAB/_[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;_CR/__CR/__TAB/_[ &quot;defaultArray.min&quot; ; 0 ; 2 ] ; // Floor figure of graph_CR/__TAB/_[ &quot;defaultArray.max&quot; ; 50 ; 2 ] ; // Ceiling figure of graph_CR/__TAB/_[ &quot;defaultArray.padding&quot; ; 10 ; 2 ] ; // Default space between columns_CR/__TAB/_[ &quot;defaultArray.stroke&quot; ; 20 ; 2 ] ; // Column default thickness_CR/__TAB/_[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]_CR/__TAB/_[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour_CR/__TAB/_[ &quot;defaultArray.color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ; // Columns default background colour_CR/__TAB/_[ &quot;defaultArray.color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ; // Columns default column colour_CR/__TAB/_[ &quot;defaultArray.align&quot; ; &quot;center&quot; ; 1 ] // Graph alignment [ left, center, right - or empty ]_CR/__CR/__TAB/_[ &quot;dataArray.columns[0]value&quot; ; 30 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[0]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/__TAB/_[ &quot;dataArray.columns[0]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness_CR/__TAB/_[ &quot;dataArray.columns[0]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]_CR/__TAB/__CR/__TAB/_[ &quot;dataArray.columns[1]value&quot; ; 25 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[1]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/_  _CR/__TAB/_[ &quot;dataArray.columns[2]value&quot; ; 45 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[2]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/__TAB/_[ &quot;dataArray.columns[2]cap&quot; ; &quot;&quot; ; 1 ]  ; // Column override cap style [ round, butt, square - or empty ]_CR/__CR/__TAB/_[ &quot;dataArray.columns[3]value&quot; ; 15 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[3]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/__TAB/_[ &quot;dataArray.columns[3]stroke&quot; ; 18 ; 2 ] ; // Column override stroke / thickness_CR/__TAB/_[ &quot;dataArray.columns[3]cap&quot; ; &quot;&quot; ; 1 ] ; // Column override cap style [ round, butt, square - or empty ]_CR/__TAB/__CR/__TAB/_[ &quot;dataArray.columns[4]value&quot; ; 32 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[4]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/_  _CR/__TAB/_[ &quot;dataArray.columns[5]value&quot; ; 22 ; 2 ] ; // Column value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.columns[5]color&quot; ; &quot;#F4511E&quot; ; 1 ] ; // Column override colour_CR/__TAB/_[ &quot;dataArray.columns[5]cap&quot; ; &quot;&quot; ; 1 ]  // Column override cap style [ round, butt, square - or empty ]_CR/__CR/_)</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.ABA09ABEAE968FCB2D7635E45EE3A6A6</StringID>
+	<SourceText>Scripts Called: <TAB/><TAB/>None</SourceText>
+	<TargetText>Scripts Called: <TAB/><TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Scripts Called: _TAB/__TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CB87947309AB5F37D3BE5793993ADBCD</StringID>
+	<SourceText>SET PROGRESS COLUMN STACKS CHART </SourceText>
+	<TargetText>SET PROGRESS COLUMN STACKS CHART </TargetText>
+	<Comment>com.fmi.scriptstep.text.SET PROGRESS COLUMN STACKS CHART</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CDFDD882E2FC15C7EB360422FE24AC03</StringID>
+	<SourceText>++++++++++++++++++++++++++++++++++++++++++++++++</SourceText>
+	<TargetText>++++++++++++++++++++++++++++++++++++++++++++++++</TargetText>
+	<Comment>com.fmi.scriptstep.text.++++++++++++++++++++++++++++++++++++++++++++++++</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D129570CB279FF510C8A67E223CC63A5</StringID>
+	<SourceText>Compatibility: <TAB/><TAB/>FileMaker 18+</SourceText>
+	<TargetText>Compatibility: <TAB/><TAB/>FileMaker 18+</TargetText>
+	<Comment>com.fmi.scriptstep.text.Compatibility: _TAB/__TAB/_FileMaker 18+</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.E9F886B04A084FD7228EF2E0BC9822E7</StringID>
+	<SourceText>Activation: <TAB/><TAB/><TAB/>User action, script or trigger</SourceText>
+	<TargetText>Activation: <TAB/><TAB/><TAB/>User action, script or trigger</TargetText>
+	<Comment>com.fmi.scriptstep.text.Activation: _TAB/__TAB/__TAB/_User action, script or trigger</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.EDAA49C4D6DF204A75C9BDDB0E7E473B</StringID>
+	<SourceText>Loads a new column stacks chart into targeted WebViewer</SourceText>
+	<TargetText>Loads a new column stacks chart into targeted WebViewer</TargetText>
+	<Comment>com.fmi.scriptstep.text.Loads a new column stacks chart into targeted WebViewer</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F8C692C443F93C94F89751BC18D8150A</StringID>
+	<SourceText>Expected Payload Syntax</SourceText>
+	<TargetText>Expected Payload Syntax</TargetText>
+	<Comment>com.fmi.scriptstep.text.Expected Payload Syntax</Comment>
+</DynamicTemplateString>

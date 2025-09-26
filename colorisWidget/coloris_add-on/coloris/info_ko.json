@@ -1,0 +1,17 @@
+﻿{
+	"Title" : "Coloris",
+
+	"Description" : "이 FileMaker 애드온은 Coloris.js 색상 선택기를 웹 뷰어에 통합하여 사용자들이 매끄러운 인터페이스와 사용자 정의 가능한 스와치를 통해 색상을 선택할 수 있도록 합니다.",
+
+	"Category" : "JavaScript",
+
+	"Features" :
+		[
+			"colorpicker"
+		],
+
+	"Optimized" :
+		[
+			"Tablet", "Mobile", "Desktop"
+		]
+}

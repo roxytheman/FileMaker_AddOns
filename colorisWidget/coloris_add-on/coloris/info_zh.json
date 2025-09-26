@@ -1,0 +1,17 @@
+﻿{
+	"Title" : "Coloris",
+
+	"Description" : "此 FileMaker 插件将 Coloris.js 颜色选择器集成到 Web 查看器中，使用户能够通过流畅的界面和可自定义的色板选择颜色。",
+
+	"Category" : "JavaScript",
+
+	"Features" :
+		[
+			"colorpicker"
+		],
+
+	"Optimized" :
+		[
+			"Tablet", "Mobile", "Desktop"
+		]
+}

@@ -1,0 +1,17 @@
+﻿{
+	"Title" : "Coloris",
+
+	"Description" : "Detta FileMaker-tillägg integrerar Coloris.js-färgväljaren i en webbläsare, vilket gör att användare kan välja färger med ett smidigt gränssnitt och anpassningsbara färgrutor.",
+
+	"Category" : "JavaScript",
+
+	"Features" :
+		[
+			"colorpicker"
+		],
+
+	"Optimized" :
+		[
+			"Tablet", "Mobile", "Desktop"
+		]
+}

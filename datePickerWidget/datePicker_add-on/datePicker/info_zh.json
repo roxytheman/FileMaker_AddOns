@@ -1,0 +1,16 @@
+﻿{
+    "Title": "datePicker",
+    "Description": "使用此可自定义的日历小部件，轻松选择 FileMaker Pro 中的单个日期或日期范围，由 jonni@me.com 提供",
+    "Category": "JavaScript",
+    "Features": [
+        "单日期和范围选择模式",
+        "从 FileMaker 完全自定义颜色、字体和比例",
+        "预设默认日期并立即突出显示范围",
+        "通过 JavaScript 与 FileMaker 脚本无缝集成",
+        "适用于 FileMaker Pro 和 WebDirect 环境",
+        "非常适合在 FileMaker 解决方案中进行日期筛选、日程安排和数据输入"
+    ],
+    "Optimized": [
+        "桌面", "平板电脑", "移动设备", "WebDirect"
+    ]
+}

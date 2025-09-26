@@ -1,0 +1,17 @@
+﻿{
+	"Title" : "Coloris",
+
+	"Description" : "Dieses FileMaker-Add-on integriert den Coloris.js-Farbwähler in einen Web-Viewer und ermöglicht es den Benutzern, Farben über eine reibungslose Oberfläche mit anpassbaren Farbfeldern auszuwählen.",
+
+	"Category" : "JavaScript",
+
+	"Features" :
+		[
+			"colorpicker"
+		],
+
+	"Optimized" :
+		[
+			"Tablet", "Mobile", "Desktop"
+		]
+}

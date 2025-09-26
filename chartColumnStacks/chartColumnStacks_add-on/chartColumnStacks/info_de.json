@@ -1,0 +1,13 @@
+﻿{
+  "Title": "ColumnStacksChart",
+  "Description": "Zeichnet mehrteilige vertikale Balken mit diesem skalierbaren SVG-Add-on für FileMaker Pro von jonni@me.com",
+  "Category": "Benutzeroberfläche",
+  "Features": [
+    "Gestapelte vertikale Balken auf Basis eines Wertebereichs",
+    "Anpassbar über JSON: Farbe, Breite, Ausrichtung und Kappenstil",
+    "Dynamisches SVG ohne Plugins oder Bilder",
+    "Ideal zur Darstellung gruppierter Fortschrittsdaten",
+    "Reagiert auf Größe des Web Viewers"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

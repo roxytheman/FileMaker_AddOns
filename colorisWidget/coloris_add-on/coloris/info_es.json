@@ -1,0 +1,17 @@
+﻿{
+	"Title" : "Coloris",
+
+	"Description" : "Este complemento de FileMaker integra el selector de color Coloris.js en un visor web, permitiendo a los usuarios seleccionar colores con una interfaz fluida y paletas personalizables.",
+
+	"Category" : "JavaScript",
+
+	"Features" :
+		[
+			"colorpicker"
+		],
+
+	"Optimized" :
+		[
+			"Tablet", "Mobile", "Desktop"
+		]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Title": "ColumnStacksChart",
+  "Description": "Render multi-column vertical bar widgets using this scalable and customisable SVG add-on for FileMaker Pro by jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Stacked vertical columns defined by value within a range",
+    "Customise stroke width, alignment, cap style and color via JSON",
+    "Dynamic scaling using SVG — no plug-ins or images required",
+    "Perfect for visualising grouped values and progress distribution",
+    "Responsive to Web Viewer width and height"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

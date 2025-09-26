@@ -1,0 +1,13 @@
+﻿{
+  "Title": "ColumnStacksChart",
+  "Description": "Visa staplade kolumner med denna skalbara SVG-modul för FileMaker Pro av jonni@me.com",
+  "Category": "Användargränssnitt",
+  "Features": [
+    "Vertikala kolumner baserade på värdeintervall",
+    "Anpassning via JSON: färg, bredd, justering och avslut",
+    "SVG gör det responsivt utan behov av tillägg",
+    "Perfekt för att visa grupperad utveckling eller fördelning",
+    "Anpassar sig efter Web Viewer-storlek"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Title": "ColumnStacksChart",
+  "Description": "Toont gestapelde kolommen via een schaalbare SVG-widget voor FileMaker Pro door jonni@me.com",
+  "Category": "Gebruikersinterface",
+  "Features": [
+    "Verticale kolommen op basis van waarde en bereik",
+    "Kleuren, dikte en uitlijning configureerbaar via JSON",
+    "Geen plug-ins nodig dankzij SVG",
+    "Perfect voor het visualiseren van voortgangswaarden",
+    "Schaalt mee met grootte van Web Viewer"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

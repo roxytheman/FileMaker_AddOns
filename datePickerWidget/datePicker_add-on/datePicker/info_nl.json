@@ -1,0 +1,16 @@
+﻿{
+    "Title": "datePicker",
+    "Description": "Selecteer eenvoudig enkele datums of datumbereiken met deze aanpasbare kalenderwidget voor FileMaker Pro door jonni@me.com",
+    "Category": "JavaScript",
+    "Features": [
+        "Modi voor selectie van enkele datums en bereiken",
+        "Volledig aanpasbare kleuren, lettertypen en schaal vanuit FileMaker",
+        "Standaarddatums vooraf selecteren en het bereik direct markeren",
+        "Naadloze integratie met FileMaker-scripts via JavaScript",
+        "Werkt in FileMaker Pro en WebDirect",
+        "Ideaal voor datumfiltering, planning en gegevensinvoer in FileMaker-oplossingen"
+    ],
+    "Optimized": [
+        "Desktop", "Tablet", "Mobiel", "WebDirect"
+    ]
+}

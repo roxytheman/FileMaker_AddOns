@@ -1,0 +1,13 @@
+﻿{
+  "Title": "ColumnStacksChart",
+  "Description": "Affiche des colonnes empilées à l’aide de ce module SVG personnalisable pour FileMaker Pro, développé par jonni@me.com",
+  "Category": "Interface utilisateur",
+  "Features": [
+    "Colonnes verticales basées sur une plage de valeurs",
+    "Personnalisation via JSON : couleurs, largeur, alignement et extrémités",
+    "Aucun plugin requis grâce au SVG natif",
+    "Idéal pour visualiser des ensembles de données progressives",
+    "S’adapte à la taille du Web Viewer"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

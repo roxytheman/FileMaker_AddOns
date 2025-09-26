@@ -1,0 +1,585 @@
+// datePicker 1.1.0
+// Select single dates or date ranges with this customizable calendar widget
+// See Parameter Definitions Below
+
+Let ( [
+
+		~html = 
+		
+		"			<!DOCTYPE html>" & ¶ &
+		"			<html lang=\"en\">" & ¶ &
+		"			<head>" & ¶ &
+		"			<meta charset=\"UTF-8\">" & ¶ &
+		"			<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">" & ¶ &
+		"			<title>Calendar Widget</title>" & ¶ &
+		"			<style>" & ¶ &
+		"				:root {" & ¶ &
+		"					--colour-background: {{colour-background}};" & ¶ &
+		"					--colour-selected: {{colour-selected}};" & ¶ &
+		"					--colour-range: {{colour-range}};" & ¶ &
+		"					--colour-dates: {{colour-dates}};" & ¶ &
+		"					--colour-adjacent-dates: {{colour-adjacent-dates}};" & ¶ &
+		"					--colour-weekdays: {{colour-weekdays}};" & ¶ &
+		"					--colour-blocked: {{colour-blocked}};" & ¶ &
+		"					--font-dates: {{font-dates}};" & ¶ &
+		"					--font-week: {{font-week}};" & ¶ &
+		"					--scale-factor: {{scale-factor}};" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				body {" & ¶ &
+		"					background: var(--colour-background);" & ¶ &
+		"					font-family: var(--font-dates);" & ¶ &
+		"					margin: 0;" & ¶ &
+		"					padding: 0;" & ¶ &
+		"					display: flex;" & ¶ &
+		"					justify-content: center;" & ¶ &
+		"					height: 100vh;" & ¶ &
+		"					align-items: start;" & ¶ &
+		"					min-height: 100vh;" & ¶ &
+		"					transform: scale(var(--scale-factor));" & ¶ &
+		"					overflow: hidden;" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.calendar {" & ¶ &
+		"					box-sizing: border-box;" & ¶ &
+		"					padding: 0px;" & ¶ &
+		"					max-width: 320px;" & ¶ &
+		"					margin: 0 auto;" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.header-date {" & ¶ &
+		"					display: flex;" & ¶ &
+		"					flex-direction: column;" & ¶ &
+		"					line-height: 1.1;" & ¶ &
+		"					font-size: 22px;" & ¶ &
+		"					text-transform: capitalize;" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.header-date .month {" & ¶ &
+		"					font-size: 28px;" & ¶ &
+		"					font-weight: bold;" & ¶ &
+		"				}		" & ¶ &
+		"			" & ¶ &
+		"				.header-date .year {" & ¶ &
+		"					font-size: 18px;" & ¶ &
+		"					font-weight: bold;" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.header-buttons {" & ¶ &
+		"					display: flex;" & ¶ &
+		"					align-items: center;" & ¶ &
+		"					gap: 10px;" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.header-buttons button {" & ¶ &
+		"					background: none;" & ¶ &
+		"					border: none;" & ¶ &
+		"					cursor: pointer;" & ¶ &
+		"					font-size: 20px;" & ¶ &
+		"					color: var(--colour-dates);" & ¶ &
+		"					transition: color 0.2s ease;" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.header-buttons button:hover {" & ¶ &
+		"					color: var(--colour-selected);" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.header-buttons .dot {" & ¶ &
+		"					display: inline-block;" & ¶ &
+		"					width: 12px;" & ¶ &
+		"					height: 12px;" & ¶ &
+		"					background: var(--colour-dates);" & ¶ &
+		"					border-radius: 50%;" & ¶ &
+		"					cursor: pointer;" & ¶ &
+		"					transition: background 0.2s;" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.header-buttons .dot:hover {" & ¶ &
+		"					background: var(--colour-selected);" & ¶ &
+		"				}" & ¶ &
+		"		" & ¶ &
+		"				.calendar-header button {" & ¶ &
+		"					background: none;" & ¶ &
+		"					border: none;" & ¶ &
+		"					cursor: pointer;" & ¶ &
+		"					font-size: 18px;" & ¶ &
+		"					color: var(--colour-dates);" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.calendar-header .month-name {" & ¶ &
+		"					cursor: pointer;" & ¶ &
+		"					font-weight: bold;" & ¶ &
+		"					color: var(--colour-weekdays);" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		
+		"				.calendar-header {" & ¶ &
+		"					display: flex;" & ¶ &
+		"					justify-content: space-between;" & ¶ &
+		"					align-items: end;" & ¶ &
+		"					margin-bottom: 10px;" & ¶ &
+		"				}" & ¶ &
+		"				" & ¶ &
+		"				.month-year {" & ¶ &
+		"					display: flex;" & ¶ &
+		"					align-items: baseline;" & ¶ &
+		"					gap: 5px;" & ¶ &
+		"				}" & ¶ &
+		"				" & ¶ &
+		"				#month-name {" & ¶ &
+		"					font-size: 1.5em;" & ¶ &
+		"					font-weight: bold;" & ¶ &
+		"					color: var(--colour-dates)" & ¶ &
+		"				}" & ¶ &
+		"				" & ¶ &
+		"				#year-name {" & ¶ &
+		"					font-size: 1.2em;" & ¶ &
+		"					font-weight: 600;" & ¶ &
+		"					color: var(--colour-dates)" & ¶ &
+		"				}" & ¶ &
+		"				" & ¶ &
+		"				.calendar-nav {" & ¶ &	
+		"					display: flex;" & ¶ &
+		"					align-items: baseline;" & ¶ &
+		"					gap: 5px;" & ¶ &
+		"				}" & ¶ &
+		"				" & ¶ &
+		"				.calendar-nav button {" & ¶ &
+		"					border: none;" & ¶ &
+		"					background: transparent;" & ¶ &
+		"					cursor: pointer;" & ¶ &
+		"					font-size: 1.2em;" & ¶ &
+		"					color: #555;" & ¶ &
+		"					transition: color 0.3s;" & ¶ &
+		"				}" & ¶ &
+		"				" & ¶ &
+		"				.calendar-nav button:hover {" & ¶ &
+		"					color: var(--colour-dates)" & ¶ &
+		"				}" & ¶ &
+		
+		"			" & ¶ &
+		"				.calendar-weekdays, .calendar-days {" & ¶ &
+		"					display: grid;" & ¶ &
+		"					grid-template-columns: repeat(7, 1fr);" & ¶ &
+		"					color: var(--colour-dates)" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.calendar-weekdays div, .calendar-days div {" & ¶ &
+		"					text-align: center;" & ¶ &
+		"					padding: 10px;" & ¶ &
+		"					font-size: 14px;" & ¶ &
+		"					cursor: pointer;" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.calendar-weekdays div {" & ¶ &
+		"					font-family: var(--font-week);" & ¶ &
+		"					color: var(--colour-weekdays);" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.calendar-days div:hover {" & ¶ &
+		"					background: var(--colour-range);" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.other-month {" & ¶ &
+		"					color: var(--colour-adjacent-dates);" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.today {" & ¶ &
+		"					font-weight: bold;" & ¶ &
+		"					color: var(--colour-dates);" & ¶ &
+		"					background: transparent;" & ¶ &
+		"					border: 1px solid var(--colour-selected);" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.start-date, .end-date {" & ¶ &
+		"					background: var(--colour-selected) !important;" & ¶ &
+		"					color: #fff !important;" & ¶ &
+		"					font-weight: bold;" & ¶ &
+		"					border-radius: 4px;" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.blocked-date {" & ¶ &
+		"					background: var(--colour-blocked, #FF6666) !important;" & ¶ &
+		"					color: #fff !important;" & ¶ &
+		"					pointer-events: none;  /* Prevents selection */" & ¶ &
+		"					opacity: 0.6;" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				.in-range {" & ¶ &
+		"					background: var(--colour-range);" & ¶ &
+		"					color: var(--colour-dates);" & ¶ &
+		"				}" & ¶ &
+		"			</style>" & ¶ &
+		"			</head>" & ¶ &
+		"			<body>" & ¶ &
+		"			" & ¶ &
+		"			<div class=\"calendar\">" & ¶ &
+		"				<div class=\"calendar-header\">" & ¶ &
+		"					<div class=\"header-date\">" & ¶ &
+		"						<span class=\"month\" id=\"month-name\"></span>" & ¶ &
+		"						<span class=\"year\" id=\"year-name\"></span>" & ¶ &
+		"					</div>" & ¶ &
+		"					<div class=\"header-buttons\">" & ¶ &
+		"						<button onclick=\"prevMonth()\">◀</button>" & ¶ &
+		"						<span class=\"dot\" onclick=\"jumpToCurrentMonth()\"></span>" & ¶ &
+		"						<button onclick=\"nextMonth()\">▶</button>" & ¶ &
+		"					</div>" & ¶ &
+		"				</div>" & ¶ &
+		"				<div class=\"calendar-weekdays\"></div>" & ¶ &
+		"				<div class=\"calendar-days\"></div>" & ¶ &
+		"			</div>" & ¶ &
+		"			" & ¶ &
+		"			<script>" & ¶ &
+		"				let currentDate = new Date();" & ¶ &
+		"				let startDate = {{dateStart}};" & ¶ &
+		"				let endDate = {{dateEnd}};" & ¶ &
+		"				let isDateRange = {{isDateRange}};" & ¶ &
+		"				let fileMakerScript = \"{{fileMakerScript}}\";" & ¶ &
+		"				let blockedDates = new Set({{blockedDates}});" & ¶ &
+		"				let isBlockedMode = {{isBlockedMode}};" & ¶ &
+		"				let allowBlockedInRange = {{allowBlockedInRange}};" & ¶ &
+		"				let blockedClickCount = 0;" & ¶ &
+		"			" & ¶ &
+		"				window.targetStart = \"\";" & ¶ &
+		"				window.targetEnd = \"\";" & ¶ &
+		"				window.refreshData = {};" & ¶ &
+		"			" & ¶ &
+		"				//  Validate date before parsing" & ¶ &
+		"				function isValidDateString(dateStr) {" & ¶ &
+		"					const regex = /^\d{4}\+\d{2}\+\d{2}$/;  // Validate YYYY+MM+DD format" & ¶ &
+		"					return dateStr && regex.test(dateStr);" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				//  Inject values from FileMaker" & ¶ &
+		"				function injectValues(start, end, refresh, rangeMode = true) {" & ¶ &
+		"					window.targetStart = start || \"Untitled::start\";" & ¶ &
+		"					window.targetEnd = end || \"Untitled::end\";" & ¶ &
+		"					window.refreshData = refresh || {};" & ¶ &
+		"					isDateRange = rangeMode;" & ¶ &
+		"				" & ¶ &
+		"					// Reference the correct variable (params)" & ¶ &
+		"					if (params.dateArray) {" & ¶ &
+		"						blockedDates = new Set((params.dateArray.dates || []).map(d => d.replace(/\+/g, '-')));" & ¶ &
+		"						isBlockedMode = params.dateArray.isBlocked ?? true;" & ¶ &
+		"						allowBlockedInRange = params.dateArray.allowBlockedInRange ?? true;" & ¶ &
+		"					}" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				//  Load and render calendar with injected values" & ¶ &
+		"				function loadCalendar(input = '{}') {" & ¶ &
+		"					try {" & ¶ &
+		"						const params = JSON.parse(input);" & ¶ &
+		"			" & ¶ &
+		"						injectValues(" & ¶ &
+		"							params.targetStart," & ¶ &
+		"							params.targetEnd," & ¶ &
+		"							params.refresh," & ¶ &
+		"							params.isDateRange ?? true" & ¶ &
+		"						);" & ¶ &
+		"			" & ¶ &
+		"						if (isValidDateString(params.dateStart)) {" & ¶ &
+		"							const [year, month, day] = params.dateStart.split('+').map(Number);" & ¶ &
+		"							startDate = new Date(Date.UTC(year, month - 1, day));" & ¶ &
+		"							currentDate = new Date(Date.UTC(year, month - 1, 1));  // Center the view" & ¶ &
+		"						}" & ¶ &
+		"			" & ¶ &
+		"						if (isValidDateString(params.dateEnd)) {" & ¶ &
+		"							const [year, month, day] = params.dateEnd.split('+').map(Number);" & ¶ &
+		"							endDate = new Date(Date.UTC(year, month - 1, day));" & ¶ &
+		"						}" & ¶ &
+		"			" & ¶ &
+		"						renderCalendar();" & ¶ &
+		"					} catch (error) {" & ¶ &
+		"						console.error(\"Invalid JSON input:\", error);" & ¶ &
+		"					}" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &		
+		"				function renderCalendar() {" & ¶ &
+		"					const daysContainer = document.querySelector(\".calendar-days\");" & ¶ &
+		"					const weekdaysContainer = document.querySelector(\".calendar-weekdays\");" & ¶ &
+		"					" & ¶ &
+		"					// Render month and year separately" & ¶ &
+		"					document.getElementById(\"month-name\").textContent = currentDate.toLocaleString('default', { month: 'long' });" & ¶ &
+		"					document.getElementById(\"year-name\").textContent = currentDate.getUTCFullYear();" & ¶ &
+		"				" & ¶ &
+		"					weekdaysContainer.innerHTML = ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa']" & ¶ &
+		"						.map(day => `<div>${day}</div>`).join('');" & ¶ &
+		"				" & ¶ &
+		"					daysContainer.innerHTML = '';" & ¶ &
+		"				" & ¶ &
+		"					const firstDay = new Date(Date.UTC(currentDate.getUTCFullYear(), currentDate.getUTCMonth(), 1)).getUTCDay();" & ¶ &
+		"					const lastDate = new Date(Date.UTC(currentDate.getUTCFullYear(), currentDate.getUTCMonth() + 1, 0)).getUTCDate();" & ¶ &
+		"				" & ¶ &
+		"					// Previous month's trailing days" & ¶ &
+		"					const prevMonthLastDate = new Date(Date.UTC(currentDate.getUTCFullYear(), currentDate.getUTCMonth(), 0)).getUTCDate();" & ¶ &
+		"					for (let i = firstDay; i > 0; i--) {" & ¶ &
+		"						daysContainer.innerHTML += `<div class=\"other-month\">${prevMonthLastDate - i + 1}</div>`;" & ¶ &
+		"					}" & ¶ &
+		"				" & ¶ &		
+		"					// Render current month with selection and blocked dates" & ¶ &
+		"					for (let day = 1; day <= lastDate; day++) {" & ¶ &
+		"						const date = new Date(Date.UTC(currentDate.getUTCFullYear(), currentDate.getUTCMonth(), day));" & ¶ &
+		"						const formattedDate = date.toISOString().split('T')[0];  " & ¶ &
+		"					" & ¶ &
+		"						const classes = [];" & ¶ &
+		"					" & ¶ &
+		"						// Highlight today's date (UTC-safe)" & ¶ &
+		"						const today = new Date(Date.UTC(" & ¶ &
+		"							new Date().getUTCFullYear()," & ¶ &
+		"							new Date().getUTCMonth()," & ¶ &
+		"							new Date().getUTCDate()" & ¶ &
+		"						));" & ¶ &
+		"						if (date.getTime() === today.getTime()) classes.push('today');" & ¶ &
+		"					" & ¶ &
+		"						// Highlight start, end, and in-range dates" & ¶ &
+		"						const isStart = startDate && date.getTime() === startDate.getTime();" & ¶ &
+		"						const isEnd = endDate && date.getTime() === endDate.getTime();" & ¶ &
+		"						const inRange = startDate && endDate && date > startDate && date < endDate;" & ¶ &
+		"					" & ¶ &
+		"						// Apply start-date immediately after first selection" & ¶ &
+		"						if (isStart) classes.push('start-date');" & ¶ &
+		"						if (isEnd) classes.push('end-date');" & ¶ &
+		"						if (inRange && isDateRange) classes.push('in-range');" & ¶ &
+		"					" & ¶ &
+		"						// Apply blocked date class AFTER marking selected dates" & ¶ &
+		"						const isBlocked = isBlockedMode ? blockedDates.has(formattedDate) : !blockedDates.has(formattedDate);" & ¶ &
+		"						if (isBlocked) {" & ¶ &
+		"							classes.push('blocked-date');" & ¶ &
+		"						}" & ¶ &
+		"					" & ¶ &
+		"						daysContainer.innerHTML += `" & ¶ &
+		"							<div onclick=\"selectDate(${day}, '${formattedDate}')\" class=\"${classes.join(' ')}\">" & ¶ &
+		"								${day}" & ¶ &
+		"							</div>`;" & ¶ &
+		"					}" & ¶ &
+		"				" & ¶ &
+		"					// Fill the next month's trailing days" & ¶ &
+		"					const totalCells = firstDay + lastDate;  " & ¶ &
+		"					const remainingCells = totalCells % 7 === 0 ? 0 : 7 - (totalCells % 7);  " & ¶ &
+		"				" & ¶ &
+		"					for (let i = 1; i <= remainingCells; i++) {" & ¶ &
+		"						daysContainer.innerHTML += `<div class=\"other-month\">${i}</div>`;" & ¶ &
+		"					}" & ¶ &
+		"				}" & ¶ &
+		"				" & ¶ &
+		"				//  Select date function" & ¶ &
+		
+		"						function selectDate(day, date) {" & ¶ &
+		"							if (blockedDates.has(date)) {" & ¶ &
+		"								blockedClickCount++;" & ¶ &
+		"						" & ¶ &
+		"								if (blockedClickCount >= 3) {" & ¶ &
+		"									sendToFileMakerBlockedError(() => {" & ¶ &
+		"										blockedClickCount = 0;" & ¶ &
+		"										renderCalendar();" & ¶ &
+		"									});" & ¶ &
+		"								}" & ¶ &
+		"								return;" & ¶ &
+		"							}" & ¶ &
+		"						" & ¶ &
+		"							blockedClickCount = 0;  // Reset counter" & ¶ &
+		"						" & ¶ &
+		"							if (isDateRange) {" & ¶ &
+		"								if (!startDate || (startDate && endDate)) {" & ¶ &
+		"									// Select the first date or reset range if both dates already selected" & ¶ &
+		"									startDate = new Date(Date.UTC(currentDate.getUTCFullYear(), currentDate.getUTCMonth(), day));" & ¶ &
+		"									endDate = null;  // Reset end date until the second date is picked" & ¶ &
+		"						" & ¶ &
+		"									// Re-render immediately to mark the start date visually" & ¶ &
+		"									renderCalendar();" & ¶ &
+		"								} else {" & ¶ &
+		"									// Select the second date" & ¶ &
+		"									endDate = new Date(Date.UTC(currentDate.getUTCFullYear(), currentDate.getUTCMonth(), day));" & ¶ &
+		"						" & ¶ &
+		"									// Swap dates if reversed" & ¶ &
+		"									if (startDate > endDate) {" & ¶ &
+		"										[startDate, endDate] = [endDate, startDate];" & ¶ &
+		"									}" & ¶ &
+		"						" & ¶ &
+		"									// Check if range contains blocked dates" & ¶ &
+		"									if (!allowBlockedInRange && isRangeBlocked(startDate, endDate)) {" & ¶ &
+		"										sendToFileMakerBlockedError(() => {" & ¶ &
+		"											setTimeout(() => {" & ¶ &
+		"												startDate = null;  " & ¶ &
+		"												endDate = null;  " & ¶ &
+		"												renderCalendar();  // Only re-render for invalid ranges" & ¶ &
+		"											}, 20);" & ¶ &
+		"										});" & ¶ &
+		"									} else {" & ¶ &
+		"										// Valid range → fire script and render normally" & ¶ &
+		"										sendToFileMaker();" & ¶ &
+		"										renderCalendar();" & ¶ &
+		"									}" & ¶ &
+		"								}" & ¶ &
+		"							} else {" & ¶ &
+		"								// Single date mode → fire script immediately" & ¶ &
+		"								startDate = new Date(Date.UTC(currentDate.getUTCFullYear(), currentDate.getUTCMonth(), day));" & ¶ &
+		"								endDate = null;  " & ¶ &
+		"								sendToFileMaker();" & ¶ &
+		"								renderCalendar();" & ¶ &
+		"							}" & ¶ &
+		"						}" & ¶ &
+		
+		"			" & ¶ &
+		"			//  Send date data to FileMaker" & ¶ &
+		"			function sendToFileMakerBlockedError(callback) {" & ¶ &
+		"				const errorPayload = {" & ¶ &
+		"					messages: [" & ¶ &
+		"						{" & ¶ &
+		"							code: 500," & ¶ &
+		"							message: \"Date value does not meet validation entry options\"" & ¶ &
+		"						}" & ¶ &
+		"					]" & ¶ &
+		"				};" & ¶ &
+		"			" & ¶ &
+		"				// Use a slight delay to ensure the script fires before rendering" & ¶ &
+		"				setTimeout(() => {" & ¶ &
+		"					window.FileMaker.PerformScript(fileMakerScript, JSON.stringify(errorPayload));" & ¶ &
+		"			" & ¶ &
+		"					// Execute the callback after the script fires" & ¶ &
+		"					if (typeof callback === 'function') {" & ¶ &
+		"						callback();" & ¶ &
+		"					}" & ¶ &
+		"				}, 10);  // Slight delay ensures script execution before rendering" & ¶ &
+		"			}" & ¶ &
+		"			" & ¶ &
+		"			// Send valid date selections to FileMaker" & ¶ &
+		"			function sendToFileMaker() {" & ¶ &
+		"				const formatDate = (date) => date.toISOString().split('T')[0].replace(/-/g, '+');" & ¶ &
+		"			" & ¶ &
+		"				const payload = {" & ¶ &
+		"					dateStart: startDate ? formatDate(startDate) : \"\"," & ¶ &
+		"					dateEnd: endDate ? formatDate(endDate) : \"\"," & ¶ &
+		"					targetStart: window.targetStart || \"{{targetDateStart}}\", " & ¶ &
+		"					targetEnd: window.targetEnd || \"{{targetDateEnd}}\"," & ¶ &
+		"					refresh: window.refreshData || {}" & ¶ &
+		"				};" & ¶ &
+		"			" & ¶ &
+		"				// Perform the script in FileMaker with the selected dates" & ¶ &
+		"				window.FileMaker.PerformScript(fileMakerScript, JSON.stringify(payload));" & ¶ &
+		"			}" & ¶ &
+		"			" & ¶ &		
+		"			//  Is range blocked helper function" & ¶ &
+		"			function isRangeBlocked(start, end) {" & ¶ &
+		"				const current = new Date(start);" & ¶ &
+		"			" & ¶ &
+		"				while (current <= end) {" & ¶ &
+		"					const formattedDate = current.toISOString().split('T')[0];" & ¶ &
+		"			" & ¶ &
+		"					if (blockedDates.has(formattedDate)) {" & ¶ &
+		"						return true;  // Blocked date found" & ¶ &
+		"					}" & ¶ &
+		"			" & ¶ &
+		"					// Move to the next day" & ¶ &
+		"					current.setUTCDate(current.getUTCDate() + 1);" & ¶ &
+		"				}" & ¶ &
+		"			" & ¶ &
+		"				return false;  // No blocked dates in the range" & ¶ &
+		"			}	" & ¶ &
+		"			" & ¶ &
+		"				// Center the view on the selected date" & ¶ &
+		"				if (startDate) {" & ¶ &
+		"					currentDate = new Date(startDate);  // Center the view on the start date" & ¶ &
+		"				} else {" & ¶ &
+		"					currentDate = new Date();  // Fallback to the current month" & ¶ &
+		"				}" & ¶ &
+		"				renderCalendar();" & ¶ &
+		"				" & ¶ &
+		"				//  Navigation functions" & ¶ &
+		"				function prevMonth() { currentDate.setUTCMonth(currentDate.getUTCMonth() - 1); renderCalendar(); }" & ¶ &
+		"				function nextMonth() { currentDate.setUTCMonth(currentDate.getUTCMonth() + 1); renderCalendar(); }" & ¶ &
+		"				function prevYear() { currentDate.setUTCFullYear(currentDate.getUTCFullYear() - 1); renderCalendar(); }" & ¶ &
+		"				function nextYear() { currentDate.setUTCFullYear(currentDate.getUTCFullYear() + 1); renderCalendar(); }" & ¶ &
+		"				function jumpToCurrentMonth() { currentDate = new Date(); renderCalendar(); }" & ¶ &
+		"			" & ¶ &
+		"					// Center the view on the selected date" & ¶ &
+		"					if (startDate) {" & ¶ &
+		"						currentDate = new Date(startDate);  // Center the view on the start date" & ¶ &
+		"					} else {" & ¶ &
+		"						currentDate = new Date();  // Fallback to the current month" & ¶ &
+		"					}" & ¶ &
+		"				renderCalendar();" & ¶ &
+		"				" & ¶ &
+		"			</script>" & ¶ &
+		"			</body>" & ¶ &
+		"			</html>"
+			
+			;
+
+			~colourBackground = If ( IsEmpty ( colourBackground ) ; "#FFFFFF" ; colourBackground ) ;
+			~colourSelected = If ( IsEmpty ( colourSelected ) ; "#000000" ; colourSelected ) ;
+			~colourRange = If ( IsEmpty ( colourRange ) ; "#e6e6e6" ; colourRange ) ;
+			~colourDates = If ( IsEmpty ( colourDates ) ; "#000000" ; colourDates ) ;
+			~colourAdjacentDates = If ( IsEmpty ( colourAdjacentDates ) ; "#CCCCCC" ; colourAdjacentDates ) ;
+			~colourWeekdays = If ( IsEmpty ( colourWeekdays ) ; "#000000" ; colourWeekdays ) ;
+			~colourBlocked = If ( IsEmpty ( colourBlocked ) ; "#FF6666" ; colourBlocked ) ;
+			~fontDates = If ( IsEmpty ( fontDates ) ; "\"Helvetica Neue\", sans-serif" ; fontDates ) ;
+			~fontWeek = If ( IsEmpty ( fontWeek ) ; "\"Helvetica Neue Bold\", sans-serif" ; fontWeek ) ;
+			~scaleFactor = If ( IsEmpty ( scaleFactor ) ; 1 ; scaleFactor ) ;
+			~dateStart = If ( IsEmpty ( dateStart ) ; Let ( [ ~dt = Get( CurrentDate ) ; ~y = Year ( ~dt ) ; ~m = Month ( ~dt ) - 1 ; ~d = Day ( ~dt ) ] ; "new Date(Date.UTC(" & ~y & ", " & ~m & ", " & ~d & "))")  ; Let ( [ ~dt = dateStart; ~y = Year ( ~dt ) ; ~m = Month ( ~dt ) - 1 ; ~d = Day ( ~dt ) ] ; "new Date(Date.UTC(" & ~y & ", " & ~m & ", " & ~d & "))") ) ;
+			~dateEnd = If ( IsEmpty ( dateEnd ) ; "null" ; Let ( [ ~dt = dateEnd; ~y = Year ( ~dt ) ; ~m = Month ( ~dt ) - 1 ; ~d = Day ( ~dt ) ] ; "new Date(Date.UTC(" & ~y & ", " & ~m & ", " & ~d & "))") ) ;
+			~isDateRange = If ( IsEmpty ( isDateRange ) ; "false" ; Lower( isDateRange ) ) ;
+			
+			~blockedDates = If ( IsEmpty ( blockedDates ) ; "" ; blockedDates ) ;
+			~isBlockedMode = If ( IsEmpty ( isBlockedMode ) ; "false" ; Lower ( isBlockedMode ) ) ;
+			~allowBlockedInRange = If ( IsEmpty ( allowBlockedInRange ) ; "false" ; allowBlockedInRange ) ;
+			
+			~fileMakerScript = If ( IsEmpty ( fileMakerScript ) ; "CAL_responseHandler" ; fileMakerScript ) ;
+			~targetDateStart = targetDateStart ;
+			~targetDateEnd = targetDateEnd ; 
+		
+		~calendar = Substitute ( ~html ; 
+		
+			[ "{{fileMakerScript}}" ; ~fileMakerScript ] ;
+			[ "{{dateStart}}" ; ~dateStart ] ;
+			[ "{{dateEnd}}" ; ~dateEnd ] ;
+			[ "{{targetDateStart}}" ; ~TargetDateStart ] ;
+			[ "{{targetDateEnd}}" ; ~TargetDateEnd ] ;
+			[ "{{isDateRange}}" ; ~isDateRange ] ;
+			[ "{{blockedDates}}" ; ~blockedDates ] ;
+			[ "{{isBlockedMode}}" ; ~isBlockedMode ] ;
+			[ "{{allowBlockedInRange}}" ; ~allowBlockedInRange ] ;
+			[ "{{colour-background}}" ; ~colourBackground ] ;
+			[ "{{colour-selected}}" ; ~colourSelected ] ;
+			[ "{{colour-range}}" ; ~colourRange ] ;
+			[ "{{colour-dates}}" ; ~colourDates ] ;
+			[ "{{colour-adjacent-dates}}" ; ~colourAdjacentDates ] ;
+			[ "{{colour-weekdays}}" ; ~colourWeekdays ] ;
+			[ "{{colour-blocked}}" ; ~colourBlocked ] ;
+			[ "{{font-dates}}" ; ~fontDates ] ;
+			[ "{{font-week}}" ; ~fontWeek ] ;
+			[ "{{scale-factor}}" ; ~scaleFactor ]
+		
+		)
+
+	] ; 
+
+			"data:text/html," & ~calendar
+
+)
+
+// Parameter Definitions
+
+// fileMakerScript : Name of FileMaker script to launch upon selecting date(s) ( CAL_responseHandler )
+// dateStart : Initialising start date
+// dateEnd : Initialising end date (optional when calendar is in range mode)
+// isDateRange : Boolean ( true or false ) passed as string 
+// blockedDates : Array of dates passed as [ "YYYY-MM-DD", "YYYY-MM-DD", "YYYY-MM-DD", "YYYY-MM-DD" ] 
+// isBlockedMode : Boolean ( true or false ) passed as string
+// allowBlockedInRange : Boolean ( true or false ) passed as string
+// targetDateStart : Field name in given in current context ( myTable::dateStart )
+// targetDateEnd : Field name in given in current context ( myTable::dateEnd )
+// colourBackground : Hexadecimal colour code ( #FFFFFF )
+// colourSelected : Hexadecimal colour code ( #000000 )
+// colourRange : Hexadecimal colour code ( #e6e6e6 )
+// colourDates : Hexadecimal colour code ( #000000 )
+// colourAdjacentDates : Hexadecimal colour code ( #CCCCCC )
+// colourWeekdays : Hexadecimal colour code ( #000000 )
+// colourBlocked : Hexadecimal colour code ( #FF6666 )
+// fontDates : Fonts used to display dates in calendar ( \"Helvetica Neue\", sans-serif )
+// fontWeek : Fonts used to display dates in calendar ( \"Helvetica Neue Bold\", sans-serif )
+// scaleFactor : Factor used to scale the calendar widget ( 1.0 )
+
+// BD Link : https://www.briandunning.com/cf/2797
+// Written by: jonni@me.com
+// V 1.1.0

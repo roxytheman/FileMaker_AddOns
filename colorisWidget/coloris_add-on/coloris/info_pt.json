@@ -1,0 +1,17 @@
+﻿{
+	"Title" : "Coloris",
+
+	"Description" : "Este add-on do FileMaker integra o seletor de cores Coloris.js em um visualizador da web, permitindo que os usuários selecionem cores com uma interface fluida e paletas personalizáveis.",
+
+	"Category" : "JavaScript",
+
+	"Features" :
+		[
+			"colorpicker"
+		],
+
+	"Optimized" :
+		[
+			"Tablet", "Mobile", "Desktop"
+		]
+}

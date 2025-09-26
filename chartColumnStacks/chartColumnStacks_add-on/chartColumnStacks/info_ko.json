@@ -1,0 +1,13 @@
+﻿{
+  "Title": "ColumnStacksChart",
+  "Description": "여러 개의 세로 막대를 렌더링하는 FileMaker Pro용 SVG 애드온 (제작: jonni@me.com)",
+  "Category": "사용자 인터페이스",
+  "Features": [
+    "값과 범위에 기반한 세로 막대 구성",
+    "JSON을 통한 색상, 너비, 정렬, 끝 처리 설정",
+    "SVG로 동적 렌더링, 플러그인 불필요",
+    "복합 데이터의 시각적 표현에 적합",
+    "웹 뷰어 크기에 자동 대응"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

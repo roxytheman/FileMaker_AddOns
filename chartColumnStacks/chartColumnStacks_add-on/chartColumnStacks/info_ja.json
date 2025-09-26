@@ -1,0 +1,13 @@
+﻿{
+  "Title": "ColumnStacksChart",
+  "Description": "FileMaker Pro 用のスケーラブルな SVG アドオンで、複数の縦棒を描画。作成者: jonni@me.com",
+  "Category": "ユーザーインターフェース",
+  "Features": [
+    "値に基づく縦方向の積み上げ棒グラフ",
+    "JSON で色・太さ・整列・線端のカスタマイズが可能",
+    "SVG で動的に描画、プラグイン不要",
+    "複数データの進捗や構成を視覚化するのに最適",
+    "Web ビューアのサイズに自動対応"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

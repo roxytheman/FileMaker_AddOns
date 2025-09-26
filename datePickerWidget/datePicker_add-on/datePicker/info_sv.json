@@ -1,0 +1,16 @@
+﻿{
+    "Title": "datePicker",
+    "Description": "Välj enkelt enskilda datum eller datumintervall med denna anpassningsbara kalenderwidget för FileMaker Pro av jonni@me.com",
+    "Category": "JavaScript",
+    "Features": [
+        "Läge för val av enskilt datum och intervall",
+        "Fullt anpassningsbara färger, typsnitt och skala från FileMaker",
+        "Förval av standarddatum och omedelbar markering av intervallet",
+        "Sömlös integrering med FileMaker-skript via JavaScript",
+        "Fungerar i FileMaker Pro och WebDirect",
+        "Perfekt för datumfiltrering, schemaläggning och datainmatning i FileMaker-lösningar"
+    ],
+    "Optimized": [
+        "Stationär", "Surfplatta", "Mobil", "WebDirect"
+    ]
+}

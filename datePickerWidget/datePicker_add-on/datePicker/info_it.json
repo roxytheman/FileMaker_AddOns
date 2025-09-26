@@ -1,0 +1,16 @@
+﻿{
+    "Title": "datePicker",
+    "Description": "Seleziona facilmente date singole o intervalli di date con questo widget calendario personalizzabile per FileMaker Pro di jonni@me.com",
+    "Category": "JavaScript",
+    "Features": [
+        "Modalità di selezione singola e intervallo",
+        "Colori, caratteri e scala completamente personalizzabili da FileMaker",
+        "Preselezione di date predefinite e evidenziazione immediata dell'intervallo",
+        "Integrazione perfetta con gli script FileMaker tramite JavaScript",
+        "Compatibile con FileMaker Pro e WebDirect",
+        "Ideale per filtrare date, pianificare e inserire dati nelle soluzioni FileMaker"
+    ],
+    "Optimized": [
+        "Desktop", "Tablet", "Mobile", "WebDirect"
+    ]
+}

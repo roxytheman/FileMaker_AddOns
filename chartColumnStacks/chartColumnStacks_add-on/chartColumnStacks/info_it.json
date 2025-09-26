@@ -1,0 +1,13 @@
+﻿{
+  "Title": "ColumnStacksChart",
+  "Description": "Disegna colonne verticali con questo add-on SVG scalabile per FileMaker Pro, creato da jonni@me.com",
+  "Category": "Interfaccia utente",
+  "Features": [
+    "Colonne impilate basate su intervallo e valore",
+    "Personalizzazione JSON per colore, larghezza, allineamento e terminali",
+    "Nessun plug-in necessario grazie all’uso di SVG",
+    "Ideale per rappresentazioni visive di progressi multipli",
+    "Adattabile alla dimensione del Web Viewer"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

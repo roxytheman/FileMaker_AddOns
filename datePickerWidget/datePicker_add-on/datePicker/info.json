@@ -1,0 +1,11 @@
+﻿{
+	"GUID" : "42411F37-B18D-49F0-B50A-F513DA7A3868",
+	"Clients" :
+		[
+			"Pro"
+		],
+	"Attribution" : "Jonni",
+	"URL" : "https://www.jonni.me",
+	"Icon_Color" : "#7F7F7F",
+	"Version" : "1.0.6"
+}

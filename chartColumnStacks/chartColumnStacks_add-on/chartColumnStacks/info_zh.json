@@ -1,0 +1,13 @@
+﻿{
+  "Title": "ColumnStacksChart",
+  "Description": "通过这个可扩展的 SVG 插件为 FileMaker Pro 渲染多列垂直柱状图，作者：jonni@me.com",
+  "Category": "用户界面",
+  "Features": [
+    "基于数值范围的多段垂直柱图",
+    "支持 JSON 自定义颜色、线宽、对齐和端点样式",
+    "使用 SVG 渲染，无需插件或图像资源",
+    "适合用于展示分段进度或数据分布",
+    "支持 Web Viewer 的大小自适应"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

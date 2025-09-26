@@ -1,0 +1,17 @@
+﻿{
+	"Title" : "Coloris",
+
+	"Description" : "Deze FileMaker-add-on integreert de Coloris.js-kleurkiezer in een webviewer, zodat gebruikers kleuren kunnen kiezen via een soepele interface met aanpasbare kleurstalen.",
+
+	"Category" : "JavaScript",
+
+	"Features" :
+		[
+			"colorpicker"
+		],
+
+	"Optimized" :
+		[
+			"Tablet", "Mobile", "Desktop"
+		]
+}
