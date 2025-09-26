@@ -1,0 +1,151 @@
+// BADGE STACK
+
+// Generates overlapping circular badges with custom text and 
+// styles from JSON, rendered in SVG for display in a FileMaker Web Viewer.
+
+// Function Name : badgeStack
+// Parameters : width ; height ; defaultArray ; badgeArray
+// Use example : badgeStack ( 400 ; 400 ; $defaultArray ; $pillArray )
+
+// Note : See structure and syntax for defaultArray and badgeArray below
+
+
+Let ( [
+
+	~badgeArray = JSONGetElement ( badges ; "badge" )  ;
+	~default = defaults ;
+	
+	~count = ValueCount ( JSONListKeys ( ~badgeArray ; "" ) ) ;
+	
+	// Defaults
+	~radius = JSONGetElement ( ~default ; "radius" ) ;
+	~diameter = ~radius * 2 ;
+	~width = Round ( width * ( 100 / Get ( WindowZoomLevel ) ) ; 0 ) ;
+	~height = Round ( height * ( 100 / Get ( WindowZoomLevel ) ) ; 0 ) ;
+	~scaleFix = 1 ; // Round( 100 / Get ( WindowZoomLevel ) ; 0 ) ;
+	
+	~fontSize = JSONGetElement ( ~default ; "font.size" ) ;
+	~fontWeight = JSONGetElement ( ~default ; "font.weight" ) ;
+	~fontName = JSONGetElement ( ~default ; "font.name" ) ;
+	
+	~stroke = JSONGetElement ( ~default ; "border.stroke" ) ;
+	~strokeColor = JSONGetElement ( ~default ; "border.color" ) ;
+	
+	~overlap = JSONGetElement ( ~default ; "spacing.overlap" ) ;
+	~offset = ~diameter - ~overlap ;
+	
+	~backgroundColor = JSONGetElement ( ~default ; "background.fill" ) ;
+	~backgroundRect = "<rect width='" & ~width & "' height='" & ~height & "' fill='" & ~backgroundColor & "' />" ;
+	
+	// Loop to generate badge SVGs in reverse order
+	~badgeContent =
+	
+		While ( [
+		
+			~i = ~count - 1 ;
+			~result = ""
+		
+		] ;
+		
+			~i ≥ 0 ;
+		
+		[
+		
+			~item = JSONGetElement ( ~badgeArray ; "[" & ~i & "]" ) ;
+			~text = JSONGetElement ( ~item ; "text" ) ;
+			
+			~fill = JSONGetElement ( ~item ; "color.background" ) ;
+			~textColor = JSONGetElement ( ~item ; "color.text" ) ;
+			
+			~x = ~i * ~offset + ~radius ;
+			~y = ~radius ;
+			
+			~circle = "<circle cx='" & ~x & "' cy='" & ~y & "' r='" & ~radius & "' fill='" & ~fill & "' stroke='" & ~strokeColor & "' stroke-width='" & ~stroke & "' />" ;
+			
+			~label = "<text x='" & ~x & "' y='" & ( ~y + ( ~fontSize / 3 ) ) & "' text-anchor='middle' font-family='" & ~fontName & "' font-size='" & ~fontSize & "' font-weight='" & ~fontWeight & "' fill='" & ~textColor & "'>" & ~text & "</text>" ;
+			
+			~result = ~result & ¶ & ~circle & ~label ;
+			
+			~i = ~i - 1
+
+		] ;
+		
+		~result
+		
+		) ;
+		
+		~svg =
+		
+		"<?xml version='1.0' encoding='UTF-8'?>" &
+
+		If ( Get(Device) > 2 ; 
+
+			"<svg xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;height:100%; \"viewBox=\"0 0 " & ~width & " " & ~height & "\" preserveAspectRatio=\"xMidYMid meet\">"  ;
+			"<svg xmlns='http://www.w3.org/2000/svg' width='100%' height='100%' viewBox='0 0 " & ~width & " " & ~height & "'>" 
+
+		) &
+
+		~backgroundRect &
+		~badgeContent &
+		"</svg>"
+		
+		] ;
+		
+		Case ( 
+			PatternCount ( Get ( ApplicationVersion ) ; "Web" ) ;
+			"data:image/svg+xml;base64," & Base64Encode ( Substitute ( ~svg ; "¶" ; "" ) ) ;
+
+				Get( Device ) > 2 ;
+
+						"data:text/html," & 
+
+				"<html>
+				<meta name=\"viewport\" content=\"width=device-width, initial-scale=" & ~scaleFix & ", maximum-scale=" & ~scaleFix & ", user-scalable=no\">
+				  <body style=\"margin:0;padding:0;background:#" & ~backgroundColor & ";\">"
+				     & Substitute ( ~svg ; "¶" ; "" ) &
+				  "</body>
+				</html>" ;
+
+			"data:image/svg+xml;utf8," & Substitute ( ~svg ; "¶" ; "" )
+		)
+
+)
+
+// This function produces a visually stacked row of circular badges using SVG, styled and controlled entirely via JSON. Each badge supports 
+// individual text, background and font colour, and border styles, with layout dynamically handled based on Web Viewer dimensions. The leftmost 
+// badge appears on top, enabling a clean and readable stack that’s perfect for representing users, tags, roles or assignments in FileMaker layouts.
+
+// Default Array Example
+
+//	JSONSetElement ( "" ; 
+//	
+//		[ "radius" ; 16 ; 2 ] ;
+//		[ "font.size" ; 12 ; 2 ] ;
+//		[ "font.weight" ; "bold" ; 1 ] ;
+//		[ "font.name" ; "Helvetica Neue" ; 1 ] ;
+//		[ "spacing.overlap" ; 6 ; 2 ] ;
+//		[ "border.stroke" ; 2 ; 2 ] ;
+//		[ "border.color" ; "#FFFFFF" ; 1 ] ;
+//		[ "background.fill" ; "#FFFFFF" ; 1 ]
+//	
+//	)
+
+// Badge Array Example
+
+//	JSONSetElement ( "" ; 
+//	
+//		[ "badge[+]text" ; "MR" ; 1 ] ;
+//		[ "badge[:]color.background" ; "#F4511E" ; 1 ] ;
+//		[ "badge[:]color.text" ; "#FFFFFF" ; 1 ] ;
+//	
+//		[ "badge[+]text" ; "J" ; 1 ] ;
+//		[ "badge[:]color.background" ; "#4285F4" ; 1 ] ;
+//		[ "badge[:]color.text" ; "#FFFFFF" ; 1 ] 
+//	
+//	)
+
+
+// GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/7ca5a986a7edd44f740f7edb8a65fd198a018d97/functions/badgeStack.fmfn
+// BD Link : https://www.briandunning.com/cf/2804
+// Written by: jonni@me.com
+// V 1.3

@@ -1,0 +1,16 @@
+﻿{
+  "Title": "badgeStack",
+  "Description": "Toon eenvoudig overlappende ronde badges met deze volledig aanpasbare SVG-badge viewer voor FileMaker Pro door jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Overlappende cirkelvormige badges met de linkerbadge bovenop",
+    "Pas kleuren, randen, straal, spatiëring en lettertype aan via JSON",
+    "Dynamisch bij te werken via een FileMaker-script en payload",
+    "Volledig gerenderd in SVG — geen HTML nodig",
+    "Boven uitgelijnde lay-out die zich aanpast aan de hoogte van de Web Viewer",
+    "Ideaal voor het tonen van toegewezen gebruikers, tags, avatars of statusindicatoren"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

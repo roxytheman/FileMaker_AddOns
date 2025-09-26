@@ -1,0 +1,16 @@
+﻿{
+  "Title": "badgeStack",
+  "Description": "FileMaker Pro용 완전한 사용자 정의 가능한 SVG 배지 뷰어로 원형 배지를 손쉽게 겹쳐서 표시합니다. 제작자: jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "왼쪽 배지가 위에 표시되는 겹쳐진 원형 배지",
+    "색상, 테두리, 반지름, 간격, 글꼴을 JSON으로 사용자 정의 가능",
+    "FileMaker 스크립트와 페이로드로 동적 업데이트",
+    "완전히 SVG로 렌더링 – HTML 불필요",
+    "Web Viewer 높이에 맞게 상단 정렬된 레이아웃",
+    "담당자, 태그, 아바타 또는 상태 표시용으로 이상적"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

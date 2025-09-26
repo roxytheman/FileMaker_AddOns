@@ -1,0 +1,16 @@
+﻿{
+  "Title": "badgeStack",
+  "Description": "Muestra fácilmente insignias circulares apiladas con este visor SVG totalmente personalizable para FileMaker Pro por jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Insignias circulares superpuestas con la izquierda encima",
+    "Personaliza colores, bordes, radio, espaciado y fuente con JSON",
+    "Actualiza dinámicamente con un script y payload de FileMaker",
+    "Renderizado completamente con SVG — sin HTML",
+    "Diseño superior que se adapta a la altura del visor web",
+    "Perfecto para mostrar asignados, etiquetas, avatares o estados"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}
