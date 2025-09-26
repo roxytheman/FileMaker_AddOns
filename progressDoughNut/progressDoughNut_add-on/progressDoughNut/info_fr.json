@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressDoughNut",
+  "Description": "Générez des indicateurs de progression circulaires et arrondis avec cet add-on SVG évolutif et entièrement personnalisable pour FileMaker Pro par jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Arc de progression circulaire arrondi avec label central",
+    "Personnalisez les couleurs, la police, l’épaisseur et le fond via JSON",
+    "Mise à jour dynamique via script et payload FileMaker",
+    "Rendu entièrement en SVG — aucun HTML ni plug-in requis",
+    "Responsive selon la largeur et la hauteur du Web Viewer",
+    "Idéal pour visualiser des pourcentages ou des niveaux de progression"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

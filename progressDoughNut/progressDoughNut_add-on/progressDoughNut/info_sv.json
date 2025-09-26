@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressDoughNut",
+  "Description": "Visa rundade, cirkulära framstegsdiagram med denna skalbara och helt anpassningsbara SVG-tillägg för FileMaker Pro av jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Rundad framstegsbåge med centrerad etikett",
+    "Anpassa färger, typsnitt, bågtjocklek och bakgrund via JSON",
+    "Dynamiskt uppdaterbar med FileMaker-skript och payload",
+    "Renderas helt med SVG – inget HTML eller tillägg behövs",
+    "Responsiv mot Web Viewer-storlek",
+    "Perfekt för att visualisera procenttal, framsteg eller status"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

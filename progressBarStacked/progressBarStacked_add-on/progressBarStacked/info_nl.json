@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarStacked",
+  "Description": "Volg meerdere fasen of categorieën in één enkele balk met deze dynamische gestapelde voortgangsbalk voor FileMaker Pro door jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Meerdere segmenten met eigen kleuren en waarden",
+    "Elk segment gedefinieerd via een flexibel JSON-payload",
+    "Ondersteuning voor afgeronde hoeken op buitenste segmenten",
+    "Achtergrondvulling achter gedeeltelijke voortgang inbegrepen",
+    "Dynamisch aan te passen via script of JSON-uitdrukking",
+    "Perfect voor projecttracking, workflows of categorische voortgang"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

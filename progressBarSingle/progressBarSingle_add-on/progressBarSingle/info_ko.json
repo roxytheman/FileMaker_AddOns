@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarSingle",
+  "Description": "FileMaker Pro용 사용자 정의 단일 채움 진행 표시줄로 상태나 진행률을 손쉽게 시각화합니다. 제작자: jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "모서리가 둥근 백분율 기반 진행 표시",
+    "색상, 크기 및 모서리 반경 완전 사용자 정의 가능",
+    "간단한 페이로드로 동적 업데이트",
+    "빠른 렌더링 또는 변환을 위한 Base64 인코딩된 SVG",
+    "동봉된 FileMaker 스크립트와 간편한 통합",
+    "상태, 진행 또는 완료 표시용으로 이상적"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarSingle",
+  "Description": "FileMaker Pro 用のこのカスタマイズ可能な単一フィルのプログレスバーで、進行状況やステータスを簡単に視覚化できます。by jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "角が丸い、パーセンテージベースの進行状況表示",
+    "色、サイズ、角の丸みを自由にカスタマイズ可能",
+    "シンプルなペイロードで動的に更新可能",
+    "Web ビューアーでの高速表示または変換用の Base64 エンコード SVG",
+    "付属の FileMaker スクリプトとの簡単な統合",
+    "ステータス、進行状況、完了度の視覚化に最適"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

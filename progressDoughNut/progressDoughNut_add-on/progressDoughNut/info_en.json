@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressDoughNut",
+  "Description": "Render smooth, rounded progress doughnuts using this scalable and fully customisable SVG add-on for FileMaker Pro by jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Rounded doughnut-style progress arc with centre label",
+    "Customise colours, font, arc thickness and background via JSON",
+    "Dynamically update based on a FileMaker script and payload",
+    "Rendered entirely with SVG — no HTML or plug-ins needed",
+    "Responsive to Web Viewer width and height",
+    "Perfect for visualising percentages, progress, or completion states"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarStacked",
+  "Description": "FileMaker Pro용 이 동적 스택형 진행 표시줄 컴포넌트로 여러 단계나 범주의 진행 상황을 한 번에 추적하세요. 제작자: jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "각각의 색상과 값으로 구성된 다중 세그먼트 진행 표시",
+    "각 세그먼트는 유연한 JSON 페이로드로 정의됨",
+    "양 끝 세그먼트에 대한 둥근 모서리 지원",
+    "부분 진행 상황 뒤에 배경색 포함",
+    "스크립트 또는 JSON 표현식으로 동적 업데이트",
+    "프로젝트 추적, 워크플로우, 카테고리 기반 진행 상황에 이상적"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarSingle",
+  "Description": "Visualisieren Sie Fortschritt oder Status einfach mit diesem eleganten, anpassbaren Fortschrittsbalken für FileMaker Pro von jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Zeigt prozentualen Fortschritt mit abgerundeten Ecken an",
+    "Vollständig anpassbare Farben, Abmessungen und Eckradius",
+    "Dynamische Eingabe über einfaches Payload möglich",
+    "Base64-codiertes SVG für schnelles Rendering im Web Viewer oder zur Konvertierung",
+    "Einfache Integration mit dem beiliegenden FileMaker-Skript",
+    "Ideal zur Anzeige von Status, Fortschritt oder Erledigungsgrad in FileMaker-Lösungen"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressDoughNut",
+  "Description": "Erstellen Sie glatte, abgerundete Fortschrittsringe mit diesem skalierbaren und vollständig anpassbaren SVG-Add-on für FileMaker Pro von jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Abgerundeter Fortschrittsring mit zentralem Label",
+    "Farben, Schriftarten, Bogenstärke und Hintergrund über JSON anpassbar",
+    "Dynamisch aktualisierbar über FileMaker-Skript und Payload",
+    "Vollständig mit SVG gerendert – kein HTML oder Plug-in erforderlich",
+    "Reagiert auf Breite und Höhe des Web Viewers",
+    "Ideal zur Visualisierung von Prozentwerten oder Fortschrittsanzeigen"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressDoughNut",
+  "Description": "使用这个可扩展、完全可自定义的 SVG 插件，在 FileMaker Pro 中渲染平滑圆形进度环，作者：jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "带中心标签的圆形进度环，边缘圆润",
+    "通过 JSON 自定义颜色、字体、粗细和背景",
+    "支持通过 FileMaker 脚本和 payload 动态更新",
+    "完全使用 SVG 渲染，无需 HTML 或插件",
+    "适应 Web Viewer 的宽度和高度",
+    "非常适合显示百分比、进度或完成状态"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

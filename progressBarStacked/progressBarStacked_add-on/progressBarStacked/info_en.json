@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarStacked",
+  "Description": "Track multiple stages or categories in a single bar with this dynamic stacked progress component for FileMaker Pro by jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Displays multi-segment progress bars with individual colours and values",
+    "Each segment defined via a JSON payload for maximum flexibility",
+    "Supports rounded corners on outer segments",
+    "Includes background fill behind partial progress bars",
+    "Easy to update dynamically using a script or JSON expression",
+    "Ideal for project tracking, workflows, or category-based progress"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

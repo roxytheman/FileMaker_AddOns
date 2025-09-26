@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarSingle",
+  "Description": "通过这个适用于 FileMaker Pro 的可自定义单填充进度条，轻松可视化状态或进度，作者：jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "以百分比显示进度，带圆角设计",
+    "颜色、尺寸和圆角可完全自定义",
+    "通过简单的 payload 动态更新",
+    "Base64 编码 SVG 用于快速渲染或转换",
+    "可轻松与提供的 FileMaker 脚本集成",
+    "非常适合在 FileMaker 中展示状态、进度或完成情况"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

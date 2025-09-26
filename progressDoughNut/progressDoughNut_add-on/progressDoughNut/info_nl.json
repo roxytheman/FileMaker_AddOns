@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressDoughNut",
+  "Description": "Maak vloeiende, afgeronde voortgangsdonuts met deze schaalbare en volledig aanpasbare SVG-add-on voor FileMaker Pro van jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Ronde voortgangsboog met centrale tekst",
+    "Kleuren, lettertypen, dikte en achtergrond instelbaar via JSON",
+    "Dynamisch bij te werken met FileMaker-script en payload",
+    "Volledig gerenderd in SVG – geen HTML of plug-ins vereist",
+    "Responsive op basis van Web Viewer grootte",
+    "Ideaal voor het visualiseren van voortgang of voltooiingspercentages"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

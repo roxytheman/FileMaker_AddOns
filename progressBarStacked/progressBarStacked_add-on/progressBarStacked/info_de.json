@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarStacked",
+  "Description": "Verfolgen Sie mehrere Phasen oder Kategorien in einem einzigen Balken mit dieser dynamischen, gestapelten Fortschrittskomponente für FileMaker Pro von jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Mehrsegmentige Fortschrittsanzeige mit individuellen Farben und Werten",
+    "Jedes Segment wird über ein JSON-Payload definiert – maximale Flexibilität",
+    "Abgerundete Ecken auf äußeren Segmenten unterstützt",
+    "Hintergrundfüllung hinter unvollständigen Balken enthalten",
+    "Dynamisch aktualisierbar per Skript oder JSON-Ausdruck",
+    "Ideal zur Projektverfolgung, für Workflows oder kategoriebasierte Fortschritte"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

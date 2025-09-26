@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressDoughNut",
+  "Description": "FileMaker Pro 向けのスケーラブルでカスタマイズ可能な SVG アドオンを使用して、滑らかで丸みのある進行状グラフを表示します。制作：jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "中央ラベル付きの円形進捗リング",
+    "色、フォント、ストローク幅、背景を JSON で設定可能",
+    "FileMaker スクリプトと payload で動的に更新",
+    "すべて SVG でレンダリング – HTML やプラグイン不要",
+    "Web Viewer の幅と高さに対応",
+    "割合や進行状況、完了状態の可視化に最適"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

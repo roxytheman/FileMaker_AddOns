@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressDoughNut",
+  "Description": "FileMaker Pro용으로 제작된 이 확장 가능한 완전 사용자 정의 가능한 SVG 애드온을 사용하여 부드럽고 둥근 진행형 도넛을 표시합니다. 제작자: jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "중앙 레이블이 있는 둥근 도넛형 진행 표시",
+    "색상, 글꼴, 두께, 배경을 JSON으로 구성",
+    "FileMaker 스크립트와 payload로 동적으로 업데이트",
+    "모두 SVG로 렌더링 – HTML이나 플러그인 필요 없음",
+    "Web Viewer 너비 및 높이에 반응",
+    "진행률, 완료 상태 또는 백분율 시각화에 적합"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

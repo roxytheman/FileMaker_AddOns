@@ -1,0 +1,868 @@
+﻿
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.006C91020F5068694A5ACA64E8BF6ABE</StringID>
+	<SourceText>&apos; r=&apos;</SourceText>
+	<TargetText>&apos; r=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; r=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.06AC3C9E7B3F15660C5294BADDE2DFA1</StringID>
+	<SourceText><CR/></SourceText>
+	<TargetText><CR/></TargetText>
+	<Comment>com.fmi.calculation.text._CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0A7C3B77D9F32F44C78500C72DA3E54D</StringID>
+	<SourceText>&apos; stroke-linecap=&apos;</SourceText>
+	<TargetText>&apos; stroke-linecap=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; stroke-linecap=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0D10CBD14A610F4DC0B09618B33BF228</StringID>
+	<SourceText>font.name</SourceText>
+	<TargetText>font.name</TargetText>
+	<Comment>com.fmi.calculation.text.font.name</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0F9511A07326D8E2E23EFB2AF6BB146F</StringID>
+	<SourceText>color.text</SourceText>
+	<TargetText>color.text</TargetText>
+	<Comment>com.fmi.calculation.text.color.text</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0FB122270860D13374996F21902B49E2</StringID>
+	<SourceText>height</SourceText>
+	<TargetText>height</TargetText>
+	<Comment>com.fmi.calculation.text.height</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.108DD642C84EB8218F066CBC24024E2D</StringID>
+	<SourceText>&apos; stroke-dashoffset=&apos;</SourceText>
+	<TargetText>&apos; stroke-dashoffset=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; stroke-dashoffset=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1BFD3D882830AFDBF0786F4E0AD96981</StringID>
+	<SourceText>color.foreground</SourceText>
+	<TargetText>color.foreground</TargetText>
+	<Comment>com.fmi.calculation.text.color.foreground</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1DA856C8257911214CC8451432BC3DBB</StringID>
+	<SourceText> This function creates a circular progress indicator rendered in SVG, using JSON-driven settings <CR/></SourceText>
+	<TargetText> This function creates a circular progress indicator rendered in SVG, using JSON-driven settings <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. This function creates a circular progress indicator rendered in SVG, using JSON-driven settings _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1EE6F78E33554F6114399F9607ED4969</StringID>
+	<SourceText>&lt;/body&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;/html&gt;</SourceText>
+	<TargetText>&lt;/body&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;/html&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;/body&gt;_CR/__TAB/__TAB/__TAB/__TAB/_&lt;/html&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2004865D334EEEA246A3297AF3F25352</StringID>
+	<SourceText>bold</SourceText>
+	<TargetText>bold</TargetText>
+	<Comment>com.fmi.calculation.text.bold</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.22E5F78A0938349E6B256358501CF181</StringID>
+	<SourceText>&lt;text x=&apos;</SourceText>
+	<TargetText>&lt;text x=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;text x=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.248F804C1DCA767BE04493F208A08A71</StringID>
+	<SourceText>value</SourceText>
+	<TargetText>value</TargetText>
+	<Comment>com.fmi.calculation.text.value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2ACBCDBBE2756BA6DB1839243819F6AC</StringID>
+	<SourceText> Data Array Example<CR/></SourceText>
+	<TargetText> Data Array Example<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Data Array Example_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2B6984065DE07A6CB127AD5D3A6C271C</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2F42FC9329AFFE93085A85D6500BDBB4</StringID>
+	<SourceText>color.background</SourceText>
+	<TargetText>color.background</TargetText>
+	<Comment>com.fmi.calculation.text.color.background</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.30C2E584B090C55971EEC946D9AB6028</StringID>
+	<SourceText>, user-scalable=no\&quot;&gt;<CR/><TAB/><TAB/><TAB/><TAB/>  &lt;body style=\&quot;margin:0;padding:0;background:#</SourceText>
+	<TargetText>, user-scalable=no\&quot;&gt;<CR/><TAB/><TAB/><TAB/><TAB/>  &lt;body style=\&quot;margin:0;padding:0;background:#</TargetText>
+	<Comment>com.fmi.calculation.text., user-scalable=no\&quot;&gt;_CR/__TAB/__TAB/__TAB/__TAB/_  &lt;body style=\&quot;margin:0;padding:0;background:#</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.31330BE6160A6C29AF91E6D7AD142551</StringID>
+	<SourceText>defaultArray</SourceText>
+	<TargetText>defaultArray</TargetText>
+	<Comment>com.fmi.calculation.text.defaultArray</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.38AC7DE741E05CBC1EC6BECD5C4A25B7</StringID>
+	<SourceText>stroke</SourceText>
+	<TargetText>stroke</TargetText>
+	<Comment>com.fmi.calculation.text.stroke</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3C2EC8F2B5F3E841D07A6354AD05377F</StringID>
+	<SourceText>dataArray</SourceText>
+	<TargetText>dataArray</TargetText>
+	<Comment>com.fmi.calculation.text.dataArray</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3FA974089A805D9B26119D08F17421CF</StringID>
+	<SourceText>&lt;svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot; style=\&quot;width:100%;height:100%; \&quot;viewBox=\&quot;0 0 </SourceText>
+	<TargetText>&lt;svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot; style=\&quot;width:100%;height:100%; \&quot;viewBox=\&quot;0 0 </TargetText>
+	<Comment>com.fmi.calculation.text.&lt;svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot; style=\&quot;width:100%;height:100%; \&quot;viewBox=\&quot;0 0</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.454DD36B48548B80AA6CFC160CA3AF1A</StringID>
+	<SourceText>&apos; fill=&apos;</SourceText>
+	<TargetText>&apos; fill=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; fill=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.46FCBE13FEBEB8A36942A67CA6A2E669</StringID>
+	<SourceText>&lt;rect width=&apos;</SourceText>
+	<TargetText>&lt;rect width=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;rect width=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.471C28506DCA2E39B8E480091A9E16CB</StringID>
+	<SourceText> Foreground arc (progress)<CR/></SourceText>
+	<TargetText> Foreground arc (progress)<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Foreground arc (progress)_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.493E8217BE69DE9FEC8F50EB3A8CD503</StringID>
+	<SourceText> V 1.4</SourceText>
+	<TargetText> V 1.4</TargetText>
+	<Comment>com.fmi.calculation.text. V 1.4</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.49DBC944CB58336873B919020800EEF9</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;font.size&quot; ; 24 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;font.size&quot; ; 24 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;font.size&quot; ; 24 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4EBE8D9257E8596E8DCABCB96F65429E</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;color.text&quot; ; &quot;#000000&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;color.text&quot; ; &quot;#000000&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;color.text&quot; ; &quot;#000000&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4F6A728D9AE11FE40463AC741F8A3A30</StringID>
+	<SourceText>font.size</SourceText>
+	<TargetText>font.size</TargetText>
+	<Comment>com.fmi.calculation.text.font.size</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5166182E4A95DEB2A1FC3619A16F46E8</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;endCap&quot; ; &quot;&quot; ; 1 ] ; // round, butt, square - or empty<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;endCap&quot; ; &quot;&quot; ; 1 ] ; // round, butt, square - or empty<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;endCap&quot; ; &quot;&quot; ; 1 ] ; // round, butt, square - or empty_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.525D2C7CF9A16EE2B3FFA9ED63BCEFA7</StringID>
+	<SourceText>&apos; font-weight=&apos;</SourceText>
+	<TargetText>&apos; font-weight=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; font-weight=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.542F715A7F0F9A5D94316E0DE280D6A8</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;font.name&quot; ; &quot;Helvetica Neue&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;font.name&quot; ; &quot;Helvetica Neue&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;font.name&quot; ; &quot;Helvetica Neue&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.556E99D4A217AD9EA00C4E671C525C1E</StringID>
+	<SourceText>&lt;circle cx=&apos;</SourceText>
+	<TargetText>&lt;circle cx=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;circle cx=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.58016D7BE48826BF7888E410F9BBDA05</StringID>
+	<SourceText>targetWebViewer</SourceText>
+	<TargetText>targetWebViewer</TargetText>
+	<Comment>com.fmi.calculation.text.targetWebViewer</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5A971528F4BD81C2FBC7F0C2805B02FA</StringID>
+	<SourceText> GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/856e74f51e52ffa31614fa1c305e789ca88b78d1/functions/progressDoughNut.fmfn<CR/></SourceText>
+	<TargetText> GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/856e74f51e52ffa31614fa1c305e789ca88b78d1/functions/progressDoughNut.fmfn<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/856e74f51e52ffa31614fa1c305e789ca88b78d1/functions/progressDoughNut.fmfn_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5ABDBB39D1F9C589030E34ABCDC03A10</StringID>
+	<SourceText>Web</SourceText>
+	<TargetText>Web</TargetText>
+	<Comment>com.fmi.calculation.text.Web</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5D362105D954A667BCED9915DE0F0BC5</StringID>
+	<SourceText>#CB4400</SourceText>
+	<TargetText>#CB4400</TargetText>
+	<Comment>com.fmi.calculation.text.#CB4400</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5DD432E679223F15C5EC70523D56A910</StringID>
+	<SourceText> Percentage text<CR/></SourceText>
+	<TargetText> Percentage text<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Percentage text_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5DF961979BCF99311F24F8E976EE5CA0</StringID>
+	<SourceText>&apos; y=&apos;</SourceText>
+	<TargetText>&apos; y=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; y=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5ECC3EB33393ED9847AD80E59BDDDBCC</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;stroke&quot; ; 20 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;stroke&quot; ; 20 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;stroke&quot; ; 20 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5FB07D5203EA4B6D483FA572E55D9290</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6102479359ECFAA711D0983E9B146C0F</StringID>
+	<SourceText>font.weight</SourceText>
+	<TargetText>font.weight</TargetText>
+	<Comment>com.fmi.calculation.text.font.weight</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6C54FB1DD8129857DDF206C7050F63CF</StringID>
+	<SourceText> Radius setup<CR/></SourceText>
+	<TargetText> Radius setup<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Radius setup_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.741CAD0E9C88DEA0226D1E2E08C5473D</StringID>
+	<SourceText>;\&quot;&gt;</SourceText>
+	<TargetText>;\&quot;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.;\&quot;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.755B1DC5E8D140BCA62DEB24CCBD4D06</StringID>
+	<SourceText><TAB/><CR/></SourceText>
+	<TargetText><TAB/><CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.76E5F93FF56060CAC76FCBD4008919C9</StringID>
+	<SourceText>displayValue</SourceText>
+	<TargetText>displayValue</TargetText>
+	<Comment>com.fmi.calculation.text.displayValue</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.77E82D9183ABA35D6EC88306420CF940</StringID>
+	<SourceText> for colours, stroke width, font, and layout. The arc fills /based on a percentage value and features <CR/></SourceText>
+	<TargetText> for colours, stroke width, font, and layout. The arc fills /based on a percentage value and features <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. for colours, stroke width, font, and layout. The arc fills /based on a percentage value and features _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.79849975473505FDD1EA8CBA235AB945</StringID>
+	<SourceText>%</SourceText>
+	<TargetText>%</TargetText>
+	<Comment>com.fmi.calculation.text.%</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.79DAFBA321E8084042069E25AD389EF2</StringID>
+	<SourceText>&lt;/svg&gt;</SourceText>
+	<TargetText>&lt;/svg&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;/svg&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.7CC5FF6AD27E3C110F6E99F32C4868A9</StringID>
+	<SourceText> smooth, rounded ends for a polished look. Perfect for visualising completion or status inside FileMaker <CR/></SourceText>
+	<TargetText> smooth, rounded ends for a polished look. Perfect for visualising completion or status inside FileMaker <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. smooth, rounded ends for a polished look. Perfect for visualising completion or status inside FileMaker _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.810C056CBF9EFE395BBCA3732212A234</StringID>
+	<SourceText> Use example : progressDoughNut ( 400 ; 400 ; $defaultArray ; $dataArray )<CR/></SourceText>
+	<TargetText> Use example : progressDoughNut ( 400 ; 400 ; $defaultArray ; $dataArray )<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Use example : progressDoughNut ( 400 ; 400 ; $defaultArray ; $dataArray )_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.81DBB097BD91BDD58AC976DAC49C38AF</StringID>
+	<SourceText>&apos; height=&apos;</SourceText>
+	<TargetText>&apos; height=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; height=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.87FDD5A88AB827826251480DA7121603</StringID>
+	<SourceText>#CCCCCC</SourceText>
+	<TargetText>#CCCCCC</TargetText>
+	<Comment>com.fmi.calculation.text.#CCCCCC</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.88CA1A7CCB83ABB687D5FBED4AE2F6DC</StringID>
+	<SourceText>text.complete</SourceText>
+	<TargetText>text.complete</TargetText>
+	<Comment>com.fmi.calculation.text.text.complete</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8967E474E567D8A869E20AF4B21032D8</StringID>
+	<SourceText>&apos; cy=&apos;</SourceText>
+	<TargetText>&apos; cy=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; cy=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.897599ACD44B985967DED694C5AECE85</StringID>
+	<SourceText>Done</SourceText>
+	<TargetText>Done</TargetText>
+	<Comment>com.fmi.calculation.text.Done</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9286618FE0B2C104A3FBBEC4C6CD20A4</StringID>
+	<SourceText> </SourceText>
+	<TargetText> </TargetText>
+	<Comment>com.fmi.calculation.text.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.94EFFD9F2DEC03AAEAA0FFBC189018D2</StringID>
+	<SourceText> round, butt, square - or empty<CR/></SourceText>
+	<TargetText> round, butt, square - or empty<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. round, butt, square - or empty_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.94FD8D617EAB602679355DCE7C25A50D</StringID>
+	<SourceText><TAB/>JSONSetElement ( &quot;&quot; ; <CR/></SourceText>
+	<TargetText><TAB/>JSONSetElement ( &quot;&quot; ; <CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/_JSONSetElement ( &quot;&quot; ; _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.965D978CE8641D133542EFBCAD17DD44</StringID>
+	<SourceText> PROGRESS DOUGHNUT<CR/></SourceText>
+	<TargetText> PROGRESS DOUGHNUT<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. PROGRESS DOUGHNUT_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9AD811544C4166DBC2DBC9D4F60D0734</StringID>
+	<SourceText>)&apos; /&gt;</SourceText>
+	<TargetText>)&apos; /&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.)&apos; /&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9C83D9B5C8E60C6BE4D827BACDE47F1E</StringID>
+	<SourceText> Colours<CR/></SourceText>
+	<TargetText> Colours<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Colours_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9D8FF6E76AA18BC24F6BF430EC3549F0</StringID>
+	<SourceText> BD Link : https://www.briandunning.com/cf/2805<CR/></SourceText>
+	<TargetText> BD Link : https://www.briandunning.com/cf/2805<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. BD Link : https://www.briandunning.com/cf/2805_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A08170B82DBD5E3B41A26F46D865D32D</StringID>
+	<SourceText> Function Name : progressDoughNut<CR/></SourceText>
+	<TargetText> Function Name : progressDoughNut<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Function Name : progressDoughNut_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A2E278F6ED9633FB498D1B365AADEA84</StringID>
+	<SourceText> Assemble full SVG<CR/></SourceText>
+	<TargetText> Assemble full SVG<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Assemble full SVG_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A99466FAFC4A66A70C833416D6AD4590</StringID>
+	<SourceText>Helvetica Neue</SourceText>
+	<TargetText>Helvetica Neue</TargetText>
+	<Comment>com.fmi.calculation.text.Helvetica Neue</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AEE77D83675800794E2F2A95905D4E56</StringID>
+	<SourceText>\&quot; preserveAspectRatio=\&quot;xMidYMid meet\&quot;&gt;</SourceText>
+	<TargetText>\&quot; preserveAspectRatio=\&quot;xMidYMid meet\&quot;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.\&quot; preserveAspectRatio=\&quot;xMidYMid meet\&quot;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AF00F351C15C4CFED6996E8722B2DF55</StringID>
+	<SourceText>width</SourceText>
+	<TargetText>width</TargetText>
+	<Comment>com.fmi.calculation.text.width</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AFC7C7EAF2FE1BFBCA5B53E57FC35D7D</StringID>
+	<SourceText>background.fill</SourceText>
+	<TargetText>background.fill</TargetText>
+	<Comment>com.fmi.calculation.text.background.fill</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B00F3A96761E60F5F3834BAD9D5ABE6F</StringID>
+	<SourceText>&apos; text-anchor=&apos;middle&apos; font-family=&apos;</SourceText>
+	<TargetText>&apos; text-anchor=&apos;middle&apos; font-family=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; text-anchor=&apos;middle&apos; font-family=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B0FF5FB12BBC97BAF49DC09388F82E04</StringID>
+	<SourceText>data:text/html,</SourceText>
+	<TargetText>data:text/html,</TargetText>
+	<Comment>com.fmi.calculation.text.data:text/html,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B2F8405A9E1D6D6496E4F296D1E2F0D1</StringID>
+	<SourceText>&lt;html&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=</SourceText>
+	<TargetText>&lt;html&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;html&gt;_CR/__TAB/__TAB/__TAB/__TAB/_&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B4BF536D781343D2808C1C47D4256EC3</StringID>
+	<SourceText> Note : See structure and syntax for defaultArray and dataArray below<CR/></SourceText>
+	<TargetText> Note : See structure and syntax for defaultArray and dataArray below<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Note : See structure and syntax for defaultArray and dataArray below_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B593E1763EC8BA57ECB83A37A12AE170</StringID>
+	<SourceText>, maximum-scale=</SourceText>
+	<TargetText>, maximum-scale=</TargetText>
+	<Comment>com.fmi.calculation.text., maximum-scale=</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B596AA4631322BB4939C670B8B228CD6</StringID>
+	<SourceText>&apos; transform=&apos;rotate(-90 </SourceText>
+	<TargetText>&apos; transform=&apos;rotate(-90 </TargetText>
+	<Comment>com.fmi.calculation.text.&apos; transform=&apos;rotate(-90</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B613EA7ED210F1B43EB9CF2D7C456F36</StringID>
+	<SourceText>data:image/svg+xml;base64,</SourceText>
+	<TargetText>data:image/svg+xml;base64,</TargetText>
+	<Comment>com.fmi.calculation.text.data:image/svg+xml;base64,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B97170BEF4641DD9DE7F750DC944DBE3</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;color.complete&quot; ; &quot;green&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;color.complete&quot; ; &quot;green&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;color.complete&quot; ; &quot;green&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BBB71BE88C53A02CCAA1E84677E66289</StringID>
+	<SourceText>&apos; /&gt;</SourceText>
+	<TargetText>&apos; /&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; /&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BCB14E83A2796694E313A2FD3AC189F2</StringID>
+	<SourceText>color.complete</SourceText>
+	<TargetText>color.complete</TargetText>
+	<Comment>com.fmi.calculation.text.color.complete</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C252F93179F611F0CD16FEB3E9590FD3</StringID>
+	<SourceText>wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.calculation.text.wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C50FCD6315B2154FFAA2AF0538E31CD0</StringID>
+	<SourceText>endCap</SourceText>
+	<TargetText>endCap</TargetText>
+	<Comment>com.fmi.calculation.text.endCap</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C6A8BC18B965C3A13BCE7355369FB583</StringID>
+	<SourceText>&apos; stroke-dasharray=&apos;</SourceText>
+	<TargetText>&apos; stroke-dasharray=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; stroke-dasharray=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C82C9199005E2B454EE00A313DE0A02D</StringID>
+	<SourceText><TAB/>)<CR/></SourceText>
+	<TargetText><TAB/>)<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/_)_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C90EE444ACF31F959B4BC8E9B36828CA</StringID>
+	<SourceText>#FFFFFF</SourceText>
+	<TargetText>#FFFFFF</TargetText>
+	<Comment>com.fmi.calculation.text.#FFFFFF</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CB7A68C052A68EB1007EF58A3D7CB772</StringID>
+	<SourceText>&apos;&gt;</SourceText>
+	<TargetText>&apos;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CD402550EBDDD1AD0D2076D50E5D053F</StringID>
+	<SourceText> Core values<CR/></SourceText>
+	<TargetText> Core values<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Core values_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CDF2272932810A811B03A6EC3BDE90BF</StringID>
+	<SourceText>data:image/svg+xml;utf8,</SourceText>
+	<TargetText>data:image/svg+xml;utf8,</TargetText>
+	<Comment>com.fmi.calculation.text.data:image/svg+xml;utf8,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CE9F4AA813CFA3462FF1700BEB447DEB</StringID>
+	<SourceText> Font settings<CR/></SourceText>
+	<TargetText> Font settings<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Font settings_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CEF75404C45B3EEAC0C02889E20103D6</StringID>
+	<SourceText> Generates a customisable, rounded progress doughnut <CR/></SourceText>
+	<TargetText> Generates a customisable, rounded progress doughnut <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Generates a customisable, rounded progress doughnut _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D0393F39CD9C4C4BA85511D03B8CDE1C</StringID>
+	<SourceText> Written by: jonni@me.com<CR/></SourceText>
+	<TargetText> Written by: jonni@me.com<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Written by: jonni@me.com_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D098C06CC2517FA75CE220FBD8007074</StringID>
+	<SourceText> Background rect<CR/></SourceText>
+	<TargetText> Background rect<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Background rect_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D24A4934387BFA14F1EA2F065593CA7C</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;displayValue&quot; ; True ; 5 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;displayValue&quot; ; True ; 5 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;displayValue&quot; ; True ; 5 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D6447B72F28E26F3C58C5C593BFB927C</StringID>
+	<SourceText>&apos; font-size=&apos;</SourceText>
+	<TargetText>&apos; font-size=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; font-size=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D677C896C850AEEA39FFD76A7EA603D8</StringID>
+	<SourceText><TAB/> <TAB/>[ &quot;value&quot; ; 58 ; 2 ]<CR/></SourceText>
+	<TargetText><TAB/> <TAB/>[ &quot;value&quot; ; 58 ; 2 ]<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/_ _TAB/_[ &quot;value&quot; ; 58 ; 2 ]_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DA6BF46166C600F92DFD20D8C6AF8E26</StringID>
+	<SourceText>#000000</SourceText>
+	<TargetText>#000000</TargetText>
+	<Comment>com.fmi.calculation.text.#000000</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DA9E602D53500ED9110B8040E0C5ED5A</StringID>
+	<SourceText>&apos; fill=&apos;none&apos; stroke=&apos;</SourceText>
+	<TargetText>&apos; fill=&apos;none&apos; stroke=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; fill=&apos;none&apos; stroke=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DD3751FE32BC02E6B46B70500259AED3</StringID>
+	<SourceText> using SVG for display in a FileMaker Web Viewer.<CR/></SourceText>
+	<TargetText> using SVG for display in a FileMaker Web Viewer.<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. using SVG for display in a FileMaker Web Viewer._CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E0ECE08AC543EE713C8A3805E3EB77A4</StringID>
+	<SourceText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0 </SourceText>
+	<TargetText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0 </TargetText>
+	<Comment>com.fmi.calculation.text.&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E1C30449106534D16EEFA6B766B99984</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;font.weight&quot; ; &quot;bold&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;font.weight&quot; ; &quot;bold&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;font.weight&quot; ; &quot;bold&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E211737A5DE9120BF4C6C5E39FB3F92A</StringID>
+	<SourceText> Default Array Example<CR/></SourceText>
+	<TargetText> Default Array Example<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Default Array Example_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E493454F7221548459F0EFB4B5F052DA</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E5021D7F4E2E2FCE3CA67452DBDF43AB</StringID>
+	<SourceText> Full circle (background)<CR/></SourceText>
+	<TargetText> Full circle (background)<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Full circle (background)_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EAD7DBFC8A89FB2E2D1C559831469EBD</StringID>
+	<SourceText>green</SourceText>
+	<TargetText>green</TargetText>
+	<Comment>com.fmi.calculation.text.green</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.ED210B06E66CDA7A96EC0FD3FC0BCF74</StringID>
+	<SourceText> layouts with no HTML required.<CR/></SourceText>
+	<TargetText> layouts with no HTML required.<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. layouts with no HTML required._CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.ED50F0DDE7106D2662A388DC262863AE</StringID>
+	<SourceText>&apos; stroke-width=&apos;</SourceText>
+	<TargetText>&apos; stroke-width=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; stroke-width=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EDDED0B6F8300C71F631A9401900F88B</StringID>
+	<SourceText>&lt;/text&gt;</SourceText>
+	<TargetText>&lt;/text&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;/text&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EECE2E542B0CDCE586A27B7931BA8BF0</StringID>
+	<SourceText>¶</SourceText>
+	<TargetText>¶</TargetText>
+	<Comment>com.fmi.calculation.text.¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F58F3F17F867E6A67B5990E5E889157C</StringID>
+	<SourceText> Parameters : width ; height ; defaultArray ; dataArray<CR/></SourceText>
+	<TargetText> Parameters : width ; height ; defaultArray ; dataArray<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Parameters : width ; height ; defaultArray ; dataArray_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F949E2D2310E3763D03BFFDC7095D3B8</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;text.complete&quot; ; &quot;Done&quot; ; 1 ]<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;text.complete&quot; ; &quot;Done&quot; ; 1 ]<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;text.complete&quot; ; &quot;Done&quot; ; 1 ]_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FD54683CDC641B21B0A7253A663E6FA3</StringID>
+	<SourceText>&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</SourceText>
+	<TargetText>&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.68905EB258561947CE6558DD12C804C0</StringID>
+	<SourceText>progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.layoutobject.progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.C252F93179F611F0CD16FEB3E9590FD3</StringID>
+	<SourceText>wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.layoutobject.wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.89BB792D82DD0250FD781B85BB518B62</StringID>
+	<SourceText>setProgressDoughnut</SourceText>
+	<TargetText>setProgressDoughnut</TargetText>
+	<Comment>com.fmi.script.setProgressDoughnut</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.EAA86966691C4D2FC34E9CAA14F2F40D</StringID>
+	<SourceText>ProgressDoughnut</SourceText>
+	<TargetText>ProgressDoughnut</TargetText>
+	<Comment>com.fmi.script.folder.ProgressDoughnut</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.111839C0417DE18B8CF74F955F50BD29</StringID>
+	<SourceText>Dependencies: <TAB/><TAB/>Script Parameter Payload</SourceText>
+	<TargetText>Dependencies: <TAB/><TAB/>Script Parameter Payload</TargetText>
+	<Comment>com.fmi.scriptstep.text.Dependencies: _TAB/__TAB/_Script Parameter Payload</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.1A7D80F84CC60D534CFB37A0C95B5EF8</StringID>
+	<SourceText>Loads a new progress doughnut into targeted WebViewer</SourceText>
+	<TargetText>Loads a new progress doughnut into targeted WebViewer</TargetText>
+	<Comment>com.fmi.scriptstep.text.Loads a new progress doughnut into targeted WebViewer</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.2E657D4A040A267E3EB0A0A150840AB8</StringID>
+	<SourceText>Compatibility: <TAB/><TAB/>All platforms</SourceText>
+	<TargetText>Compatibility: <TAB/><TAB/>All platforms</TargetText>
+	<Comment>com.fmi.scriptstep.text.Compatibility: _TAB/__TAB/_All platforms</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.6977AC9D97C1BAE6FC3D4618A66DEEB7</StringID>
+	<SourceText>SET PROGRESS DOUGHNUT</SourceText>
+	<TargetText>SET PROGRESS DOUGHNUT</TargetText>
+	<Comment>com.fmi.scriptstep.text.SET PROGRESS DOUGHNUT</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.6E93D27030534AD82F0364250B306C64</StringID>
+	<SourceText>Subscripts Called: <TAB/>None</SourceText>
+	<TargetText>Subscripts Called: <TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Subscripts Called: _TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.A833DE9B48F9F17BE4DE4A559DDCE1EA</StringID>
+	<SourceText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;targetWebViewer&quot; ; &quot;wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;<CR/><TAB/>[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ;<CR/><TAB/>[ &quot;defaultArray.color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ;<CR/><TAB/>[ &quot;defaultArray.color.text&quot; ; &quot;#000000&quot; ; 1 ] ;<CR/><TAB/>[ &quot;defaultArray.color.complete&quot; ; &quot;green&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.stroke&quot; ; 20 ; 2 ] ;<CR/><TAB/>[ &quot;defaultArray.endCap&quot; ; &quot;&quot; ; 1 ] ; // round, butt, square - or empty<CR/><CR/><TAB/>[ &quot;defaultArray.font.size&quot; ; 24 ; 2 ] ;<CR/><TAB/>[ &quot;defaultArray.font.weight&quot; ; &quot;bold&quot; ; 1 ] ;<CR/><TAB/>[ &quot;defaultArray.font.name&quot; ; &quot;Helvetica Neue&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/><TAB/>[ &quot;defaultArray.displayValue&quot; ; True ; 5 ] ; // True | False<CR/><TAB/>[ &quot;defaultArray.text.complete&quot; ; &quot;Done&quot; ; 1 ] // This is the text to display when progress is complete<CR/><CR/><TAB/>[ &quot;dataArray.value&quot; ; 58 ; 2 ] // this is the percentage to display<CR/><CR/>)</SourceText>
+	<TargetText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;targetWebViewer&quot; ; &quot;wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;<CR/><TAB/>[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ;<CR/><TAB/>[ &quot;defaultArray.color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ;<CR/><TAB/>[ &quot;defaultArray.color.text&quot; ; &quot;#000000&quot; ; 1 ] ;<CR/><TAB/>[ &quot;defaultArray.color.complete&quot; ; &quot;green&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.stroke&quot; ; 20 ; 2 ] ;<CR/><TAB/>[ &quot;defaultArray.endCap&quot; ; &quot;&quot; ; 1 ] ; // round, butt, square - or empty<CR/><CR/><TAB/>[ &quot;defaultArray.font.size&quot; ; 24 ; 2 ] ;<CR/><TAB/>[ &quot;defaultArray.font.weight&quot; ; &quot;bold&quot; ; 1 ] ;<CR/><TAB/>[ &quot;defaultArray.font.name&quot; ; &quot;Helvetica Neue&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/><TAB/>[ &quot;defaultArray.displayValue&quot; ; True ; 5 ] ; // True | False<CR/><TAB/>[ &quot;defaultArray.text.complete&quot; ; &quot;Done&quot; ; 1 ] // This is the text to display when progress is complete<CR/><CR/><TAB/>[ &quot;dataArray.value&quot; ; 58 ; 2 ] // this is the percentage to display<CR/><CR/>)</TargetText>
+	<Comment>com.fmi.scriptstep.text.JSONSetElement ( &quot;&quot; ; _CR/__CR/__TAB/_[ &quot;targetWebViewer&quot; ; &quot;wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;_CR/__CR/__TAB/_[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;_CR/__TAB/_[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_progressDoughNut_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;_CR/__CR/__TAB/_[ &quot;defaultArray.color.background&quot; ; &quot;#CCCCCC&quot; ; 1 ] ;_CR/__TAB/_[ &quot;defaultArray.color.foreground&quot; ; &quot;#CB4400&quot; ; 1 ] ;_CR/__TAB/_[ &quot;defaultArray.color.text&quot; ; &quot;#000000&quot; ; 1 ] ;_CR/__TAB/_[ &quot;defaultArray.color.complete&quot; ; &quot;green&quot; ; 1 ] ;_CR/__CR/__TAB/_[ &quot;defaultArray.stroke&quot; ; 20 ; 2 ] ;_CR/__TAB/_[ &quot;defaultArray.endCap&quot; ; &quot;&quot; ; 1 ] ; // round, butt, square - or empty_CR/__CR/__TAB/_[ &quot;defaultArray.font.size&quot; ; 24 ; 2 ] ;_CR/__TAB/_[ &quot;defaultArray.font.weight&quot; ; &quot;bold&quot; ; 1 ] ;_CR/__TAB/_[ &quot;defaultArray.font.name&quot; ; &quot;Helvetica Neue&quot; ; 1 ] ;_CR/__CR/__TAB/_[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;_CR/__TAB/_[ &quot;defaultArray.displayValue&quot; ; True ; 5 ] ; // True | False_CR/__TAB/_[ &quot;defaultArray.text.complete&quot; ; &quot;Done&quot; ; 1 ] // This is the text to display when progress is complete_CR/__CR/__TAB/_[ &quot;dataArray.value&quot; ; 58 ; 2 ] // this is the percentage to display_CR/__CR/_)</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.ABA09ABEAE968FCB2D7635E45EE3A6A6</StringID>
+	<SourceText>Scripts Called: <TAB/><TAB/>None</SourceText>
+	<TargetText>Scripts Called: <TAB/><TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Scripts Called: _TAB/__TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CDFDD882E2FC15C7EB360422FE24AC03</StringID>
+	<SourceText>++++++++++++++++++++++++++++++++++++++++++++++++</SourceText>
+	<TargetText>++++++++++++++++++++++++++++++++++++++++++++++++</TargetText>
+	<Comment>com.fmi.scriptstep.text.++++++++++++++++++++++++++++++++++++++++++++++++</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.E987E2931222D269D297AD6FC4A8D2E8</StringID>
+	<SourceText>Written on 24.04.2025 |  Updated: 00.00.0000  | Valid: Yes  |  By: jonni@me.com</SourceText>
+	<TargetText>Written on 24.04.2025 |  Updated: 00.00.0000  | Valid: Yes  |  By: jonni@me.com</TargetText>
+	<Comment>com.fmi.scriptstep.text.Written on 24.04.2025 |  Updated: 00.00.0000  | Valid: Yes  |  By: jonni@me.com</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.E9F886B04A084FD7228EF2E0BC9822E7</StringID>
+	<SourceText>Activation: <TAB/><TAB/><TAB/>User action, script or trigger</SourceText>
+	<TargetText>Activation: <TAB/><TAB/><TAB/>User action, script or trigger</TargetText>
+	<Comment>com.fmi.scriptstep.text.Activation: _TAB/__TAB/__TAB/_User action, script or trigger</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F8C692C443F93C94F89751BC18D8150A</StringID>
+	<SourceText>Expected Payload Syntax</SourceText>
+	<TargetText>Expected Payload Syntax</TargetText>
+	<Comment>com.fmi.scriptstep.text.Expected Payload Syntax</Comment>
+</DynamicTemplateString>

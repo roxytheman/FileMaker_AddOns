@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarStacked",
+  "Description": "使用此动态堆叠进度条组件，在 FileMaker Pro 中轻松追踪多个阶段或类别的状态，作者：jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "显示具有独立颜色和值的多段式进度条",
+    "每段通过灵活的 JSON 载荷定义",
+    "支持为首尾段添加圆角",
+    "为不完整的进度条提供背景填充",
+    "可通过脚本或 JSON 表达式动态更新",
+    "非常适合用于项目跟踪、工作流或按类别的进度表示"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

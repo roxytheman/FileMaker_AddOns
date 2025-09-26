@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressDoughNut",
+  "Description": "Genera gráficos de progreso circulares con bordes suaves usando este complemento SVG totalmente personalizable y escalable para FileMaker Pro por jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Anillo de progreso circular con borde redondeado y etiqueta central",
+    "Colores, fuentes, grosor del trazo y fondo personalizables vía JSON",
+    "Actualización dinámica con script y payload de FileMaker",
+    "Totalmente renderizado en SVG — sin HTML ni complementos",
+    "Diseño sensible a tamaño del Web Viewer",
+    "Perfecto para mostrar porcentajes, progreso o estados completados"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

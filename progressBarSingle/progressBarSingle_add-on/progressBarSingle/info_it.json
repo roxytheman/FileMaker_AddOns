@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarSingle",
+  "Description": "Visualizza facilmente lo stato o l’avanzamento con questa elegante barra di avanzamento a riempimento singolo personalizzabile per FileMaker Pro di jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Visualizza l’avanzamento percentuale con angoli arrotondati",
+    "Colori, dimensioni e raggio completamente personalizzabili",
+    "Aggiornamento dinamico tramite semplice payload",
+    "SVG codificato in Base64 per un rendering rapido o una conversione",
+    "Facile integrazione con lo script FileMaker allegato",
+    "Ideale per rappresentare lo stato, l’avanzamento o il completamento in FileMaker"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

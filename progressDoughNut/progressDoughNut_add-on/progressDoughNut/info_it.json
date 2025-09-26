@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressDoughNut",
+  "Description": "Crea grafici di avanzamento circolari con bordi arrotondati grazie a questo add-on SVG scalabile e completamente personalizzabile per FileMaker Pro di jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Anello di avanzamento circolare con etichetta centrale",
+    "Colori, font, spessore e sfondo personalizzabili tramite JSON",
+    "Aggiornamento dinamico tramite script FileMaker e payload",
+    "Renderizzato completamente in SVG — nessun HTML o plug-in necessario",
+    "Responsive alla larghezza e altezza del Web Viewer",
+    "Ideale per visualizzare percentuali o stati di completamento"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

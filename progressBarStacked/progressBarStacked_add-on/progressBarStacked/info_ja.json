@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarStacked",
+  "Description": "この動的な積層型プログレスバーコンポーネントで、FileMaker Pro における複数の段階やカテゴリの進行状況を一目で確認できます。by jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "個別の色と値を持つ複数セグメントの進捗バーを表示",
+    "各セグメントは柔軟な JSON ペイロードで定義可能",
+    "両端のセグメントに丸みのある角をサポート",
+    "不完全な進捗バーの背景色を含む",
+    "スクリプトや JSON 式で動的に更新可能",
+    "プロジェクト管理、ワークフロー、カテゴリ別進捗の表示に最適"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

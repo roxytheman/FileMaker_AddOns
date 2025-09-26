@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarStacked",
+  "Description": "Suivez plusieurs étapes ou catégories dans une seule barre grâce à ce composant de progression empilé dynamique pour FileMaker Pro par jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Barres de progression à segments multiples avec couleurs et valeurs personnalisées",
+    "Chaque segment est défini via un payload JSON pour une flexibilité maximale",
+    "Coins arrondis pris en charge sur les segments extérieurs",
+    "Fond inclus derrière les barres de progression partielles",
+    "Mise à jour dynamique via un script ou une expression JSON",
+    "Parfait pour le suivi de projet, les flux de travail ou les progressions par catégorie"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

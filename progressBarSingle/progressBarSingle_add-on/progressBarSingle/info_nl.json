@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarSingle",
+  "Description": "Visualiseer eenvoudig de voortgang of status met deze aanpasbare voortgangsbalk met één vulling voor FileMaker Pro door jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Toont voortgang op basis van percentage met afgeronde hoeken",
+    "Volledig aanpasbare kleuren, afmetingen en afronding",
+    "Dynamische invoer via eenvoudige payload",
+    "Base64-gecodeerde SVG voor snelle weergave of conversie",
+    "Eenvoudige integratie met meegeleverd FileMaker-script",
+    "Perfect voor het visualiseren van status, voortgang of voltooiing"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarSingle",
+  "Description": "Visualisera enkelt status eller framsteg med denna eleganta, anpassningsbara enkla fyllnadsindikator för FileMaker Pro av jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Visar procentbaserad framsteg med rundade hörn",
+    "Helt anpassningsbara färger, mått och hörnradie",
+    "Dynamisk uppdatering med enkelt payload",
+    "Base64-kodad SVG för snabb rendering eller konvertering",
+    "Enkel integration med medföljande FileMaker-skript",
+    "Perfekt för att visa status, framsteg eller slutförande i FileMaker"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

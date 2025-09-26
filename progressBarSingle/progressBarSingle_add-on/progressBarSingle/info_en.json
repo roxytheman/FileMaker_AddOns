@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarSingle",
+  "Description": "Easily visualise progress or status with this sleek and customisable single-fill progress bar for FileMaker Pro by jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Displays percentage-based progress with rounded corners",
+    "Fully customisable colours, dimensions, and corner radius",
+    "Accepts dynamic input to update progress via simple payload",
+    "Base64-encoded SVG for fast Web Viewer rendering or conversion",
+    "Easy integration with accompanying FileMaker script",
+    "Ideal for visualising status, progress, or completion indicators in FileMaker solutions"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

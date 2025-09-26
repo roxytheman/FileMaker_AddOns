@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarSingle",
+  "Description": "Visualiza fácilmente el progreso o estado con esta barra de progreso de relleno único personalizable para FileMaker Pro de jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Muestra el progreso basado en porcentaje con esquinas redondeadas",
+    "Colores, dimensiones y radios completamente personalizables",
+    "Entrada dinámica mediante payload simple",
+    "SVG codificado en Base64 para visualización rápida o conversión",
+    "Integración sencilla con el script de FileMaker incluido",
+    "Ideal para mostrar estado, progreso o finalización en soluciones de FileMaker"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

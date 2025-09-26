@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressBarStacked",
+  "Description": "Följ flera steg eller kategorier i en enda stapel med denna dynamiska, staplade framstegskomponent för FileMaker Pro av jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Flera segment med egna färger och värden",
+    "Varje segment definieras via flexibel JSON-payload",
+    "Stöd för rundade hörn på yttersegment",
+    "Bakgrundsfärg visas bakom ofullständiga staplar",
+    "Dynamiskt uppdaterbar via skript eller JSON-uttryck",
+    "Perfekt för projektuppföljning, arbetsflöden eller kategoribaserad framsteg"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}
