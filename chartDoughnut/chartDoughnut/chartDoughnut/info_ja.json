@@ -1,0 +1,14 @@
+﻿{
+  "Title": "chartDoughnut",
+  "Description": "FileMaker Pro 向けのカスタマイズ可能な SVG コンポーネントで、動的なドーナツチャートを簡単に表示（作者: jonni@me.com）",
+  "Category": "User Interface",
+  "Features": [
+    "値の比率に応じた複数のドーナツセグメントを描画",
+    "JSON による色、太さ、間隔の柔軟な設定",
+    "FileMaker スクリプトとペイロードで簡単に更新可能",
+    "HTML を使わず FileMaker 内で完全に制御",
+    "Web ビューアのサイズに応じたレスポンシブ表示",
+    "進捗や分布の可視化に最適"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Title": "chartDoughnut",
+  "Description": "FileMaker Pro용으로 설계된 이 사용자 지정 가능한 SVG 도넛 차트로 동적인 시각화 도구를 쉽게 구현하세요 (by jonni@me.com)",
+  "Category": "User Interface",
+  "Features": [
+    "비율에 따른 도넛형 세그먼트 렌더링",
+    "JSON으로 색상, 선 두께 및 간격을 자유롭게 설정",
+    "FileMaker 스크립트와 페이로드로 쉽게 업데이트 가능",
+    "HTML 없이 전적으로 FileMaker에서 제어 가능",
+    "Web Viewer 크기에 따라 반응형 조정",
+    "통계, 할당량, 카테고리 비교 시각화에 적합"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

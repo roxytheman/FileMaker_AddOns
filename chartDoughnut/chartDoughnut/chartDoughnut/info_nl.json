@@ -1,0 +1,14 @@
+﻿{
+  "Title": "chartDoughnut",
+  "Description": "Creëer eenvoudig dynamische en aanpasbare donutdiagrammen met deze SVG-widget voor FileMaker Pro van jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Donutsegmenten die proportionele waarden visualiseren",
+    "Volledig aanpasbare kleuren, randen en tussenruimte via JSON",
+    "Eenvoudig dynamisch bij te werken met een FileMaker-script en payload",
+    "Volledig te beheren vanuit FileMaker — geen HTML nodig",
+    "Past zich aan op de grootte van de Web Viewer",
+    "Perfect voor dashboards, overzichten en visuele statusindicatoren"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

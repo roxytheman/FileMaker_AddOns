@@ -1,0 +1,14 @@
+﻿{
+  "Title": "chartDoughnut",
+  "Description": "Muestra gráficos de anillo dinámicos y personalizables con este complemento SVG para FileMaker Pro por jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Segmentos de anillo que representan proporciones de datos",
+    "Colores, grosor y espaciado personalizables mediante JSON",
+    "Actualización dinámica con un script de FileMaker y payload",
+    "Totalmente gestionado desde FileMaker — sin necesidad de HTML",
+    "Adaptable al tamaño del Web Viewer",
+    "Ideal para dashboards, estados visuales y comparaciones porcentuales"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

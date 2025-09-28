@@ -1,0 +1,16 @@
+﻿{
+  "Title": "chartDoughnut",
+  "Description": "Render multi-segment doughnut charts with configurable styling and data-driven arc segments using this scalable SVG add-on for FileMaker Pro by jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Display multiple segments proportionally around a circular ring",
+    "Customise stroke, colours, radius, segment gaps and cap style via JSON",
+    "Scales responsively based on Web Viewer dimensions",
+    "Update dynamically via script and JSON payload",
+    "No HTML or plugins required in FileMaker Pro or WebDirect",
+    "Compatible with FileMaker Go using embedded HTML wrapper"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

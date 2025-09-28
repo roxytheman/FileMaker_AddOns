@@ -1,0 +1,14 @@
+﻿{
+  "Title": "chartDoughnut",
+  "Description": "Affichez facilement des graphiques en anneau dynamiques avec ce composant SVG personnalisable pour FileMaker Pro par jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Segments en anneau reflétant des proportions de données",
+    "Couleurs, épaisseurs et espacements personnalisables via JSON",
+    "Mise à jour dynamique avec un script FileMaker et un payload",
+    "Entièrement contrôlé depuis FileMaker — sans HTML requis",
+    "Affichage adaptatif selon la taille du Web Viewer",
+    "Parfait pour les tableaux de bord, états et représentations visuelles"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

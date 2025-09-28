@@ -1,0 +1,14 @@
+﻿{
+  "Title": "chartDoughnut",
+  "Description": "Crie gráficos de rosca dinâmicos e personalizáveis com este componente SVG para FileMaker Pro por jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Segmentos em rosca que refletem proporções de dados",
+    "Cores, espessura e espaçamento personalizáveis via JSON",
+    "Atualização dinâmica simples usando script e payload do FileMaker",
+    "Totalmente controlado dentro do FileMaker — sem necessidade de HTML",
+    "Responsivo ao tamanho do Web Viewer",
+    "Ideal para dashboards e visualização de métricas percentuais"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

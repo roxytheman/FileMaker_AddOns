@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressRings",
+  "Description": "Apple Watch 스타일의 다중 링 진행 표시기를 SVG로 구현합니다. JSON으로 완전히 사용자 정의 가능하며 모든 FileMaker 플랫폼에서 작동합니다.",
+  "Category": "사용자 인터페이스",
+  "Features": [
+    "다중 동심원 진행 링",
+    "각 링은 색상, 값, 두께, 끝 모양을 개별 설정 가능",
+    "사용자 정의 여백 및 기본값 지원",
+    "Web Viewer 크기에 반응",
+    "일관된 렌더링을 위한 확대/축소 보정",
+    "FileMaker Pro, Go 및 WebDirect에 최적화된 SVG"
+  ],
+  "Optimized": [
+    "데스크탑", "태블릿", "모바일", "WebDirect"
+  ]
+}

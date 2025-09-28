@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressRings",
+  "Description": "Meerrings voortgangsindicator in Apple Watch-stijl met SVG. Volledig aanpasbaar via JSON en geschikt voor alle FileMaker-platformen.",
+  "Category": "Gebruikersinterface",
+  "Features": [
+    "Meerdere concentrische voortgangsringen",
+    "Elke ring volledig instelbaar: kleur, waarde, dikte, eindkap",
+    "Ondersteunt aangepaste opvulling en standaardwaarden",
+    "Responsief op grootte van de Web Viewer",
+    "Zoomcorrectie voor consistente weergave",
+    "Geoptimaliseerde SVG voor FileMaker Pro, Go en WebDirect"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobiel", "WebDirect"
+  ]
+}

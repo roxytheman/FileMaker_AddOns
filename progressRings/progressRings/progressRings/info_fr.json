@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressRings",
+  "Description": "Affichez des indicateurs de progression à plusieurs anneaux inspirés des anneaux d’activité de l’Apple Watch avec SVG. Entièrement configurable via JSON et compatible avec toutes les plateformes FileMaker.",
+  "Category": "Interface utilisateur",
+  "Features": [
+    "Affichage de plusieurs anneaux de progression concentriques",
+    "Chaque anneau est configurable : couleur, valeur, largeur, extrémité",
+    "Support du padding personnalisé et valeurs par défaut",
+    "S’adapte à la taille du Web Viewer",
+    "Rendu constant grâce à la compensation de zoom",
+    "SVG optimisé pour FileMaker Pro, Go et WebDirect"
+  ],
+  "Optimized": [
+    "Bureau", "Tablette", "Mobile", "WebDirect"
+  ]
+}

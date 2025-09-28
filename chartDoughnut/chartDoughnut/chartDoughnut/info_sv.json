@@ -1,0 +1,14 @@
+﻿{
+  "Title": "chartDoughnut",
+  "Description": "Skapa dynamiska, anpassningsbara donutdiagram med denna SVG-baserade komponent för FileMaker Pro av jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Donut-segment för visning av fördelningar och proportioner",
+    "Fritt anpassningsbara färger, linjetjocklek och mellanrum via JSON",
+    "Enkel uppdatering via FileMaker-script och payload",
+    "Allt hanteras direkt i FileMaker — ingen HTML krävs",
+    "Responsiv design som anpassar sig till Web Viewer-storlek",
+    "Perfekt för visualisering av data, status och procentandelar"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

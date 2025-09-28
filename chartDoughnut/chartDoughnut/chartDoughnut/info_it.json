@@ -1,0 +1,14 @@
+﻿{
+  "Title": "chartDoughnut",
+  "Description": "Visualizza facilmente grafici a ciambella dinamici e personalizzabili con questo componente SVG per FileMaker Pro creato da jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Segmenti a ciambella che riflettono proporzioni e categorie",
+    "Colori, spessori e spaziatura personalizzabili tramite JSON",
+    "Facile aggiornamento dinamico con uno script FileMaker e payload",
+    "Completamente gestito in FileMaker — nessun HTML richiesto",
+    "Si adatta alla dimensione del Web Viewer",
+    "Ideale per dashboard visive e rappresentazioni percentuali"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

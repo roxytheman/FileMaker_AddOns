@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressRings",
+  "Description": "Mehrteilige Fortschrittsanzeige im Stil der Aktivitätsringe der Apple Watch mit SVG. Vollständig anpassbar über JSON und responsiv auf allen FileMaker-Plattformen.",
+  "Category": "Benutzeroberfläche",
+  "Features": [
+    "Mehrere konzentrische Fortschrittsringe",
+    "Jeder Ring einzeln konfigurierbar: Farbe, Wert, Stärke, Endkappe",
+    "Unterstützt benutzerdefinierten Abstand und Standardwerte",
+    "Reagiert auf die Größe des Web Viewers",
+    "Zoom-korrigiert für konsistente Darstellung",
+    "Optimiertes SVG für FileMaker Pro, Go und WebDirect"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobil", "WebDirect"
+  ]
+}

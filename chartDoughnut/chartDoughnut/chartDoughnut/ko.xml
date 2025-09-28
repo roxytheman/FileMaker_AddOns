@@ -1,0 +1,791 @@
+﻿
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.006C91020F5068694A5ACA64E8BF6ABE</StringID>
+	<SourceText>&apos; r=&apos;</SourceText>
+	<TargetText>&apos; r=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; r=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.00991E2BB79FD87E9E3BCA2E4AEE683A</StringID>
+	<SourceText>color</SourceText>
+	<TargetText>color</TargetText>
+	<Comment>com.fmi.calculation.text.color</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0A7C3B77D9F32F44C78500C72DA3E54D</StringID>
+	<SourceText>&apos; stroke-linecap=&apos;</SourceText>
+	<TargetText>&apos; stroke-linecap=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; stroke-linecap=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0FB122270860D13374996F21902B49E2</StringID>
+	<SourceText>height</SourceText>
+	<TargetText>height</TargetText>
+	<Comment>com.fmi.calculation.text.height</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.10BB02CACB886CAF6AAEDBDD174D589D</StringID>
+	<SourceText> Use example : chartDoughnut ( 400 ; 400 ; $defaultArray ; $dataArray )<CR/></SourceText>
+	<TargetText> Use example : chartDoughnut ( 400 ; 400 ; $defaultArray ; $dataArray )<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Use example : chartDoughnut ( 400 ; 400 ; $defaultArray ; $dataArray )_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1358E4034124A89E4C1CDD90FE3919A9</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;segments[+]value&quot; ; 30 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;segments[+]value&quot; ; 30 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;segments[+]value&quot; ; 30 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.13EDF26CBCCABA6863592B7386EC02E1</StringID>
+	<SourceText>,</SourceText>
+	<TargetText>,</TargetText>
+	<Comment>com.fmi.calculation.text.,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1631C943C7D01FB53BFE822ABC02973E</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;endCap&quot; ; &quot;round&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;endCap&quot; ; &quot;round&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;endCap&quot; ; &quot;round&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.18119C005DCBB6564A42CBB7CEA30FD3</StringID>
+	<SourceText>#01B1DE</SourceText>
+	<TargetText>#01B1DE</TargetText>
+	<Comment>com.fmi.calculation.text.#01B1DE</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.19DCA28BE15D5C30E4C9F1CED1B6E913</StringID>
+	<SourceText>wv_chartDoughnut_[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>wv_chartDoughnut_[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.calculation.text.wv_chartDoughnut_[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1F1CAB1728A3EED554120419800D4418</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;segments[+]value&quot; ; 50 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;segments[+]value&quot; ; 50 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;segments[+]value&quot; ; 50 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.248F804C1DCA767BE04493F208A08A71</StringID>
+	<SourceText>value</SourceText>
+	<TargetText>value</TargetText>
+	<Comment>com.fmi.calculation.text.value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2ACBCDBBE2756BA6DB1839243819F6AC</StringID>
+	<SourceText> Data Array Example<CR/></SourceText>
+	<TargetText> Data Array Example<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Data Array Example_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2BC7CC5F36F87F1B512793D16979AE7D</StringID>
+	<SourceText> Total value<CR/></SourceText>
+	<TargetText> Total value<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Total value_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2C5E73B14627BAB44852151569FF30FC</StringID>
+	<SourceText> Function Name : chartDoughnut<CR/></SourceText>
+	<TargetText> Function Name : chartDoughnut<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Function Name : chartDoughnut_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2F42FC9329AFFE93085A85D6500BDBB4</StringID>
+	<SourceText>color.background</SourceText>
+	<TargetText>color.background</TargetText>
+	<Comment>com.fmi.calculation.text.color.background</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.31330BE6160A6C29AF91E6D7AD142551</StringID>
+	<SourceText>defaultArray</SourceText>
+	<TargetText>defaultArray</TargetText>
+	<Comment>com.fmi.calculation.text.defaultArray</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3452D7F2A7588D435E0B9410FC8C08BA</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;stroke&quot; ; 40 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;stroke&quot; ; 40 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;stroke&quot; ; 40 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.375D08EB0F4AC89CF6817CAD90BDD70F</StringID>
+	<SourceText> Final SVG<CR/></SourceText>
+	<TargetText> Final SVG<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Final SVG_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.38AC7DE741E05CBC1EC6BECD5C4A25B7</StringID>
+	<SourceText>stroke</SourceText>
+	<TargetText>stroke</TargetText>
+	<Comment>com.fmi.calculation.text.stroke</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3C2EC8F2B5F3E841D07A6354AD05377F</StringID>
+	<SourceText>dataArray</SourceText>
+	<TargetText>dataArray</TargetText>
+	<Comment>com.fmi.calculation.text.dataArray</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4024DED088F872898D2CE0CC7693E219</StringID>
+	<SourceText> Arc length minus padding<CR/></SourceText>
+	<TargetText> Arc length minus padding<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Arc length minus padding_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.41A4980BCFB3200A1FEB186E154D6750</StringID>
+	<SourceText> across the ring based on value totals, with optional padding between slices. <CR/></SourceText>
+	<TargetText> across the ring based on value totals, with optional padding between slices. <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. across the ring based on value totals, with optional padding between slices. _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.478A1C95482C5910E61F75D4557F8216</StringID>
+	<SourceText>].value</SourceText>
+	<TargetText>].value</TargetText>
+	<Comment>com.fmi.calculation.text.].value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4B83EA7F93D2A320EFAAB8FBECAF2D5D</StringID>
+	<SourceText> Segment<CR/></SourceText>
+	<TargetText> Segment<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Segment_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.556E99D4A217AD9EA00C4E671C525C1E</StringID>
+	<SourceText>&lt;circle cx=&apos;</SourceText>
+	<TargetText>&lt;circle cx=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;circle cx=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5584FBB3DC40A2D6E483682E00D30D6C</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;segments[:]color&quot; ; &quot;#DF2F5D&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;segments[:]color&quot; ; &quot;#DF2F5D&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;segments[:]color&quot; ; &quot;#DF2F5D&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.58016D7BE48826BF7888E410F9BBDA05</StringID>
+	<SourceText>targetWebViewer</SourceText>
+	<TargetText>targetWebViewer</TargetText>
+	<Comment>com.fmi.calculation.text.targetWebViewer</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5ABDBB39D1F9C589030E34ABCDC03A10</StringID>
+	<SourceText>Web</SourceText>
+	<TargetText>Web</TargetText>
+	<Comment>com.fmi.calculation.text.Web</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.612C9FDE9425798C900BEC381F943018</StringID>
+	<SourceText> BD Link : https://www.briandunning.com/cf/2812<CR/></SourceText>
+	<TargetText> BD Link : https://www.briandunning.com/cf/2812<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. BD Link : https://www.briandunning.com/cf/2812_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6C8C8D9CD4111C046C43A715EABEE57E</StringID>
+	<SourceText> GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/6af23f6a64c639a06a536631cde5729ccff5e0af/functions/chartDoughnut.fmfn<CR/></SourceText>
+	<TargetText> GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/6af23f6a64c639a06a536631cde5729ccff5e0af/functions/chartDoughnut.fmfn<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/6af23f6a64c639a06a536631cde5729ccff5e0af/functions/chartDoughnut.fmfn_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.71C2455AAC51BEF497378BDDDC33410A</StringID>
+	<SourceText> customisable. Works seamlessly across FileMaker Pro, WebDirect, and FileMaker Go using responsive SVG.<CR/></SourceText>
+	<TargetText> customisable. Works seamlessly across FileMaker Pro, WebDirect, and FileMaker Go using responsive SVG.<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. customisable. Works seamlessly across FileMaker Pro, WebDirect, and FileMaker Go using responsive SVG._CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.778CA55E2478E6A387DF0DCC5380F0A7</StringID>
+	<SourceText>padding</SourceText>
+	<TargetText>padding</TargetText>
+	<Comment>com.fmi.calculation.text.padding</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.79DAFBA321E8084042069E25AD389EF2</StringID>
+	<SourceText>&lt;/svg&gt;</SourceText>
+	<TargetText>&lt;/svg&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;/svg&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.808DCADE1E9BA91875DA4CE84F945703</StringID>
+	<SourceText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; style=&apos;width:100%;height:100%;&apos; viewBox=&apos;0 0 </SourceText>
+	<TargetText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; style=&apos;width:100%;height:100%;&apos; viewBox=&apos;0 0 </TargetText>
+	<Comment>com.fmi.calculation.text.&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; style=&apos;width:100%;height:100%;&apos; viewBox=&apos;0 0</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.86F93F0B130F68B21D4D49D1356F3259</StringID>
+	<SourceText> degrees between segments<CR/></SourceText>
+	<TargetText> degrees between segments<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. degrees between segments_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8967E474E567D8A869E20AF4B21032D8</StringID>
+	<SourceText>&apos; cy=&apos;</SourceText>
+	<TargetText>&apos; cy=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; cy=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.90B77288D76A300DA10453259BF50096</StringID>
+	<SourceText>segments</SourceText>
+	<TargetText>segments</TargetText>
+	<Comment>com.fmi.calculation.text.segments</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.90EB89C12A1B218C1E843026DE787E6B</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;radius&quot; ; 150 ; 2 ]<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;radius&quot; ; 150 ; 2 ]<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;radius&quot; ; 150 ; 2 ]_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9286618FE0B2C104A3FBBEC4C6CD20A4</StringID>
+	<SourceText> </SourceText>
+	<TargetText> </TargetText>
+	<Comment>com.fmi.calculation.text.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.932AB2A8BA8887B9EB7F858085431A08</StringID>
+	<SourceText>#DF2F5D</SourceText>
+	<TargetText>#DF2F5D</TargetText>
+	<Comment>com.fmi.calculation.text.#DF2F5D</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.94FD8D617EAB602679355DCE7C25A50D</StringID>
+	<SourceText><TAB/>JSONSetElement ( &quot;&quot; ; <CR/></SourceText>
+	<TargetText><TAB/>JSONSetElement ( &quot;&quot; ; <CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/_JSONSetElement ( &quot;&quot; ; _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.96EF68678CA7FC4714B82D12FF19BFCB</StringID>
+	<SourceText> Padding converted to arc length<CR/></SourceText>
+	<TargetText> Padding converted to arc length<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Padding converted to arc length_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9AD811544C4166DBC2DBC9D4F60D0734</StringID>
+	<SourceText>)&apos; /&gt;</SourceText>
+	<TargetText>)&apos; /&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.)&apos; /&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A8462B5078DC680CDB04086A70F29CAA</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;color.background&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;color.background&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;color.background&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A856F5970333B29CA1CFB33448A41F8A</StringID>
+	<SourceText> Displays a multi-segment doughnut chart using SVG, <CR/></SourceText>
+	<TargetText> Displays a multi-segment doughnut chart using SVG, <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Displays a multi-segment doughnut chart using SVG, _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A885273C8732BD3BA5DBED43BC254411</StringID>
+	<SourceText>[</SourceText>
+	<TargetText>[</TargetText>
+	<Comment>com.fmi.calculation.text.[</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AB40E75C886B97B60925097CA72EFAEB</StringID>
+	<SourceText> Calculated arc baseline<CR/></SourceText>
+	<TargetText> Calculated arc baseline<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Calculated arc baseline_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AE762D6A7D742796B9470032F393ADC4</StringID>
+	<SourceText> Stroke thickness, background fill, and end cap style (round, square, or butt) are fully <CR/></SourceText>
+	<TargetText> Stroke thickness, background fill, and end cap style (round, square, or butt) are fully <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Stroke thickness, background fill, and end cap style (round, square, or butt) are fully _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AF00F351C15C4CFED6996E8722B2DF55</StringID>
+	<SourceText>width</SourceText>
+	<TargetText>width</TargetText>
+	<Comment>com.fmi.calculation.text.width</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AFC7C7EAF2FE1BFBCA5B53E57FC35D7D</StringID>
+	<SourceText>background.fill</SourceText>
+	<TargetText>background.fill</TargetText>
+	<Comment>com.fmi.calculation.text.background.fill</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B0FF5FB12BBC97BAF49DC09388F82E04</StringID>
+	<SourceText>data:text/html,</SourceText>
+	<TargetText>data:text/html,</TargetText>
+	<Comment>com.fmi.calculation.text.data:text/html,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B14B402FA499D7534BA0C52CE9B1E1F8</StringID>
+	<SourceText> DOUGHNUT CHART<CR/></SourceText>
+	<TargetText> DOUGHNUT CHART<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. DOUGHNUT CHART_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B338045B7B74C57BD6483D05D377EDFD</StringID>
+	<SourceText>&lt;html&gt;<CR/><TAB/><TAB/>&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\&quot;&gt;<CR/><TAB/><TAB/>&lt;body style=&apos;margin:0;padding:0;background:</SourceText>
+	<TargetText>&lt;html&gt;<CR/><TAB/><TAB/>&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\&quot;&gt;<CR/><TAB/><TAB/>&lt;body style=&apos;margin:0;padding:0;background:</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;html&gt;_CR/__TAB/__TAB/_&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\&quot;&gt;_CR/__TAB/__TAB/_&lt;body style=&apos;margin:0;padding:0;background:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B4BF536D781343D2808C1C47D4256EC3</StringID>
+	<SourceText> Note : See structure and syntax for defaultArray and dataArray below<CR/></SourceText>
+	<TargetText> Note : See structure and syntax for defaultArray and dataArray below<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Note : See structure and syntax for defaultArray and dataArray below_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B5891D5D31C2D57D8C36A5E1ABEC4147</StringID>
+	<SourceText>radius</SourceText>
+	<TargetText>radius</TargetText>
+	<Comment>com.fmi.calculation.text.radius</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B596AA4631322BB4939C670B8B228CD6</StringID>
+	<SourceText>&apos; transform=&apos;rotate(-90 </SourceText>
+	<TargetText>&apos; transform=&apos;rotate(-90 </TargetText>
+	<Comment>com.fmi.calculation.text.&apos; transform=&apos;rotate(-90</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B613EA7ED210F1B43EB9CF2D7C456F36</StringID>
+	<SourceText>data:image/svg+xml;base64,</SourceText>
+	<TargetText>data:image/svg+xml;base64,</TargetText>
+	<Comment>com.fmi.calculation.text.data:image/svg+xml;base64,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B6474517F2C291A972B6B0C03DB96CCA</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;segments[:]color&quot; ; &quot;#01B1DE&quot; ; 1 ] <CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;segments[:]color&quot; ; &quot;#01B1DE&quot; ; 1 ] <CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;segments[:]color&quot; ; &quot;#01B1DE&quot; ; 1 ] _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BBB71BE88C53A02CCAA1E84677E66289</StringID>
+	<SourceText>&apos; /&gt;</SourceText>
+	<TargetText>&apos; /&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; /&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C32332D3A76B3C07F3CD195ED13DB43E</StringID>
+	<SourceText>round</SourceText>
+	<TargetText>round</TargetText>
+	<Comment>com.fmi.calculation.text.round</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C50FCD6315B2154FFAA2AF0538E31CD0</StringID>
+	<SourceText>endCap</SourceText>
+	<TargetText>endCap</TargetText>
+	<Comment>com.fmi.calculation.text.endCap</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C5F749830620EF9EACAB58D5F6EF0187</StringID>
+	<SourceText>#67BD46</SourceText>
+	<TargetText>#67BD46</TargetText>
+	<Comment>com.fmi.calculation.text.#67BD46</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C6A8BC18B965C3A13BCE7355369FB583</StringID>
+	<SourceText>&apos; stroke-dasharray=&apos;</SourceText>
+	<TargetText>&apos; stroke-dasharray=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; stroke-dasharray=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C7A38A2F01EEB8B51ACB9F9F32889B4F</StringID>
+	<SourceText> Arc generation<CR/></SourceText>
+	<TargetText> Arc generation<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Arc generation_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C7E2D14412EA4095729F600B46713CC9</StringID>
+	<SourceText>&lt;rect width=&apos;100%&apos; height=&apos;100%&apos; fill=&apos;</SourceText>
+	<TargetText>&lt;rect width=&apos;100%&apos; height=&apos;100%&apos; fill=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;rect width=&apos;100%&apos; height=&apos;100%&apos; fill=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C82C9199005E2B454EE00A313DE0A02D</StringID>
+	<SourceText><TAB/>)<CR/></SourceText>
+	<TargetText><TAB/>)<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/_)_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C8303CD40D1E381C7BDD3EF0ECE6B61D</StringID>
+	<SourceText>cap</SourceText>
+	<TargetText>cap</TargetText>
+	<Comment>com.fmi.calculation.text.cap</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C90EE444ACF31F959B4BC8E9B36828CA</StringID>
+	<SourceText>#FFFFFF</SourceText>
+	<TargetText>#FFFFFF</TargetText>
+	<Comment>com.fmi.calculation.text.#FFFFFF</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CB7A68C052A68EB1007EF58A3D7CB772</StringID>
+	<SourceText>&apos;&gt;</SourceText>
+	<TargetText>&apos;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CB7BE8B9900EC5EE3EC04C2CCCE16010</StringID>
+	<SourceText> Segment data<CR/></SourceText>
+	<TargetText> Segment data<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Segment data_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CD342529ECEA2304119045A1A99D24EF</StringID>
+	<SourceText> with support for custom colours, stroke width, segment padding, and end caps.<CR/></SourceText>
+	<TargetText> with support for custom colours, stroke width, segment padding, and end caps.<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. with support for custom colours, stroke width, segment padding, and end caps._CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CD3E4713C24C52A4A8123B54C41D6E9F</StringID>
+	<SourceText> segments, each defined by value and colour. Segments are proportionally distributed <CR/></SourceText>
+	<TargetText> segments, each defined by value and colour. Segments are proportionally distributed <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. segments, each defined by value and colour. Segments are proportionally distributed _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CDF2272932810A811B03A6EC3BDE90BF</StringID>
+	<SourceText>data:image/svg+xml;utf8,</SourceText>
+	<TargetText>data:image/svg+xml;utf8,</TargetText>
+	<Comment>com.fmi.calculation.text.data:image/svg+xml;utf8,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CE0E869E4683AC045B4B3984360B366A</StringID>
+	<SourceText>segments[:]color</SourceText>
+	<TargetText>segments[:]color</TargetText>
+	<Comment>com.fmi.calculation.text.segments[:]color</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D017FCC25CF80FE7E0ED18A41C89F15D</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;segments[:]color&quot; ; &quot;#67BD46&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;segments[:]color&quot; ; &quot;#67BD46&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;segments[:]color&quot; ; &quot;#67BD46&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D0393F39CD9C4C4BA85511D03B8CDE1C</StringID>
+	<SourceText> Written by: jonni@me.com<CR/></SourceText>
+	<TargetText> Written by: jonni@me.com<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Written by: jonni@me.com_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D0A7D0325D15B344CDA64869596E98E7</StringID>
+	<SourceText>&apos; preserveAspectRatio=&apos;xMidYMid meet&apos;&gt;</SourceText>
+	<TargetText>&apos; preserveAspectRatio=&apos;xMidYMid meet&apos;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; preserveAspectRatio=&apos;xMidYMid meet&apos;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D368224758B103B0BB2EFF5175339335</StringID>
+	<SourceText>]</SourceText>
+	<TargetText>]</TargetText>
+	<Comment>com.fmi.calculation.text.]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DA9E602D53500ED9110B8040E0C5ED5A</StringID>
+	<SourceText>&apos; fill=&apos;none&apos; stroke=&apos;</SourceText>
+	<TargetText>&apos; fill=&apos;none&apos; stroke=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; fill=&apos;none&apos; stroke=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DABFD27173C21E478BB227F2E919F378</StringID>
+	<SourceText> V 1.0</SourceText>
+	<TargetText> V 1.0</TargetText>
+	<Comment>com.fmi.calculation.text. V 1.0</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DFFE79F666C12ECEEE69BE9BF5155207</StringID>
+	<SourceText>segments[+]value</SourceText>
+	<TargetText>segments[+]value</TargetText>
+	<Comment>com.fmi.calculation.text.segments[+]value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E0ECE08AC543EE713C8A3805E3EB77A4</StringID>
+	<SourceText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0 </SourceText>
+	<TargetText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0 </TargetText>
+	<Comment>com.fmi.calculation.text.&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E211737A5DE9120BF4C6C5E39FB3F92A</StringID>
+	<SourceText> Default Array Example<CR/></SourceText>
+	<TargetText> Default Array Example<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Default Array Example_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E493454F7221548459F0EFB4B5F052DA</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E6129CAB1F79A7BB93DE5A20F87A3AE6</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;padding&quot; ; 20 ; 2 ] ; // degrees between segments<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;padding&quot; ; 20 ; 2 ] ; // degrees between segments<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;padding&quot; ; 20 ; 2 ] ; // degrees between segments_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E886DD92751BABF6BE3DB19DB56AC057</StringID>
+	<SourceText> Background ring<CR/></SourceText>
+	<TargetText> Background ring<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Background ring_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E96EBBD7C2EC3AC9747B6125A500CFC9</StringID>
+	<SourceText> Scaled values<CR/></SourceText>
+	<TargetText> Scaled values<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Scaled values_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EA4F8A5783337094A2743C33F56E5903</StringID>
+	<SourceText>&lt;/body&gt;<CR/><TAB/>&lt;/html&gt;</SourceText>
+	<TargetText>&lt;/body&gt;<CR/><TAB/>&lt;/html&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;/body&gt;_CR/__TAB/_&lt;/html&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EB45F474D3473973B97F461EC0706E6E</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;segments[+]value&quot; ; 20 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;segments[+]value&quot; ; 20 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;segments[+]value&quot; ; 20 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.ED50F0DDE7106D2662A388DC262863AE</StringID>
+	<SourceText>&apos; stroke-width=&apos;</SourceText>
+	<TargetText>&apos; stroke-width=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; stroke-width=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EECE2E542B0CDCE586A27B7931BA8BF0</StringID>
+	<SourceText>¶</SourceText>
+	<TargetText>¶</TargetText>
+	<Comment>com.fmi.calculation.text.¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F19E236DCA7159827A9F36A2A4570F4B</StringID>
+	<SourceText>&apos; stroke-dashoffset=&apos;-</SourceText>
+	<TargetText>&apos; stroke-dashoffset=&apos;-</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; stroke-dashoffset=&apos;-</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F513A756639D86A83502D98B0A2A59CB</StringID>
+	<SourceText> Fixed coordinate system<CR/></SourceText>
+	<TargetText> Fixed coordinate system<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Fixed coordinate system_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F58F3F17F867E6A67B5990E5E889157C</StringID>
+	<SourceText> Parameters : width ; height ; defaultArray ; dataArray<CR/></SourceText>
+	<TargetText> Parameters : width ; height ; defaultArray ; dataArray<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Parameters : width ; height ; defaultArray ; dataArray_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FD54683CDC641B21B0A7253A663E6FA3</StringID>
+	<SourceText>&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</SourceText>
+	<TargetText>&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FDDFC5D013EC00ECCA7D0C965C012649</StringID>
+	<SourceText> The chartDoughnut function renders a scalable, circular doughnut chart with multiple <CR/></SourceText>
+	<TargetText> The chartDoughnut function renders a scalable, circular doughnut chart with multiple <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. The chartDoughnut function renders a scalable, circular doughnut chart with multiple _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FFA98F4239D444B249AC29301A86553B</StringID>
+	<SourceText>;&apos;&gt;</SourceText>
+	<TargetText>;&apos;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.;&apos;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.19DCA28BE15D5C30E4C9F1CED1B6E913</StringID>
+	<SourceText>wv_chartDoughnut_[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>wv_chartDoughnut_[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.layoutobject.wv_chartDoughnut_[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.417DCB7F14F323DA1CE06A35694B7835</StringID>
+	<SourceText>chartDoughnut_[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>chartDoughnut_[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.layoutobject.chartDoughnut_[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.4468043D6B34EEC75313D53EBAB13B78</StringID>
+	<SourceText>setDoughnutChart</SourceText>
+	<TargetText>setDoughnutChart</TargetText>
+	<Comment>com.fmi.script.setDoughnutChart</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.9F30639D54E3CEF1B616A3DD9EED9A29</StringID>
+	<SourceText>DoughnutChart</SourceText>
+	<TargetText>DoughnutChart</TargetText>
+	<Comment>com.fmi.script.folder.DoughnutChart</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.111839C0417DE18B8CF74F955F50BD29</StringID>
+	<SourceText>Dependencies: <TAB/><TAB/>Script Parameter Payload</SourceText>
+	<TargetText>Dependencies: <TAB/><TAB/>Script Parameter Payload</TargetText>
+	<Comment>com.fmi.scriptstep.text.Dependencies: _TAB/__TAB/_Script Parameter Payload</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.4AF5B3174B05904B15984C0835A5C65B</StringID>
+	<SourceText>Loads a new doughnut chart into targeted WebViewer</SourceText>
+	<TargetText>Loads a new doughnut chart into targeted WebViewer</TargetText>
+	<Comment>com.fmi.scriptstep.text.Loads a new doughnut chart into targeted WebViewer</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.6E93D27030534AD82F0364250B306C64</StringID>
+	<SourceText>Subscripts Called: <TAB/>None</SourceText>
+	<TargetText>Subscripts Called: <TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Subscripts Called: _TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7492EB54E2EE2865018E351FCF9556C8</StringID>
+	<SourceText>SET DOUGHNUT CHART </SourceText>
+	<TargetText>SET DOUGHNUT CHART </TargetText>
+	<Comment>com.fmi.scriptstep.text.SET DOUGHNUT CHART</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.76A6253F6E99D0D9944627F1988AE1E7</StringID>
+	<SourceText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;<CR/><TAB/>[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;<CR/><TAB/><CR/><TAB/>[ &quot;defaultArray.stroke&quot; ; 40 ; 2 ] ; // Doughnut default thickness<CR/><TAB/>[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]<CR/><TAB/>[ &quot;defaultArray.padding&quot; ; 20 ; 2 ] ; // degrees between segments<CR/><TAB/>[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour<CR/><TAB/>[ &quot;defaultArray.color.background&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Columns default column colour<CR/><TAB/>[ &quot;defaultArray.radius&quot; ; 150 ; 2 ] // Chart radius<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.segments[+]value&quot; ; 30 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[:]color&quot; ; &quot;#DF2F5D&quot; ; 1 ] ; // Segment colour<CR/><TAB/>[ &quot;dataArray.segments[+]value&quot; ; 50 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[:]color&quot; ; &quot;#67BD46&quot; ; 1 ] ; // Segment colour<CR/><TAB/>[ &quot;dataArray.segments[+]value&quot; ; 20 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[:]color&quot; ; &quot;#01B1DE&quot; ; 1 ] // Segment colour<CR/><CR/>)<CR/><CR/>or<CR/><CR/>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;<CR/><TAB/>[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.stroke&quot; ; 40 ; 2 ] ; // Doughnut default thickness<CR/><TAB/>[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]<CR/><TAB/>[ &quot;defaultArray.padding&quot; ; 20 ; 2 ] ; // degrees between segments<CR/><TAB/>[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour<CR/><TAB/>[ &quot;defaultArray.color.background&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Columns default column colour<CR/><TAB/>[ &quot;defaultArray.radius&quot; ; 150 ; 2 ] // Chart radius<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.segments[0]value&quot; ; 30 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[0]color&quot; ; &quot;#DF2F5D&quot; ; 1 ] ; // Segment colour<CR/><TAB/>[ &quot;dataArray.segments[1]value&quot; ; 50 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[1]color&quot; ; &quot;#67BD46&quot; ; 1 ] ; // Segment colour<CR/><TAB/>[ &quot;dataArray.segments[2]value&quot; ; 20 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[2]color&quot; ; &quot;#01B1DE&quot; ; 1 ] // Segment colour<CR/><CR/>)</SourceText>
+	<TargetText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;<CR/><TAB/>[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;<CR/><TAB/><CR/><TAB/>[ &quot;defaultArray.stroke&quot; ; 40 ; 2 ] ; // Doughnut default thickness<CR/><TAB/>[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]<CR/><TAB/>[ &quot;defaultArray.padding&quot; ; 20 ; 2 ] ; // degrees between segments<CR/><TAB/>[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour<CR/><TAB/>[ &quot;defaultArray.color.background&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Columns default column colour<CR/><TAB/>[ &quot;defaultArray.radius&quot; ; 150 ; 2 ] // Chart radius<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.segments[+]value&quot; ; 30 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[:]color&quot; ; &quot;#DF2F5D&quot; ; 1 ] ; // Segment colour<CR/><TAB/>[ &quot;dataArray.segments[+]value&quot; ; 50 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[:]color&quot; ; &quot;#67BD46&quot; ; 1 ] ; // Segment colour<CR/><TAB/>[ &quot;dataArray.segments[+]value&quot; ; 20 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[:]color&quot; ; &quot;#01B1DE&quot; ; 1 ] // Segment colour<CR/><CR/>)<CR/><CR/>or<CR/><CR/>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;<CR/><CR/><TAB/>[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;<CR/><TAB/>[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;<CR/><CR/><TAB/>[ &quot;defaultArray.stroke&quot; ; 40 ; 2 ] ; // Doughnut default thickness<CR/><TAB/>[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]<CR/><TAB/>[ &quot;defaultArray.padding&quot; ; 20 ; 2 ] ; // degrees between segments<CR/><TAB/>[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour<CR/><TAB/>[ &quot;defaultArray.color.background&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Columns default column colour<CR/><TAB/>[ &quot;defaultArray.radius&quot; ; 150 ; 2 ] // Chart radius<CR/><TAB/><CR/><TAB/>[ &quot;dataArray.segments[0]value&quot; ; 30 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[0]color&quot; ; &quot;#DF2F5D&quot; ; 1 ] ; // Segment colour<CR/><TAB/>[ &quot;dataArray.segments[1]value&quot; ; 50 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[1]color&quot; ; &quot;#67BD46&quot; ; 1 ] ; // Segment colour<CR/><TAB/>[ &quot;dataArray.segments[2]value&quot; ; 20 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )<CR/><TAB/>[ &quot;dataArray.segments[2]color&quot; ; &quot;#01B1DE&quot; ; 1 ] // Segment colour<CR/><CR/>)</TargetText>
+	<Comment>com.fmi.scriptstep.text.JSONSetElement ( &quot;&quot; ; _CR/__CR/__TAB/_[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;_CR/__CR/__TAB/_[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;_CR/__TAB/_[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;_CR/__TAB/__CR/__TAB/_[ &quot;defaultArray.stroke&quot; ; 40 ; 2 ] ; // Doughnut default thickness_CR/__TAB/_[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]_CR/__TAB/_[ &quot;defaultArray.padding&quot; ; 20 ; 2 ] ; // degrees between segments_CR/__TAB/_[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour_CR/__TAB/_[ &quot;defaultArray.color.background&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Columns default column colour_CR/__TAB/_[ &quot;defaultArray.radius&quot; ; 150 ; 2 ] // Chart radius_CR/__TAB/__CR/__TAB/_[ &quot;dataArray.segments[+]value&quot; ; 30 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.segments[:]color&quot; ; &quot;#DF2F5D&quot; ; 1 ] ; // Segment colour_CR/__TAB/_[ &quot;dataArray.segments[+]value&quot; ; 50 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.segments[:]color&quot; ; &quot;#67BD46&quot; ; 1 ] ; // Segment colour_CR/__TAB/_[ &quot;dataArray.segments[+]value&quot; ; 20 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.segments[:]color&quot; ; &quot;#01B1DE&quot; ; 1 ] // Segment colour_CR/__CR/_)_CR/__CR/_or_CR/__CR/_JSONSetElement ( &quot;&quot; ; _CR/__CR/__TAB/_[ &quot;targetWebViewer&quot; ; &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; 1 ] ;_CR/__CR/__TAB/_[ &quot;width&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;width&quot; ) ; 2 ] ;_CR/__TAB/_[ &quot;height&quot; ; GetLayoutObjectAttribute ( &quot;wv_chartColumnStacks_[&lt;^FMXML_AddonInstanceUUID&gt;]&quot; ; &quot;height&quot; ) ; 2 ] ;_CR/__CR/__TAB/_[ &quot;defaultArray.stroke&quot; ; 40 ; 2 ] ; // Doughnut default thickness_CR/__TAB/_[ &quot;defaultArray.endCap&quot; ; &quot;round&quot; ; 1 ] ; // End cap style [ round, butt, square - or empty ]_CR/__TAB/_[ &quot;defaultArray.padding&quot; ; 20 ; 2 ] ; // degrees between segments_CR/__TAB/_[ &quot;defaultArray.background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Widget&apos;s default background colour_CR/__TAB/_[ &quot;defaultArray.color.background&quot; ; &quot;#FFFFFF&quot; ; 1 ] ; // Columns default column colour_CR/__TAB/_[ &quot;defaultArray.radius&quot; ; 150 ; 2 ] // Chart radius_CR/__TAB/__CR/__TAB/_[ &quot;dataArray.segments[0]value&quot; ; 30 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.segments[0]color&quot; ; &quot;#DF2F5D&quot; ; 1 ] ; // Segment colour_CR/__TAB/_[ &quot;dataArray.segments[1]value&quot; ; 50 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.segments[1]color&quot; ; &quot;#67BD46&quot; ; 1 ] ; // Segment colour_CR/__TAB/_[ &quot;dataArray.segments[2]value&quot; ; 20 ; 2 ] ; // Segment value ( full value will be rendered in relation of floor and ceiling )_CR/__TAB/_[ &quot;dataArray.segments[2]color&quot; ; &quot;#01B1DE&quot; ; 1 ] // Segment colour_CR/__CR/_)</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7C4D22BEA4B93DC796F1B01B99B4FFBE</StringID>
+	<SourceText>Written on 07.05.2025 |  Updated: 00.00.0000  | Valid: Yes  |  By: jonni@me.com</SourceText>
+	<TargetText>Written on 07.05.2025 |  Updated: 00.00.0000  | Valid: Yes  |  By: jonni@me.com</TargetText>
+	<Comment>com.fmi.scriptstep.text.Written on 07.05.2025 |  Updated: 00.00.0000  | Valid: Yes  |  By: jonni@me.com</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.ABA09ABEAE968FCB2D7635E45EE3A6A6</StringID>
+	<SourceText>Scripts Called: <TAB/><TAB/>None</SourceText>
+	<TargetText>Scripts Called: <TAB/><TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Scripts Called: _TAB/__TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CDFDD882E2FC15C7EB360422FE24AC03</StringID>
+	<SourceText>++++++++++++++++++++++++++++++++++++++++++++++++</SourceText>
+	<TargetText>++++++++++++++++++++++++++++++++++++++++++++++++</TargetText>
+	<Comment>com.fmi.scriptstep.text.++++++++++++++++++++++++++++++++++++++++++++++++</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D129570CB279FF510C8A67E223CC63A5</StringID>
+	<SourceText>Compatibility: <TAB/><TAB/>FileMaker 18+</SourceText>
+	<TargetText>Compatibility: <TAB/><TAB/>FileMaker 18+</TargetText>
+	<Comment>com.fmi.scriptstep.text.Compatibility: _TAB/__TAB/_FileMaker 18+</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.E9F886B04A084FD7228EF2E0BC9822E7</StringID>
+	<SourceText>Activation: <TAB/><TAB/><TAB/>User action, script or trigger</SourceText>
+	<TargetText>Activation: <TAB/><TAB/><TAB/>User action, script or trigger</TargetText>
+	<Comment>com.fmi.scriptstep.text.Activation: _TAB/__TAB/__TAB/_User action, script or trigger</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F8C692C443F93C94F89751BC18D8150A</StringID>
+	<SourceText>Expected Payload Syntax</SourceText>
+	<TargetText>Expected Payload Syntax</TargetText>
+	<Comment>com.fmi.scriptstep.text.Expected Payload Syntax</Comment>
+</DynamicTemplateString>

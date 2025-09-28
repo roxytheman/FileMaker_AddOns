@@ -1,0 +1,16 @@
+﻿{
+  "Title": "progressRings",
+  "Description": "使用 SVG 创建的 Apple Watch 风格多环进度指示器。可通过 JSON 完全自定义，兼容所有 FileMaker 平台。",
+  "Category": "用户界面",
+  "Features": [
+    "多个同心进度环",
+    "每个环支持独立设置：颜色、值、宽度、端点样式",
+    "支持自定义内边距和默认值",
+    "响应 Web Viewer 大小变化",
+    "缩放修正，保持一致显示效果",
+    "为 FileMaker Pro、Go 和 WebDirect 优化的 SVG"
+  ],
+  "Optimized": [
+    "桌面", "平板", "移动", "WebDirect"
+  ]
+}

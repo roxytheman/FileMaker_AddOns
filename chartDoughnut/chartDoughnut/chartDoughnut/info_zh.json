@@ -1,0 +1,14 @@
+﻿{
+  "Title": "chartDoughnut",
+  "Description": "使用这个为 FileMaker Pro 打造的可自定义 SVG 组件，轻松展示动态的环形图表，作者 jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "环形图片段展示各部分比例",
+    "通过 JSON 自定义颜色、线宽和间距",
+    "配合 FileMaker 脚本和 payload 动态更新",
+    "完全在 FileMaker 中控制，无需 HTML",
+    "自动响应 Web Viewer 的大小",
+    "适用于仪表板、状态展示和比例可视化"
+  ],
+  "Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}
