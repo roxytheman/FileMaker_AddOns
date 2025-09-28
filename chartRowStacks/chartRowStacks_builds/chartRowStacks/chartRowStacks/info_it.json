@@ -1,0 +1,12 @@
+﻿{
+  "Title": "chartRowStacks",
+  "Description": "Barra di progresso orizzontale scalabile con piena personalizzazione JSON per FileMaker Pro di jonni@me.com",
+  "Category": "Interfaccia Utente",
+  "Features": [
+    "Segmenti impilati orizzontalmente con dimensioni e allineamento personalizzabili",
+    "Definisci colori, spessore, terminali e spaziatura via JSON",
+    "Utilizza solo calcoli FileMaker nativi — senza plug-in",
+    "Adatto a WebDirect, Go e dimensioni dinamiche"
+  ],
+  "Optimized": [ "Desktop", "Tablet", "Mobile", "WebDirect" ]
+}

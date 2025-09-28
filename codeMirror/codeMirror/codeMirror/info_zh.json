@@ -1,0 +1,15 @@
+﻿{
+  "Title": "codeMirror",
+  "Description": "基于 CodeMirror 的 FileMaker 语法感知编辑器，支持分屏显示与函数实时预览，替代传统数据查看器。",
+  "Category": "开发者工具",
+  "Features": [
+    "分屏显示支持函数实时计算",
+    "支持 FileMaker 表达式的语法高亮和自动补全",
+    "响应式、可调整大小的编辑器界面",
+    "基于现代 CodeMirror 编辑框架",
+    "适合调试和测试 FileMaker 计算公式"
+  ],
+  "Optimized": [
+    "桌面", "平板", "移动", "WebDirect"
+  ]
+}

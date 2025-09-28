@@ -1,0 +1,12 @@
+﻿{
+  "Title": "chartRowStacks",
+  "Description": "FileMaker Pro를 위한 완전한 JSON 사용자 정의 수평 진행 바 위젯 (제작자: jonni@me.com)",
+  "Category": "사용자 인터페이스",
+  "Features": [
+    "크기와 정렬을 사용자 정의할 수 있는 수평 누적 막대 세그먼트",
+    "색상, 두께, 끝 처리, 여백 등을 JSON으로 정의",
+    "플러그인 없이 FileMaker 계산만 사용",
+    "WebDirect 및 Go 등 모든 플랫폼에 대응"
+  ],
+  "Optimized": [ "Desktop", "Tablet", "Mobile", "WebDirect" ]
+}

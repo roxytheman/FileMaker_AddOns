@@ -1,0 +1,12 @@
+﻿{
+  "Title": "chartRowStacks",
+  "Description": "Skalbar horisontell framstegsbalk med fullständig JSON-anpassning för FileMaker Pro av jonni@me.com",
+  "Category": "Användargränssnitt",
+  "Features": [
+    "Horisontellt staplade segment med justerbar storlek och inriktning",
+    "Färger, tjocklek, ändar och marginaler definieras med JSON",
+    "Använder endast inbyggda FileMaker-beräkningar — inga insticksmoduler krävs",
+    "Optimerad för WebDirect, Go och anpassningsbar visningsstorlek"
+  ],
+  "Optimized": [ "Desktop", "Tablet", "Mobile", "WebDirect" ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Title": "codeMirror",
+  "Description": "Éditeur de code à double panneau pour FileMaker avec coloration syntaxique et complétion automatique. Permet une évaluation des fonctions en direct, comme un visualiseur de données non modal.",
+  "Category": "Outils développeur",
+  "Features": [
+    "Évaluation en temps réel des fonctions dans un double panneau",
+    "Coloration syntaxique et complétion pour les calculs FileMaker",
+    "Interface d’édition moderne et réactive",
+    "Construit avec la bibliothèque CodeMirror",
+    "Idéal pour tester des formules et déboguer directement"
+  ],
+  "Optimized": [
+    "Bureau", "Tablette", "Mobile", "WebDirect"
+  ]
+}

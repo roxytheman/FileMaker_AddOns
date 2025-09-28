@@ -1,0 +1,12 @@
+﻿{
+  "Title": "chartRowStacks",
+  "Description": "Schaalbare horizontale voortgangsbalk met volledige JSON-aanpassing voor FileMaker Pro van jonni@me.com",
+  "Category": "Gebruikersinterface",
+  "Features": [
+    "Horizontaal gestapelde segmenten met aanpasbare grootte en uitlijning",
+    "Kleuren, dikte, uiteinden en opvulling definieerbaar via JSON",
+    "Gebruikt alleen native FileMaker-berekeningen – geen plug-ins",
+    "Compatibel met WebDirect, Go en dynamische containerformaten"
+  ],
+  "Optimized": [ "Desktop", "Tablet", "Mobile", "WebDirect" ]
+}

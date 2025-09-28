@@ -1,0 +1,12 @@
+﻿{
+  "Title": "chartRowStacks",
+  "Description": "适用于 FileMaker Pro 的可扩展水平进度条组件，支持完整的 JSON 自定义（作者：jonni@me.com）",
+  "Category": "用户界面",
+  "Features": [
+    "水平堆叠的条形段，可自定义大小与对齐方式",
+    "通过 JSON 自定义颜色、宽度、端点和间距",
+    "仅使用 FileMaker 原生计算 — 无需插件",
+    "支持 WebDirect、Go 及响应式容器"
+  ],
+  "Optimized": [ "Desktop", "Tablet", "Mobile", "WebDirect" ]
+}

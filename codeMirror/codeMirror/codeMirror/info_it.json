@@ -1,0 +1,15 @@
+﻿{
+  "Title": "codeMirror",
+  "Description": "Editor di codice a pannelli divisi per FileMaker con evidenziazione della sintassi e suggerimenti. Valuta funzioni in tempo reale come un Data Viewer moderno e non modale.",
+  "Category": "Strumenti per sviluppatori",
+  "Features": [
+    "Valutazione in tempo reale delle funzioni in vista doppia",
+    "Evidenziazione della sintassi e completamento automatico per formule FileMaker",
+    "Interfaccia editor reattiva e ridimensionabile",
+    "Basato sulla libreria CodeMirror",
+    "Perfetto per testare e fare debug delle formule"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

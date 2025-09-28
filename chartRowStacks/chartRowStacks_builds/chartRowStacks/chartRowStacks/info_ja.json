@@ -1,0 +1,12 @@
+﻿{
+  "Title": "chartRowStacks",
+  "Description": "FileMaker Pro 用の完全な JSON カスタマイズが可能な水平進捗バーウィジェット（作成者: jonni@me.com）",
+  "Category": "ユーザーインターフェース",
+  "Features": [
+    "サイズと整列をカスタマイズ可能な水平スタックバーセグメント",
+    "色、太さ、線端、余白を JSON で定義",
+    "FileMaker ネイティブの計算のみを使用 — プラグイン不要",
+    "WebDirect や Go を含むすべてのプラットフォームに対応"
+  ],
+  "Optimized": [ "Desktop", "Tablet", "Mobile", "WebDirect" ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Title": "codeMirror",
+  "Description": "Editor de código com divisão de tela e reconhecimento de sintaxe para FileMaker. Funciona como um Visualizador de Dados moderno, sem janela modal.",
+  "Category": "Ferramentas de desenvolvedor",
+  "Features": [
+    "Avaliação em tempo real de funções em duas janelas",
+    "Destaque de sintaxe e preenchimento automático para expressões FileMaker",
+    "Interface de editor responsiva e redimensionável",
+    "Baseado na biblioteca CodeMirror",
+    "Ideal para testar e depurar expressões"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Celular", "WebDirect"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Title": "chartRowStacks",
+  "Description": "Widget de barra de progresso horizontal com personalização JSON completa para FileMaker Pro por jonni@me.com",
+  "Category": "Interface do Usuário",
+  "Features": [
+    "Segmentos horizontais empilhados com tamanho e alinhamento personalizáveis",
+    "Cores, espessura, terminação e espaçamento definíveis via JSON",
+    "Usa apenas cálculos nativos do FileMaker — sem plug-ins",
+    "Compatível com WebDirect, Go e redimensionamento dinâmico"
+  ],
+  "Optimized": [ "Desktop", "Tablet", "Mobile", "WebDirect" ]
+}

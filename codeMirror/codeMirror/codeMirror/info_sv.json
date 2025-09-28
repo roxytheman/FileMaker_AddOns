@@ -1,0 +1,15 @@
+﻿{
+  "Title": "codeMirror",
+  "Description": "Kodredigerare med delat fönster för FileMaker med syntaxmarkering och kodtips. Ersätter Data Viewer med en modern, icke-modulär lösning.",
+  "Category": "Utvecklarverktyg",
+  "Features": [
+    "Funktioner utvärderas i realtid i delat fönster",
+    "Syntaxmarkering och autokomplettering för FileMaker-uttryck",
+    "Responsivt och skalbart redigeringsgränssnitt",
+    "Byggd med CodeMirror för moderna funktioner",
+    "Perfekt för test och felsökning av formler"
+  ],
+  "Optimized": [
+    "Dator", "Surfplatta", "Mobil", "WebDirect"
+  ]
+}

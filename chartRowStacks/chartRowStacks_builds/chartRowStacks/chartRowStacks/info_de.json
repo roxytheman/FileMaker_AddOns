@@ -1,0 +1,12 @@
+﻿{
+  "Title": "chartRowStacks",
+  "Description": "Skalierbares horizontales Fortschrittsbalken-Widget mit vollständiger JSON-Anpassung für FileMaker Pro von jonni@me.com",
+  "Category": "Benutzeroberfläche",
+  "Features": [
+    "Horizontale Balkensegmente mit anpassbarer Größe und Ausrichtung",
+    "Farben, Dicke, Endkappen und Abstand per JSON definierbar",
+    "Verwendet native FileMaker-Berechnungen – keine Plug-ins erforderlich",
+    "Passt sich Containern und Plattformen wie WebDirect und Go an"
+  ],
+  "Optimized": [ "Desktop", "Tablet", "Mobile", "WebDirect" ]
+}

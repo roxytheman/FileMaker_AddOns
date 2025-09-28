@@ -1,0 +1,15 @@
+﻿{
+  "Title": "codeMirror",
+  "Description": "Ein geteilter, syntaxsensitiver Code-Editor für FileMaker auf Basis von CodeMirror. Zeigt Funktionen in Echtzeit an, wie ein moderner, nicht-modaler Datenbetrachter.",
+  "Category": "Entwicklertools",
+  "Features": [
+    "Echtzeit-Auswertung von Funktionen im Split-View",
+    "Syntaxhervorhebung und Autovervollständigung für FileMaker-Formeln",
+    "Reaktionsschnelles, anpassbares Editor-Layout",
+    "Moderne Editierfunktionen durch CodeMirror",
+    "Ideal für Testen und Debugging von Berechnungen"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobil", "WebDirect"
+  ]
+}

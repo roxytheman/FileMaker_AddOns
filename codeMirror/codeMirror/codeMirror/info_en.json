@@ -1,0 +1,15 @@
+﻿{
+  "Title": "codeMirror",
+  "Description": "A split-pane, syntax-aware code editor for FileMaker, built with CodeMirror. Provides real-time function previews like a modern, non-modal Data Viewer.",
+  "Category": "Developer Tools",
+  "Features": [
+    "Real-time function evaluation in a split view",
+    "Syntax highlighting and auto-complete for FileMaker expressions",
+    "Responsive and resizable code editor interface",
+    "Built using the CodeMirror library for modern editing features",
+    "Ideal for testing calculations and debugging in place"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

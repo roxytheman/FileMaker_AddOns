@@ -1,0 +1,15 @@
+﻿{
+  "Title": "codeMirror",
+  "Description": "Een gesplitste, syntax-bewuste code-editor voor FileMaker met real-time functie-evaluatie. Gebaseerd op CodeMirror, ideaal als een moderne, niet-modale Data Viewer.",
+  "Category": "Ontwikkelhulpmiddelen",
+  "Features": [
+    "Real-time evaluatie van functies in een gesplitst venster",
+    "Syntax highlighting en auto-aanvulling voor FileMaker-berekeningen",
+    "Responsieve, schaalbare editorinterface",
+    "Gebouwd met de CodeMirror bibliotheek",
+    "Ideaal voor testen en debuggen van formules"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobiel", "WebDirect"
+  ]
+}
