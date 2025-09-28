@@ -4,6 +4,15 @@ WebWidget add-on for FileMaker displaying progress doughnut using SVG.
 # chartColumnChart
 WebWidget add-on for Claris FileMaker displaying column chart using SVG.
 <img width="600" height="400" alt="483049816-9fe0c9ce-d2ac-47df-b092-c3b1d161d9bc" src="https://github.com/user-attachments/assets/bea0f6e3-0a8a-407f-80be-596fe001af91" />
+# chartDoughnut
+WebWidget add-on for Claris FileMaker displaying doughnut chart using SVG.
+<img width="600" height="400" alt="preview" src="https://github.com/user-attachments/assets/06906f64-b4d4-4ec2-a86f-351f61544855" />
+# chartRowStacks
+WebWidget add-on for Claris FileMaker displaying stacked row chart using SVG.
+<img width="600" height="400" alt="preview" src="https://github.com/user-attachments/assets/cd95294f-6699-43d9-beb2-b869936f7c6d" />
+# codeMirror
+WebWidget add-on for Claris FileMaker for codeMirror embedding.
+<img width="600" height="400" alt="preview" src="https://github.com/user-attachments/assets/a8548a57-dd76-4ff6-8b65-db3549e3fb96" />
 # ColorisWidget
 Coloris colour picker Webwidget add-on for Claris FileMaker
 <img width="600" height="400" alt="483048965-9aee44ad-bfbc-4389-8003-bea89d3cdabb" src="https://github.com/user-attachments/assets/5696abea-9a9f-42d2-9a0c-75c66fbcd655" />
