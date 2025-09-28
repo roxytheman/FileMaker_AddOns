@@ -1,0 +1,14 @@
+﻿{
+	"Title": "slideNotify-1",
+	"Description": "Aggiungi ai layout di FileMaker un pannello di notifica a scorrimento. Il widget scorre da destra e mostra avvisi codificati a colori (Verde, Arancione, Rosso) con aggiornamenti dinamici.",
+	"Category": "Interfaccia utente",
+	"Features": [
+		"Pannello notifiche a scorrimento da destra",
+		"Tre livelli di gravità: 0 = Verde, 1 = Arancione, 2 = Rosso",
+		"Testo, colori e chiusura automatica personalizzabili",
+		"Aggiornamenti dinamici tramite script FileMaker",
+		"Leggero, reattivo e facile da integrare",
+		"Ideale per avvisi, promemoria o messaggi di stato"
+	],
+	"Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

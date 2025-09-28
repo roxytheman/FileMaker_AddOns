@@ -1,0 +1,14 @@
+﻿{
+	"Title": "slideNotify-1",
+	"Description": "Voeg een nette schuif-in notificatiepaneel toe aan FileMaker layouts. De widget schuift soepel van rechts in en toont kleurgecodeerde meldingen (Groen, Oranje, Rood) met dynamische updates.",
+	"Category": "Gebruikersinterface",
+	"Features": [
+		"Schuif-in notificatiepaneel van rechts",
+		"Drie ernstniveaus: 0 = Groen, 1 = Oranje, 2 = Rood",
+		"Aanpasbare tekst, kleuren en automatisch sluiten",
+		"Dynamisch bijwerken via FileMaker scripts",
+		"Lichtgewicht, responsief en eenvoudig te integreren",
+		"Ideaal voor waarschuwingen, herinneringen of statusberichten"
+	],
+	"Optimized": ["Desktop", "Tablet", "Mobiel", "WebDirect"]
+}

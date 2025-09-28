@@ -1,0 +1,16 @@
+﻿{
+  "Title": "pillCloud",
+  "Description": "Apresente chips ou etiquetas dinâmicas com facilidade usando esta nuvem de pílulas baseada em SVG para FileMaker Pro por jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Layout de múltiplas linhas responsivo com SVG",
+    "Defina cores, bordas, espaçamento e fontes via JSON",
+    "Atualização dinâmica fácil com script e payload do FileMaker",
+    "Totalmente controlado dentro do FileMaker — sem HTML",
+    "Alinhamento superior e quebra de linha com base no Web Viewer",
+    "Ideal para etiquetas, status, filtros e agrupamentos visuais em FileMaker"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

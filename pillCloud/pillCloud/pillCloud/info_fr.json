@@ -1,0 +1,16 @@
+﻿{
+  "Title": "pillCloud",
+  "Description": "Affichez facilement des pastilles dynamiques avec ce nuage de puces personnalisable basé sur SVG pour FileMaker Pro, par jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Disposition de pastilles multiligne réactive en SVG",
+    "Définissez couleurs, bordures, espacement et polices via JSON",
+    "Mise à jour dynamique via un script FileMaker et un payload",
+    "Contrôle total depuis FileMaker, sans HTML",
+    "Alignement en haut avec retour à la ligne selon la taille du Web Viewer",
+    "Idéal pour les étiquettes, statuts, filtres et regroupements visuels"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

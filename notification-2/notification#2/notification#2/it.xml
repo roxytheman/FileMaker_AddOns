@@ -1,0 +1,903 @@
+﻿
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.006C91020F5068694A5ACA64E8BF6ABE</StringID>
+	<SourceText>&apos; r=&apos;</SourceText>
+	<TargetText>&apos; r=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; r=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.02C76780DB10C58E852BCD357D1BCB61</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;badge[+]text&quot; ; &quot;J&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;badge[+]text&quot; ; &quot;J&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;badge[+]text&quot; ; &quot;J&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0B41A25ADEF5F2639D199FDC5CD3FA01</StringID>
+	<SourceText>notification.autoDismissTime</SourceText>
+	<TargetText>notification.autoDismissTime</TargetText>
+	<Comment>com.fmi.calculation.text.notification.autoDismissTime</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0D10CBD14A610F4DC0B09618B33BF228</StringID>
+	<SourceText>font.name</SourceText>
+	<TargetText>font.name</TargetText>
+	<Comment>com.fmi.calculation.text.font.name</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0F9511A07326D8E2E23EFB2AF6BB146F</StringID>
+	<SourceText>color.text</SourceText>
+	<TargetText>color.text</TargetText>
+	<Comment>com.fmi.calculation.text.color.text</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.101D2070709C11B67D16A5109B75BD1F</StringID>
+	<SourceText> Dismiss after x seconds<CR/></SourceText>
+	<TargetText> Dismiss after x seconds<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Dismiss after x seconds_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1C09A9623F7F2EB4024C761936A47B15</StringID>
+	<SourceText> Generates overlapping circular badges with custom text and <CR/></SourceText>
+	<TargetText> Generates overlapping circular badges with custom text and <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Generates overlapping circular badges with custom text and _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1EE6F78E33554F6114399F9607ED4969</StringID>
+	<SourceText>&lt;/body&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;/html&gt;</SourceText>
+	<TargetText>&lt;/body&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;/html&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;/body&gt;_CR/__TAB/__TAB/__TAB/__TAB/_&lt;/html&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.201F488D7D9318C8D079170CA4FEF266</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;badge[:]color.text&quot; ; &quot;#FFFFFF&quot; ; 1 ] <CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;badge[:]color.text&quot; ; &quot;#FFFFFF&quot; ; 1 ] <CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;badge[:]color.text&quot; ; &quot;#FFFFFF&quot; ; 1 ] _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.22E5F78A0938349E6B256358501CF181</StringID>
+	<SourceText>&lt;text x=&apos;</SourceText>
+	<TargetText>&lt;text x=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;text x=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2A1917F300226FB8C6681369BE0FF6A9</StringID>
+	<SourceText>badge</SourceText>
+	<TargetText>badge</TargetText>
+	<Comment>com.fmi.calculation.text.badge</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2AC9B911D88899E2B8F8B9C0959ED8CE</StringID>
+	<SourceText> individual text, background and font colour, and border styles, with layout dynamically handled based on Web Viewer dimensions. The leftmost <CR/></SourceText>
+	<TargetText> individual text, background and font colour, and border styles, with layout dynamically handled based on Web Viewer dimensions. The leftmost <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. individual text, background and font colour, and border styles, with layout dynamically handled based on Web Viewer dimensions. The leftmost _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2CDD2E2F39E51246AE5F23A51418FC00</StringID>
+	<SourceText>&apos; stroke=&apos;</SourceText>
+	<TargetText>&apos; stroke=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; stroke=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2F42FC9329AFFE93085A85D6500BDBB4</StringID>
+	<SourceText>color.background</SourceText>
+	<TargetText>color.background</TargetText>
+	<Comment>com.fmi.calculation.text.color.background</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.30C2E584B090C55971EEC946D9AB6028</StringID>
+	<SourceText>, user-scalable=no\&quot;&gt;<CR/><TAB/><TAB/><TAB/><TAB/>  &lt;body style=\&quot;margin:0;padding:0;background:#</SourceText>
+	<TargetText>, user-scalable=no\&quot;&gt;<CR/><TAB/><TAB/><TAB/><TAB/>  &lt;body style=\&quot;margin:0;padding:0;background:#</TargetText>
+	<Comment>com.fmi.calculation.text., user-scalable=no\&quot;&gt;_CR/__TAB/__TAB/__TAB/__TAB/_  &lt;body style=\&quot;margin:0;padding:0;background:#</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.36D9F4FC6BA1C7DC01732E3AF63CDF91</StringID>
+	<SourceText>scNotification2</SourceText>
+	<TargetText>scNotification2</TargetText>
+	<Comment>com.fmi.calculation.text.scNotification2</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3A8731256550C5C77C7958426B4D4245</StringID>
+	<SourceText> This function produces a visually stacked row of circular badges using SVG, styled and controlled entirely via JSON. Each badge supports <CR/></SourceText>
+	<TargetText> This function produces a visually stacked row of circular badges using SVG, styled and controlled entirely via JSON. Each badge supports <CR/></TargetText>
+	<Comment>com.fmi.calculation.text. This function produces a visually stacked row of circular badges using SVG, styled and controlled entirely via JSON. Each badge supports _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3FA974089A805D9B26119D08F17421CF</StringID>
+	<SourceText>&lt;svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot; style=\&quot;width:100%;height:100%; \&quot;viewBox=\&quot;0 0 </SourceText>
+	<TargetText>&lt;svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot; style=\&quot;width:100%;height:100%; \&quot;viewBox=\&quot;0 0 </TargetText>
+	<Comment>com.fmi.calculation.text.&lt;svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot; style=\&quot;width:100%;height:100%; \&quot;viewBox=\&quot;0 0</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.40711D9FCAEA4E7818B83EC72A7AF0F3</StringID>
+	<SourceText>notification.autoDismiss</SourceText>
+	<TargetText>notification.autoDismiss</TargetText>
+	<Comment>com.fmi.calculation.text.notification.autoDismiss</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.42F8F98C8FEC74752D8E960E8E698137</StringID>
+	<SourceText> BADGE STACK<CR/></SourceText>
+	<TargetText> BADGE STACK<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. BADGE STACK_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.43E393915488E7CE6282A8D1C9345FE2</StringID>
+	<SourceText> V 1.3</SourceText>
+	<TargetText> V 1.3</TargetText>
+	<Comment>com.fmi.calculation.text. V 1.3</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.454DD36B48548B80AA6CFC160CA3AF1A</StringID>
+	<SourceText>&apos; fill=&apos;</SourceText>
+	<TargetText>&apos; fill=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; fill=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.46FCBE13FEBEB8A36942A67CA6A2E669</StringID>
+	<SourceText>&lt;rect width=&apos;</SourceText>
+	<TargetText>&lt;rect width=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;rect width=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4A94F06241F43B1169A874CA556169CE</StringID>
+	<SourceText> Function Name : badgeStack<CR/></SourceText>
+	<TargetText> Function Name : badgeStack<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Function Name : badgeStack_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4D971C5795FC1B50D4389CC5DDE023A9</StringID>
+	<SourceText> Use example : badgeStack ( 400 ; 400 ; $defaultArray ; $pillArray )<CR/></SourceText>
+	<TargetText> Use example : badgeStack ( 400 ; 400 ; $defaultArray ; $pillArray )<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Use example : badgeStack ( 400 ; 400 ; $defaultArray ; $pillArray )_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4F6A728D9AE11FE40463AC741F8A3A30</StringID>
+	<SourceText>font.size</SourceText>
+	<TargetText>font.size</TargetText>
+	<Comment>com.fmi.calculation.text.font.size</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5057A41E43F32C34D58FEB55A967B317</StringID>
+	<SourceText>border.stroke</SourceText>
+	<TargetText>border.stroke</TargetText>
+	<Comment>com.fmi.calculation.text.border.stroke</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.516FC49D615105CBCC9934A7022922FA</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;badge[:]color.background&quot; ; &quot;#4285F4&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;badge[:]color.background&quot; ; &quot;#4285F4&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;badge[:]color.background&quot; ; &quot;#4285F4&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.525D2C7CF9A16EE2B3FFA9ED63BCEFA7</StringID>
+	<SourceText>&apos; font-weight=&apos;</SourceText>
+	<TargetText>&apos; font-weight=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; font-weight=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.542F715A7F0F9A5D94316E0DE280D6A8</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;font.name&quot; ; &quot;Helvetica Neue&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;font.name&quot; ; &quot;Helvetica Neue&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;font.name&quot; ; &quot;Helvetica Neue&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.556E99D4A217AD9EA00C4E671C525C1E</StringID>
+	<SourceText>&lt;circle cx=&apos;</SourceText>
+	<TargetText>&lt;circle cx=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;circle cx=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.55CFCDF5B2F93B5B1282C23B41664E9E</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;badge[:]color.background&quot; ; &quot;#F4511E&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;badge[:]color.background&quot; ; &quot;#F4511E&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;badge[:]color.background&quot; ; &quot;#F4511E&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.576F37F829DF4C29C529679303F784E3</StringID>
+	<SourceText>scNotification1</SourceText>
+	<TargetText>scNotification1</TargetText>
+	<Comment>com.fmi.calculation.text.scNotification1</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5ABDBB39D1F9C589030E34ABCDC03A10</StringID>
+	<SourceText>Web</SourceText>
+	<TargetText>Web</TargetText>
+	<Comment>com.fmi.calculation.text.Web</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5DF961979BCF99311F24F8E976EE5CA0</StringID>
+	<SourceText>&apos; y=&apos;</SourceText>
+	<TargetText>&apos; y=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; y=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6102479359ECFAA711D0983E9B146C0F</StringID>
+	<SourceText>font.weight</SourceText>
+	<TargetText>font.weight</TargetText>
+	<Comment>com.fmi.calculation.text.font.weight</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.62DF49DC7BB51BEE25BFBC850895FC9B</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ]<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ]<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;background.fill&quot; ; &quot;#FFFFFF&quot; ; 1 ]_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.653619209927F7C47B581D8BAF25BEA4</StringID>
+	<SourceText>notification.type</SourceText>
+	<TargetText>notification.type</TargetText>
+	<Comment>com.fmi.calculation.text.notification.type</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6EA05AB4336556BD1BEB5746707D06F7</StringID>
+	<SourceText> badge appears on top, enabling a clean and readable stack that’s perfect for representing users, tags, roles or assignments in FileMaker layouts.<CR/></SourceText>
+	<TargetText> badge appears on top, enabling a clean and readable stack that’s perfect for representing users, tags, roles or assignments in FileMaker layouts.<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. badge appears on top, enabling a clean and readable stack that’s perfect for representing users, tags, roles or assignments in FileMaker layouts._CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.71C8744E40E6596FDE7119EEF13EDA02</StringID>
+	<SourceText>Hello World!</SourceText>
+	<TargetText>Hello World!</TargetText>
+	<Comment>com.fmi.calculation.text.Hello World!</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.741CAD0E9C88DEA0226D1E2E08C5473D</StringID>
+	<SourceText>;\&quot;&gt;</SourceText>
+	<TargetText>;\&quot;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.;\&quot;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.755B1DC5E8D140BCA62DEB24CCBD4D06</StringID>
+	<SourceText><TAB/><CR/></SourceText>
+	<TargetText><TAB/><CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.79DAFBA321E8084042069E25AD389EF2</StringID>
+	<SourceText>&lt;/svg&gt;</SourceText>
+	<TargetText>&lt;/svg&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;/svg&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.7C86D3F8940FCD350CA2783515A591F1</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;spacing.overlap&quot; ; 6 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;spacing.overlap&quot; ; 6 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;spacing.overlap&quot; ; 6 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.81DBB097BD91BDD58AC976DAC49C38AF</StringID>
+	<SourceText>&apos; height=&apos;</SourceText>
+	<TargetText>&apos; height=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; height=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8967E474E567D8A869E20AF4B21032D8</StringID>
+	<SourceText>&apos; cy=&apos;</SourceText>
+	<TargetText>&apos; cy=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; cy=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9286618FE0B2C104A3FBBEC4C6CD20A4</StringID>
+	<SourceText> </SourceText>
+	<TargetText> </TargetText>
+	<Comment>com.fmi.calculation.text.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.94FD8D617EAB602679355DCE7C25A50D</StringID>
+	<SourceText><TAB/>JSONSetElement ( &quot;&quot; ; <CR/></SourceText>
+	<TargetText><TAB/>JSONSetElement ( &quot;&quot; ; <CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/_JSONSetElement ( &quot;&quot; ; _CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9A72A2DE060555B8C41ED447D33B6DE4</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;border.color&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;border.color&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;border.color&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9B60B73F3536581424DDA08531F10C03</StringID>
+	<SourceText> Badge Array Example<CR/></SourceText>
+	<TargetText> Badge Array Example<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Badge Array Example_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A0B02FDAAFC547BE905B33FD03816871</StringID>
+	<SourceText>spacing.overlap</SourceText>
+	<TargetText>spacing.overlap</TargetText>
+	<Comment>com.fmi.calculation.text.spacing.overlap</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A238CF967B73E6BEB5601066DA31B25A</StringID>
+	<SourceText>text</SourceText>
+	<TargetText>text</TargetText>
+	<Comment>com.fmi.calculation.text.text</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A23E602293964D6398BF6DE9EEC7012E</StringID>
+	<SourceText>border.color</SourceText>
+	<TargetText>border.color</TargetText>
+	<Comment>com.fmi.calculation.text.border.color</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A885273C8732BD3BA5DBED43BC254411</StringID>
+	<SourceText>[</SourceText>
+	<TargetText>[</TargetText>
+	<Comment>com.fmi.calculation.text.[</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AEE77D83675800794E2F2A95905D4E56</StringID>
+	<SourceText>\&quot; preserveAspectRatio=\&quot;xMidYMid meet\&quot;&gt;</SourceText>
+	<TargetText>\&quot; preserveAspectRatio=\&quot;xMidYMid meet\&quot;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.\&quot; preserveAspectRatio=\&quot;xMidYMid meet\&quot;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AFC7C7EAF2FE1BFBCA5B53E57FC35D7D</StringID>
+	<SourceText>background.fill</SourceText>
+	<TargetText>background.fill</TargetText>
+	<Comment>com.fmi.calculation.text.background.fill</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B00F3A96761E60F5F3834BAD9D5ABE6F</StringID>
+	<SourceText>&apos; text-anchor=&apos;middle&apos; font-family=&apos;</SourceText>
+	<TargetText>&apos; text-anchor=&apos;middle&apos; font-family=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; text-anchor=&apos;middle&apos; font-family=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B0FF5FB12BBC97BAF49DC09388F82E04</StringID>
+	<SourceText>data:text/html,</SourceText>
+	<TargetText>data:text/html,</TargetText>
+	<Comment>com.fmi.calculation.text.data:text/html,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B2F8405A9E1D6D6496E4F296D1E2F0D1</StringID>
+	<SourceText>&lt;html&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=</SourceText>
+	<TargetText>&lt;html&gt;<CR/><TAB/><TAB/><TAB/><TAB/>&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;html&gt;_CR/__TAB/__TAB/__TAB/__TAB/_&lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B5891D5D31C2D57D8C36A5E1ABEC4147</StringID>
+	<SourceText>radius</SourceText>
+	<TargetText>radius</TargetText>
+	<Comment>com.fmi.calculation.text.radius</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B593E1763EC8BA57ECB83A37A12AE170</StringID>
+	<SourceText>, maximum-scale=</SourceText>
+	<TargetText>, maximum-scale=</TargetText>
+	<Comment>com.fmi.calculation.text., maximum-scale=</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B613EA7ED210F1B43EB9CF2D7C456F36</StringID>
+	<SourceText>data:image/svg+xml;base64,</SourceText>
+	<TargetText>data:image/svg+xml;base64,</TargetText>
+	<Comment>com.fmi.calculation.text.data:image/svg+xml;base64,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B91771DEB2389AF80D1DA1E203F82787</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;badge[:]color.text&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;badge[:]color.text&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;badge[:]color.text&quot; ; &quot;#FFFFFF&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BBB71BE88C53A02CCAA1E84677E66289</StringID>
+	<SourceText>&apos; /&gt;</SourceText>
+	<TargetText>&apos; /&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; /&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C4DF687A2311A7DA573E515D4301916E</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;radius&quot; ; 16 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;radius&quot; ; 16 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;radius&quot; ; 16 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C82C9199005E2B454EE00A313DE0A02D</StringID>
+	<SourceText><TAB/>)<CR/></SourceText>
+	<TargetText><TAB/>)<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/_)_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C98026E2BBA8F9F32D58B73D7FC2688D</StringID>
+	<SourceText> Round( 100 / Get ( WindowZoomLevel ) ; 0 ) ;<CR/></SourceText>
+	<TargetText> Round( 100 / Get ( WindowZoomLevel ) ; 0 ) ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Round( 100 / Get ( WindowZoomLevel ) ; 0 ) ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C9CD69E56381AA4B227E364860938F15</StringID>
+	<SourceText> 0 : Green | 1 : Orange | 2 : Red<CR/></SourceText>
+	<TargetText> 0 : Green | 1 : Orange | 2 : Red<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. 0 : Green | 1 : Orange | 2 : Red_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CB7A68C052A68EB1007EF58A3D7CB772</StringID>
+	<SourceText>&apos;&gt;</SourceText>
+	<TargetText>&apos;&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CBA83DB36E59C9B32FB3244EE4813EAC</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;badge[+]text&quot; ; &quot;MR&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;badge[+]text&quot; ; &quot;MR&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;badge[+]text&quot; ; &quot;MR&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CDF2272932810A811B03A6EC3BDE90BF</StringID>
+	<SourceText>data:image/svg+xml;utf8,</SourceText>
+	<TargetText>data:image/svg+xml;utf8,</TargetText>
+	<Comment>com.fmi.calculation.text.data:image/svg+xml;utf8,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D0393F39CD9C4C4BA85511D03B8CDE1C</StringID>
+	<SourceText> Written by: jonni@me.com<CR/></SourceText>
+	<TargetText> Written by: jonni@me.com<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Written by: jonni@me.com_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D368224758B103B0BB2EFF5175339335</StringID>
+	<SourceText>]</SourceText>
+	<TargetText>]</TargetText>
+	<Comment>com.fmi.calculation.text.]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D42442B924CBECE23CD3923C9D8F3600</StringID>
+	<SourceText> Loop to generate badge SVGs in reverse order<CR/></SourceText>
+	<TargetText> Loop to generate badge SVGs in reverse order<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Loop to generate badge SVGs in reverse order_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D6447B72F28E26F3C58C5C593BFB927C</StringID>
+	<SourceText>&apos; font-size=&apos;</SourceText>
+	<TargetText>&apos; font-size=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; font-size=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D721D81A450F36209DAAF177CBAC34C4</StringID>
+	<SourceText>notification.message</SourceText>
+	<TargetText>notification.message</TargetText>
+	<Comment>com.fmi.calculation.text.notification.message</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DEAD8233F1DCA2E14FB011784EC7E155</StringID>
+	<SourceText> GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/7ca5a986a7edd44f740f7edb8a65fd198a018d97/functions/badgeStack.fmfn<CR/></SourceText>
+	<TargetText> GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/7ca5a986a7edd44f740f7edb8a65fd198a018d97/functions/badgeStack.fmfn<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. GitHub : https://github.com/roxytheman/fmCustomFunctions/blob/7ca5a986a7edd44f740f7edb8a65fd198a018d97/functions/badgeStack.fmfn_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E0ECE08AC543EE713C8A3805E3EB77A4</StringID>
+	<SourceText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0 </SourceText>
+	<TargetText>&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0 </TargetText>
+	<Comment>com.fmi.calculation.text.&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos; viewBox=&apos;0 0</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E1C30449106534D16EEFA6B766B99984</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;font.weight&quot; ; &quot;bold&quot; ; 1 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;font.weight&quot; ; &quot;bold&quot; ; 1 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;font.weight&quot; ; &quot;bold&quot; ; 1 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E211737A5DE9120BF4C6C5E39FB3F92A</StringID>
+	<SourceText> Default Array Example<CR/></SourceText>
+	<TargetText> Default Array Example<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Default Array Example_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E70A62F57FB8A18F967D2AD97E77357C</StringID>
+	<SourceText> BD Link : https://www.briandunning.com/cf/2804<CR/></SourceText>
+	<TargetText> BD Link : https://www.briandunning.com/cf/2804<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. BD Link : https://www.briandunning.com/cf/2804_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E878C19206A62625F40DFFC1B81EE3D4</StringID>
+	<SourceText>barNotification</SourceText>
+	<TargetText>barNotification</TargetText>
+	<Comment>com.fmi.calculation.text.barNotification</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E94E3FFF1D578572AA2C0D0DBEE6F590</StringID>
+	<SourceText> Defaults<CR/></SourceText>
+	<TargetText> Defaults<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Defaults_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.ED50F0DDE7106D2662A388DC262863AE</StringID>
+	<SourceText>&apos; stroke-width=&apos;</SourceText>
+	<TargetText>&apos; stroke-width=&apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; stroke-width=&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EDDED0B6F8300C71F631A9401900F88B</StringID>
+	<SourceText>&lt;/text&gt;</SourceText>
+	<TargetText>&lt;/text&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;/text&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EECE2E542B0CDCE586A27B7931BA8BF0</StringID>
+	<SourceText>¶</SourceText>
+	<TargetText>¶</TargetText>
+	<Comment>com.fmi.calculation.text.¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F17CCDBDEE8449899D57BD5B9879234F</StringID>
+	<SourceText> Number of seconds until dismiss<CR/></SourceText>
+	<TargetText> Number of seconds until dismiss<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Number of seconds until dismiss_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F783C465E899EB80CB9978EA21552594</StringID>
+	<SourceText> Note : See structure and syntax for defaultArray and badgeArray below<CR/></SourceText>
+	<TargetText> Note : See structure and syntax for defaultArray and badgeArray below<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Note : See structure and syntax for defaultArray and badgeArray below_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FA83D75219914CE81F7DF7F49148A6A0</StringID>
+	<SourceText> Parameters : width ; height ; defaultArray ; badgeArray<CR/></SourceText>
+	<TargetText> Parameters : width ; height ; defaultArray ; badgeArray<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Parameters : width ; height ; defaultArray ; badgeArray_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FB7C69116A767F4A88741E7C0BA0DD21</StringID>
+	<SourceText> styles from JSON, rendered in SVG for display in a FileMaker Web Viewer.<CR/></SourceText>
+	<TargetText> styles from JSON, rendered in SVG for display in a FileMaker Web Viewer.<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. styles from JSON, rendered in SVG for display in a FileMaker Web Viewer._CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FBABB0F7A5BA53A31D127979B5118EFB</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;border.stroke&quot; ; 2 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;border.stroke&quot; ; 2 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;border.stroke&quot; ; 2 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FC4FE33E116E262543529128CE09B506</StringID>
+	<SourceText><TAB/><TAB/>[ &quot;font.size&quot; ; 12 ; 2 ] ;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>[ &quot;font.size&quot; ; 12 ; 2 ] ;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_[ &quot;font.size&quot; ; 12 ; 2 ] ;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FD54683CDC641B21B0A7253A663E6FA3</StringID>
+	<SourceText>&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</SourceText>
+	<TargetText>&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</TargetText>
+	<Comment>com.fmi.calculation.text.&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.0D11E16D94E52021BA25C88E62FE9492</StringID>
+	<SourceText>notification#2</SourceText>
+	<TargetText>notification#2</TargetText>
+	<Comment>com.fmi.layoutobject.notification#2</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.36D9F4FC6BA1C7DC01732E3AF63CDF91</StringID>
+	<SourceText>scNotification2</SourceText>
+	<TargetText>scNotification2</TargetText>
+	<Comment>com.fmi.layoutobject.scNotification2</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.3E3E7451DBA07E3FBB4A1994C91E0378</StringID>
+	<SourceText>bCloseNotificationBar</SourceText>
+	<TargetText>bCloseNotificationBar</TargetText>
+	<Comment>com.fmi.layoutobject.bCloseNotificationBar</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.483467A5231409529604FA9B98CA4FA1</StringID>
+	<SourceText>barNotificationMessageBackground</SourceText>
+	<TargetText>barNotificationMessageBackground</TargetText>
+	<Comment>com.fmi.layoutobject.barNotificationMessageBackground</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.576F37F829DF4C29C529679303F784E3</StringID>
+	<SourceText>scNotification1</SourceText>
+	<TargetText>scNotification1</TargetText>
+	<Comment>com.fmi.layoutobject.scNotification1</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.8E08F71E91DBB09866AEF38AC84B2078</StringID>
+	<SourceText>barNotificationIconBackground</SourceText>
+	<TargetText>barNotificationIconBackground</TargetText>
+	<Comment>com.fmi.layoutobject.barNotificationIconBackground</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.E878C19206A62625F40DFFC1B81EE3D4</StringID>
+	<SourceText>barNotification</SourceText>
+	<TargetText>barNotification</TargetText>
+	<Comment>com.fmi.layoutobject.barNotification</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.044FD74207E6F6341379BB48425C99C9</StringID>
+	<SourceText>displayNotificationWidget</SourceText>
+	<TargetText>displayNotificationWidget</TargetText>
+	<Comment>com.fmi.script.displayNotificationWidget</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.60FE5902C720F0E67EF2CAA5D607F406</StringID>
+	<SourceText>resetNotificationWidget</SourceText>
+	<TargetText>resetNotificationWidget</TargetText>
+	<Comment>com.fmi.script.resetNotificationWidget</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.3F3E41D9B787E90949DB7DFCB142E5C8</StringID>
+	<SourceText>NotificationWidget</SourceText>
+	<TargetText>NotificationWidget</TargetText>
+	<Comment>com.fmi.script.folder.NotificationWidget</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.02CC47FB50F601685D48AF0A135DB8BB</StringID>
+	<SourceText>Dependencies: <TAB/><TAB/><TAB/>Script Parameter Payload</SourceText>
+	<TargetText>Dependencies: <TAB/><TAB/><TAB/>Script Parameter Payload</TargetText>
+	<Comment>com.fmi.scriptstep.text.Dependencies: _TAB/__TAB/__TAB/_Script Parameter Payload</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.1757BB674A569233FCEBB195567B7E75</StringID>
+	<SourceText>Compatibility: <TAB/><TAB/><TAB/>All Platforms : FM16+</SourceText>
+	<TargetText>Compatibility: <TAB/><TAB/><TAB/>All Platforms : FM16+</TargetText>
+	<Comment>com.fmi.scriptstep.text.Compatibility: _TAB/__TAB/__TAB/_All Platforms : FM16+</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.28E5E27A6F842D986579442D1F2B4CCA</StringID>
+	<SourceText>Subscripts Called: <TAB/><TAB/>None</SourceText>
+	<TargetText>Subscripts Called: <TAB/><TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Subscripts Called: _TAB/__TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.47184794286CBC339E48049833CBD1C5</StringID>
+	<SourceText>Copy Deploy ScriptStep</SourceText>
+	<TargetText>Copy Deploy ScriptStep</TargetText>
+	<Comment>com.fmi.scriptstep.text.Copy Deploy ScriptStep</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.530734BF19AC3F6EC3CD6285344B4C49</StringID>
+	<SourceText>Intialise notification widget dismissal</SourceText>
+	<TargetText>Intialise notification widget dismissal</TargetText>
+	<Comment>com.fmi.scriptstep.text.Intialise notification widget dismissal</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.5FD1D764FFD719A9AA1709D3BEB3F07D</StringID>
+	<SourceText>------------------------------------------------------------------------------------------------</SourceText>
+	<TargetText>------------------------------------------------------------------------------------------------</TargetText>
+	<Comment>com.fmi.scriptstep.text.------------------------------------------------------------------------------------------------</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.6AB4DAA9986F7C9F36F51DEFC27884A3</StringID>
+	<SourceText>DISPLAY NOTIFICATION WIDGET</SourceText>
+	<TargetText>DISPLAY NOTIFICATION WIDGET</TargetText>
+	<Comment>com.fmi.scriptstep.text.DISPLAY NOTIFICATION WIDGET</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.6D0CF8C2EE57DC7EC93359E6D3B0DF7F</StringID>
+	<SourceText>Set notification message and notification type</SourceText>
+	<TargetText>Set notification message and notification type</TargetText>
+	<Comment>com.fmi.scriptstep.text.Set notification message and notification type</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.735BE34175F7B591161ED9C61275BE66</StringID>
+	<SourceText>Refresh hack for webdir</SourceText>
+	<TargetText>Refresh hack for webdir</TargetText>
+	<Comment>com.fmi.scriptstep.text.Refresh hack for webdir</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7AC92562C576DE8F30B6F160E5DDC077</StringID>
+	<SourceText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;notification.message&quot; ; &quot;Hello World!&quot; ; 1 ] ;<CR/><TAB/>[ &quot;notification.type&quot; ; 0 ; 2 ] ; // 0 : Green | 1 : Orange | 2 : Red<CR/><TAB/>[ &quot;notification.autoDismissTime&quot; ; 5 ; 2 ] ; // Number of seconds until dismiss<CR/><TAB/>[ &quot;notification.autoDismiss&quot; ; True ; 5 ] // Dismiss after x seconds<CR/><CR/>)</SourceText>
+	<TargetText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;notification.message&quot; ; &quot;Hello World!&quot; ; 1 ] ;<CR/><TAB/>[ &quot;notification.type&quot; ; 0 ; 2 ] ; // 0 : Green | 1 : Orange | 2 : Red<CR/><TAB/>[ &quot;notification.autoDismissTime&quot; ; 5 ; 2 ] ; // Number of seconds until dismiss<CR/><TAB/>[ &quot;notification.autoDismiss&quot; ; True ; 5 ] // Dismiss after x seconds<CR/><CR/>)</TargetText>
+	<Comment>com.fmi.scriptstep.text.JSONSetElement ( &quot;&quot; ; _CR/__CR/__TAB/_[ &quot;notification.message&quot; ; &quot;Hello World!&quot; ; 1 ] ;_CR/__TAB/_[ &quot;notification.type&quot; ; 0 ; 2 ] ; // 0 : Green | 1 : Orange | 2 : Red_CR/__TAB/_[ &quot;notification.autoDismissTime&quot; ; 5 ; 2 ] ; // Number of seconds until dismiss_CR/__TAB/_[ &quot;notification.autoDismiss&quot; ; True ; 5 ] // Dismiss after x seconds_CR/__CR/_)</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.8AF690BDE87DCB0165A95BA1F34C7625</StringID>
+	<SourceText>Scripts Called: <TAB/><TAB/><TAB/>None</SourceText>
+	<TargetText>Scripts Called: <TAB/><TAB/><TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Scripts Called: _TAB/__TAB/__TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.96B9EAF2EB659E4566A07E0498F97E59</StringID>
+	<SourceText>Run Custom Notifications Widget on FM Layouts</SourceText>
+	<TargetText>Run Custom Notifications Widget on FM Layouts</TargetText>
+	<Comment>com.fmi.scriptstep.text.Run Custom Notifications Widget on FM Layouts</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.9B1593FD8D651695766C5A292A1EB124</StringID>
+	<SourceText>Clears notification widget and refreshes window</SourceText>
+	<TargetText>Clears notification widget and refreshes window</TargetText>
+	<Comment>com.fmi.scriptstep.text.Clears notification widget and refreshes window</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.B5875114EC452C2A7619FDF071D9970A</StringID>
+	<SourceText>Written on 16.08.2021 |  Updated: 19.12.2024  | Valid: Yes  | jonni@me.com</SourceText>
+	<TargetText>Written on 16.08.2021 |  Updated: 19.12.2024  | Valid: Yes  | jonni@me.com</TargetText>
+	<Comment>com.fmi.scriptstep.text.Written on 16.08.2021 |  Updated: 19.12.2024  | Valid: Yes  | jonni@me.com</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CDFDD882E2FC15C7EB360422FE24AC03</StringID>
+	<SourceText>++++++++++++++++++++++++++++++++++++++++++++++++</SourceText>
+	<TargetText>++++++++++++++++++++++++++++++++++++++++++++++++</TargetText>
+	<Comment>com.fmi.scriptstep.text.++++++++++++++++++++++++++++++++++++++++++++++++</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CF75706246C73938F859E51873FF2443</StringID>
+	<SourceText>Activation: <TAB/><TAB/><TAB/><TAB/>User action, script or trigger</SourceText>
+	<TargetText>Activation: <TAB/><TAB/><TAB/><TAB/>User action, script or trigger</TargetText>
+	<Comment>com.fmi.scriptstep.text.Activation: _TAB/__TAB/__TAB/__TAB/_User action, script or trigger</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CF9D1306E14F7F8ACFDE859B03E3DB70</StringID>
+	<SourceText>Dependencies: <TAB/><TAB/><TAB/>None</SourceText>
+	<TargetText>Dependencies: <TAB/><TAB/><TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Dependencies: _TAB/__TAB/__TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D584B99618061892EF20ED360FCC6B23</StringID>
+	<SourceText>Clear notificaiton message and notification type</SourceText>
+	<TargetText>Clear notificaiton message and notification type</TargetText>
+	<Comment>com.fmi.scriptstep.text.Clear notificaiton message and notification type</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D729C973FC1D552E8E03C84F4C41A858</StringID>
+	<SourceText>Intialise notification widget and reveal message</SourceText>
+	<TargetText>Intialise notification widget and reveal message</TargetText>
+	<Comment>com.fmi.scriptstep.text.Intialise notification widget and reveal message</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D899B0D1693F7B2B50221CB609523F9F</StringID>
+	<SourceText>Sets values for notification widget object <CR/>toggles object visibility and dismisses on <CR/>timer if requested</SourceText>
+	<TargetText>Sets values for notification widget object <CR/>toggles object visibility and dismisses on <CR/>timer if requested</TargetText>
+	<Comment>com.fmi.scriptstep.text.Sets values for notification widget object _CR/_toggles object visibility and dismisses on _CR/_timer if requested</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D8AAD3C6B0DC94F144A0B6D4698E237A</StringID>
+	<SourceText>Cancel onTimer</SourceText>
+	<TargetText>Cancel onTimer</TargetText>
+	<Comment>com.fmi.scriptstep.text.Cancel onTimer</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D9F051C5D4BD328ABABBDEE03D769828</StringID>
+	<SourceText>RESET NOTIFICATION WIDGET</SourceText>
+	<TargetText>RESET NOTIFICATION WIDGET</TargetText>
+	<Comment>com.fmi.scriptstep.text.RESET NOTIFICATION WIDGET</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.EADDD2C4D83E8E67F746BEFAE77BC9A8</StringID>
+	<SourceText>Activation: <TAB/><TAB/><TAB/><TAB/>Script or onTimerInstallScript</SourceText>
+	<TargetText>Activation: <TAB/><TAB/><TAB/><TAB/>Script or onTimerInstallScript</TargetText>
+	<Comment>com.fmi.scriptstep.text.Activation: _TAB/__TAB/__TAB/__TAB/_Script or onTimerInstallScript</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F88E03118E1569639E93336A97CA2D23</StringID>
+	<SourceText>Cancel onTime Scripts</SourceText>
+	<TargetText>Cancel onTime Scripts</TargetText>
+	<Comment>com.fmi.scriptstep.text.Cancel onTime Scripts</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F8C692C443F93C94F89751BC18D8150A</StringID>
+	<SourceText>Expected Payload Syntax</SourceText>
+	<TargetText>Expected Payload Syntax</TargetText>
+	<Comment>com.fmi.scriptstep.text.Expected Payload Syntax</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.FDB1F6FD826331EBD3D678070B0E9809</StringID>
+	<SourceText>Initiate automatic notification dismissal</SourceText>
+	<TargetText>Initiate automatic notification dismissal</TargetText>
+	<Comment>com.fmi.scriptstep.text.Initiate automatic notification dismissal</Comment>
+</DynamicTemplateString>

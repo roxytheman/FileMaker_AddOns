@@ -1,0 +1,16 @@
+﻿{
+  "Title": "pillCloud",
+  "Description": "Visa dynamiska taggar eller chips med denna anpassningsbara SVG-baserade pillmolnslösning för FileMaker Pro av jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Responsiv layout i flera rader med SVG",
+    "Färger, kanter, mellanrum och typsnitt definieras via JSON",
+    "Uppdateras enkelt dynamiskt med ett FileMaker-skript och payload",
+    "Full kontroll inom FileMaker – ingen HTML krävs",
+    "Toppriktad layout med radbrytning baserat på Web Viewer-storlek",
+    "Perfekt för taggar, statusar, filter och visuell gruppering i FileMaker"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

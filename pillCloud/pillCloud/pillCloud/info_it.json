@@ -1,0 +1,16 @@
+﻿{
+  "Title": "pillCloud",
+  "Description": "Visualizza facilmente chip o tag dinamici con questa nuvola di pillole SVG personalizzabile per FileMaker Pro di jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Layout reattivo su più righe basato su SVG",
+    "Colore, bordi, spaziatura e font definiti tramite JSON",
+    "Aggiornamento dinamico tramite script FileMaker e payload",
+    "Completamente controllato da FileMaker, nessun HTML necessario",
+    "Allineamento superiore e avvolgimento in base alle dimensioni del Web Viewer",
+    "Ideale per tag, stati, filtri e raggruppamenti visivi in FileMaker"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

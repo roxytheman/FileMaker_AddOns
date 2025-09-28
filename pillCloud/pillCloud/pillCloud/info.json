@@ -1,0 +1,11 @@
+﻿{
+	"GUID" : "7F8747FA-08AD-4AC2-8A7F-C20430A10F03",
+	"Clients" :
+		[
+			"Pro"
+		],
+	"Attribution" : "Jonni",
+	"URL" : "https://github.com/roxytheman/FileMaker_AddOns",
+	"Icon_Color" : "#7F7F7F",
+	"Version" : "1.0"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Title": "pillCloud",
+  "Description": "FileMaker Pro용 사용자 지정 가능한 SVG 기반 칩 클라우드를 통해 동적 태그나 상태를 손쉽게 표시합니다. 제작: jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "SVG를 사용한 반응형 다중 행 레이아웃",
+    "JSON으로 색상, 테두리, 간격 및 글꼴 정의",
+    "FileMaker 스크립트와 payload로 쉽게 동적 업데이트",
+    "HTML 없이 FileMaker 내에서 완전 제어 가능",
+    "Web Viewer 크기에 따라 상단 정렬 및 줄바꿈 지원",
+    "태그, 상태, 필터, 시각적 그룹화에 적합"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

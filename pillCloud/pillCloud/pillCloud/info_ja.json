@@ -1,0 +1,16 @@
+﻿{
+  "Title": "pillCloud",
+  "Description": "FileMaker Pro 用のカスタマイズ可能な SVG ベースのピルクラウドで、動的なチップやタグを簡単に表示できます。by jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "SVG を使用したレスポンシブな複数行のレイアウト",
+    "JSON による色、枠線、間隔、フォントの定義",
+    "FileMaker スクリプトとペイロードで動的に更新可能",
+    "HTML 不要、すべて FileMaker 内で制御",
+    "Web ビューアのサイズに基づく上揃えのフローレイアウト",
+    "タグ、ステータス、フィルター、視覚的なグループ表示に最適"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Title": "pillCloud",
+  "Description": "Stellen Sie dynamische Chips oder Tags mühelos mit dieser anpassbaren SVG-basierten Pillenwolke für FileMaker Pro dar, erstellt von jonni@me.com",
+  "Category": "User Interface",
+  "Features": [
+    "Responsives, mehrzeiliges Pillenlayout mit SVG",
+    "Farben, Ränder, Abstände und Schriftarten per JSON definieren",
+    "Dynamisch über ein FileMaker-Skript und Payload aktualisierbar",
+    "Vollständig in FileMaker steuerbar – kein HTML erforderlich",
+    "Oben ausgerichteter Fluss, der sich an die Web Viewer-Größe anpasst",
+    "Ideal für Tags, Statusanzeigen, Filter oder visuelle Gruppierungen in FileMaker"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

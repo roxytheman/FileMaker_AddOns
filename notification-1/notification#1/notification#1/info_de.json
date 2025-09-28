@@ -1,0 +1,14 @@
+﻿{
+	"Title": "slideNotify-1",
+	"Description": "Fügen Sie Ihren FileMaker-Layouts ein elegantes Benachrichtigungs-Panel hinzu. Das Widget fährt von rechts ein und zeigt farbcodierte Hinweise (Grün, Orange, Rot) mit dynamischen Updates an.",
+	"Category": "Benutzeroberfläche",
+	"Features": [
+		"Einblendbares Benachrichtigungs-Panel von rechts",
+		"Drei Schweregrade: 0 = Grün, 1 = Orange, 2 = Rot",
+		"Anpassbarer Text, Farben und automatische Ausblendung",
+		"Dynamische Updates per FileMaker-Skripte",
+		"Leichtgewichtig, reaktionsschnell und einfach zu integrieren",
+		"Perfekt für Warnungen, Erinnerungen oder Statusmeldungen"
+	],
+	"Optimized": ["Desktop", "Tablet", "Mobil", "WebDirect"]
+}

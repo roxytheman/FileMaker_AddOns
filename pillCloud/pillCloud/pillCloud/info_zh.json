@@ -1,0 +1,16 @@
+﻿{
+  "Title": "pillCloud",
+  "Description": "通过这个可自定义的基于 SVG 的 FileMaker Pro 标签云，轻松显示动态标签或状态，由 jonni@me.com 开发",
+  "Category": "User Interface",
+  "Features": [
+    "使用 SVG 实现响应式多行标签布局",
+    "通过 JSON 定义颜色、边框、间距和字体",
+    "可通过 FileMaker 脚本和 payload 动态更新",
+    "无需 HTML，完全由 FileMaker 控制",
+    "根据 Web Viewer 尺寸进行顶部对齐和自动换行",
+    "非常适合在 FileMaker 中显示标签、状态、筛选器或可视分组"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+	"Title": "slideNotify-2",
+	"Description": "Adicione um painel de notificações deslizante aos layouts do FileMaker. O widget desliza da direita e mostra alertas codificados por cores (Verde, Laranja, Vermelho) com atualizações dinâmicas.",
+	"Category": "Interface do usuário",
+	"Features": [
+		"Painel de notificação que desliza da direita",
+		"Três níveis de gravidade: 0 = Verde, 1 = Laranja, 2 = Vermelho",
+		"Texto, cores e tempo de fechamento personalizáveis",
+		"Atualizações dinâmicas via scripts do FileMaker",
+		"Leve, responsivo e fácil de integrar",
+		"Ideal para alertas, lembretes ou mensagens de status"
+	],
+	"Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

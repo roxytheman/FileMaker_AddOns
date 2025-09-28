@@ -1,0 +1,14 @@
+﻿{
+	"Title": "slideNotify-1",
+	"Description": "Add a clean slide-in notification panel to FileMaker layouts. This widget smoothly slides in from the right and displays color-coded alerts (Green, Orange, Red) with dynamic updates.",
+	"Category": "User Interface",
+	"Features": [
+		"Slide-in notification panel that animates from the right",
+		"Three severity levels: 0 = Green, 1 = Orange, 2 = Red",
+		"Customisable text, colors, and auto-dismiss timing",
+		"Trigger updates dynamically via FileMaker scripts",
+		"Lightweight, responsive, and easy to integrate",
+		"Ideal for alerts, reminders, or status messages"
+	],
+	"Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}
