@@ -121,7 +121,7 @@ Easily visualise progress or status with this sleek and customisable single-fill
 - Easy integration with accompanying FileMaker script
 - Ideal for visualising status, progress, or completion indicators in FileMaker solutions
 
-# [ProgressBarStack](https://github.com/roxytheman/FileMaker_AddOns/tree/main/progressBarStacked)
+# [ProgressBarStacked](https://github.com/roxytheman/FileMaker_AddOns/tree/main/progressBarStacked)
 Progress Bar Stacked Webwidget add-on for Claris FileMaker
 [<img width="600" height="400" alt="483058492-0f1b4e0a-2aa5-481e-8ff3-01ddb9f4216e" src="https://github.com/user-attachments/assets/a9c950c7-90d5-42a1-b64a-d6b7326e1c3f" />](https://github.com/roxytheman/FileMaker_AddOns/tree/main/progressBarStacked)
 
