@@ -53,3 +53,42 @@ JSONSetElement ( "" ;
 
 )
 ```
+
+### Use example in a WebViewer
+
+```
+progressDoughNut ( 
+
+	GetLayoutObjectAttribute ( "wv_progressDoughNut_AF34E9B6-FBE2-4046-B5D0-A77BE297C17B" ; "width" ) ; 
+	GetLayoutObjectAttribute ( "wv_progressDoughNut_AF34E9B6-FBE2-4046-B5D0-A77BE297C17B" ; "height" ) ; 
+
+	JSONSetElement ( "" ; 
+	
+		[ "color.background" ; "#CCCCCC" ; 1 ] ;
+		[ "color.foreground" ; "#CB4400" ; 1 ] ;
+		[ "color.text" ; "#000000" ; 1 ] ;
+		[ "color.complete" ; "green" ; 1 ] ;
+	
+		[ "stroke" ; 20 ; 2 ] ;
+		[ "endCap" ; "" ; 1 ] ; // round, butt, square - or empty
+	
+		[ "font.size" ; 24 ; 2 ] ;
+		[ "font.weight" ; "bold" ; 1 ] ;
+		[ "font.name" ; "Helvetica Neue" ; 1 ] ;
+	
+		[ "background.fill" ; "#FFFFFF" ; 1 ] ;
+		[ "displayValue" ; True ; 5 ] ;
+		[ "text.complete" ; "Done" ; 1 ]
+	
+	)
+
+	; 
+
+	JSONSetElement ( "" ; 
+
+	 	[ "value" ; 58 ; 2 ]
+	
+	)
+
+)
+```
