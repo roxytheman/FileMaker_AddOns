@@ -25,7 +25,7 @@ Let ( [
 ```
 
 **Target**: Field
-
+```
 Let ( [
 
 		~target = GetField ( "myTable::myField" ) ; // when target is a field reference
