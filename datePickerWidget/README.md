@@ -20,7 +20,7 @@ Select single dates or date ranges with this customizable calendar widget
 **Use example** : see below  
 
 
-### singleDate mode
+### Button label for singleDate mode
 
 ```
 Let ( [
@@ -35,7 +35,7 @@ Let ( [
 
 
 
-### dateRange mode
+### Button label for dateRange mode
 
 ```
 Let ( [
