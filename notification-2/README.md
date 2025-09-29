@@ -10,3 +10,17 @@ Add a clean slide-in notification panel to FileMaker layouts. This widget smooth
 - Trigger updates dynamically via FileMaker scripts
 - Lightweight, responsive, and easy to integrate
 - Ideal for alerts, reminders, or status messages
+
+## displayNotificationWidget Script
+
+### Script parameter payload example
+```
+JSONSetElement ( "" ; 
+
+	[ "notification.message" ; installer::d_addOnName_T & " " & JSONGetElement ( $$TRANSLATIONS ; installer::d_language_T & ".installed" ) & ¶ & JSONGetElement ( $$TRANSLATIONS ; installer::d_language_T & ".restart" ) ; 1 ] ;
+	[ "notification.type" ; 0 ; 2 ] ; // 0 : Green | 1 : Orange | 2 : Red
+	[ "notification.autoDismissTime" ; 5 ; 2 ] ; // Number of seconds until dismiss
+	[ "notification.autoDismiss" ; True ; 5 ] // Dismiss after x seconds
+
+)
+```
