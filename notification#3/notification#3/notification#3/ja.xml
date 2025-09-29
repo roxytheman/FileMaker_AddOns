@@ -1,0 +1,336 @@
+﻿
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0B41A25ADEF5F2639D199FDC5CD3FA01</StringID>
+	<SourceText>notification.autoDismissTime</SourceText>
+	<TargetText>notification.autoDismissTime</TargetText>
+	<Comment>com.fmi.calculation.text.notification.autoDismissTime</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.101D2070709C11B67D16A5109B75BD1F</StringID>
+	<SourceText> Dismiss after x seconds<CR/></SourceText>
+	<TargetText> Dismiss after x seconds<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Dismiss after x seconds_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.36D9F4FC6BA1C7DC01732E3AF63CDF91</StringID>
+	<SourceText>scNotification2</SourceText>
+	<TargetText>scNotification2</TargetText>
+	<Comment>com.fmi.calculation.text.scNotification2</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.40711D9FCAEA4E7818B83EC72A7AF0F3</StringID>
+	<SourceText>notification.autoDismiss</SourceText>
+	<TargetText>notification.autoDismiss</TargetText>
+	<Comment>com.fmi.calculation.text.notification.autoDismiss</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.576F37F829DF4C29C529679303F784E3</StringID>
+	<SourceText>scNotification1</SourceText>
+	<TargetText>scNotification1</TargetText>
+	<Comment>com.fmi.calculation.text.scNotification1</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.653619209927F7C47B581D8BAF25BEA4</StringID>
+	<SourceText>notification.type</SourceText>
+	<TargetText>notification.type</TargetText>
+	<Comment>com.fmi.calculation.text.notification.type</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.71C8744E40E6596FDE7119EEF13EDA02</StringID>
+	<SourceText>Hello World!</SourceText>
+	<TargetText>Hello World!</TargetText>
+	<Comment>com.fmi.calculation.text.Hello World!</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.7519BE8488BF9C5566053D0D349509F6</StringID>
+	<SourceText> 0 : Grey | 1 : Green | 2 : Orange | 3 : Red<CR/></SourceText>
+	<TargetText> 0 : Grey | 1 : Green | 2 : Orange | 3 : Red<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. 0 : Grey | 1 : Green | 2 : Orange | 3 : Red_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AECB2F86AFC2C4CD46C12FD9A3BEF2B1</StringID>
+	<SourceText>notification.title</SourceText>
+	<TargetText>notification.title</TargetText>
+	<Comment>com.fmi.calculation.text.notification.title</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D721D81A450F36209DAAF177CBAC34C4</StringID>
+	<SourceText>notification.message</SourceText>
+	<TargetText>notification.message</TargetText>
+	<Comment>com.fmi.calculation.text.notification.message</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E878C19206A62625F40DFFC1B81EE3D4</StringID>
+	<SourceText>barNotification</SourceText>
+	<TargetText>barNotification</TargetText>
+	<Comment>com.fmi.calculation.text.barNotification</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F17CCDBDEE8449899D57BD5B9879234F</StringID>
+	<SourceText> Number of seconds until dismiss<CR/></SourceText>
+	<TargetText> Number of seconds until dismiss<CR/></TargetText>
+	<Comment>com.fmi.calculation.text. Number of seconds until dismiss_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FE881E824FB99AD952DEC21D35D7044D</StringID>
+	<SourceText>Success</SourceText>
+	<TargetText>Success</TargetText>
+	<Comment>com.fmi.calculation.text.Success</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.0D11E16D94E52021BA25C88E62FE9492</StringID>
+	<SourceText>notification#2</SourceText>
+	<TargetText>notification#2</TargetText>
+	<Comment>com.fmi.layoutobject.notification#2</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.36D9F4FC6BA1C7DC01732E3AF63CDF91</StringID>
+	<SourceText>scNotification2</SourceText>
+	<TargetText>scNotification2</TargetText>
+	<Comment>com.fmi.layoutobject.scNotification2</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.3E3E7451DBA07E3FBB4A1994C91E0378</StringID>
+	<SourceText>bCloseNotificationBar</SourceText>
+	<TargetText>bCloseNotificationBar</TargetText>
+	<Comment>com.fmi.layoutobject.bCloseNotificationBar</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.576F37F829DF4C29C529679303F784E3</StringID>
+	<SourceText>scNotification1</SourceText>
+	<TargetText>scNotification1</TargetText>
+	<Comment>com.fmi.layoutobject.scNotification1</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.E878C19206A62625F40DFFC1B81EE3D4</StringID>
+	<SourceText>barNotification</SourceText>
+	<TargetText>barNotification</TargetText>
+	<Comment>com.fmi.layoutobject.barNotification</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.044FD74207E6F6341379BB48425C99C9</StringID>
+	<SourceText>displayNotificationWidget</SourceText>
+	<TargetText>displayNotificationWidget</TargetText>
+	<Comment>com.fmi.script.displayNotificationWidget</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.60FE5902C720F0E67EF2CAA5D607F406</StringID>
+	<SourceText>resetNotificationWidget</SourceText>
+	<TargetText>resetNotificationWidget</TargetText>
+	<Comment>com.fmi.script.resetNotificationWidget</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.3F3E41D9B787E90949DB7DFCB142E5C8</StringID>
+	<SourceText>NotificationWidget</SourceText>
+	<TargetText>NotificationWidget</TargetText>
+	<Comment>com.fmi.script.folder.NotificationWidget</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.02CC47FB50F601685D48AF0A135DB8BB</StringID>
+	<SourceText>Dependencies: <TAB/><TAB/><TAB/>Script Parameter Payload</SourceText>
+	<TargetText>Dependencies: <TAB/><TAB/><TAB/>Script Parameter Payload</TargetText>
+	<Comment>com.fmi.scriptstep.text.Dependencies: _TAB/__TAB/__TAB/_Script Parameter Payload</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.1757BB674A569233FCEBB195567B7E75</StringID>
+	<SourceText>Compatibility: <TAB/><TAB/><TAB/>All Platforms : FM16+</SourceText>
+	<TargetText>Compatibility: <TAB/><TAB/><TAB/>All Platforms : FM16+</TargetText>
+	<Comment>com.fmi.scriptstep.text.Compatibility: _TAB/__TAB/__TAB/_All Platforms : FM16+</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.28E5E27A6F842D986579442D1F2B4CCA</StringID>
+	<SourceText>Subscripts Called: <TAB/><TAB/>None</SourceText>
+	<TargetText>Subscripts Called: <TAB/><TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Subscripts Called: _TAB/__TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.47184794286CBC339E48049833CBD1C5</StringID>
+	<SourceText>Copy Deploy ScriptStep</SourceText>
+	<TargetText>Copy Deploy ScriptStep</TargetText>
+	<Comment>com.fmi.scriptstep.text.Copy Deploy ScriptStep</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.530734BF19AC3F6EC3CD6285344B4C49</StringID>
+	<SourceText>Intialise notification widget dismissal</SourceText>
+	<TargetText>Intialise notification widget dismissal</TargetText>
+	<Comment>com.fmi.scriptstep.text.Intialise notification widget dismissal</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.5FD1D764FFD719A9AA1709D3BEB3F07D</StringID>
+	<SourceText>------------------------------------------------------------------------------------------------</SourceText>
+	<TargetText>------------------------------------------------------------------------------------------------</TargetText>
+	<Comment>com.fmi.scriptstep.text.------------------------------------------------------------------------------------------------</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.6AB4DAA9986F7C9F36F51DEFC27884A3</StringID>
+	<SourceText>DISPLAY NOTIFICATION WIDGET</SourceText>
+	<TargetText>DISPLAY NOTIFICATION WIDGET</TargetText>
+	<Comment>com.fmi.scriptstep.text.DISPLAY NOTIFICATION WIDGET</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.6D0CF8C2EE57DC7EC93359E6D3B0DF7F</StringID>
+	<SourceText>Set notification message and notification type</SourceText>
+	<TargetText>Set notification message and notification type</TargetText>
+	<Comment>com.fmi.scriptstep.text.Set notification message and notification type</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.735BE34175F7B591161ED9C61275BE66</StringID>
+	<SourceText>Refresh hack for webdir</SourceText>
+	<TargetText>Refresh hack for webdir</TargetText>
+	<Comment>com.fmi.scriptstep.text.Refresh hack for webdir</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.87AACC0DCA7F506158C8F78D08259A15</StringID>
+	<SourceText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;notification.title&quot; ; &quot;Success&quot; ; 1 ] ;<CR/><TAB/>[ &quot;notification.message&quot; ; &quot;Hello World!&quot; ; 1 ] ;<CR/><TAB/>[ &quot;notification.type&quot; ; 1 ; 2 ] ; // 0 : Grey | 1 : Green | 2 : Orange | 3 : Red<CR/><TAB/>[ &quot;notification.autoDismissTime&quot; ; 5 ; 2 ] ; // Number of seconds until dismiss<CR/><TAB/>[ &quot;notification.autoDismiss&quot; ; True ; 5 ] // Dismiss after x seconds<CR/><CR/>)</SourceText>
+	<TargetText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;notification.title&quot; ; &quot;Success&quot; ; 1 ] ;<CR/><TAB/>[ &quot;notification.message&quot; ; &quot;Hello World!&quot; ; 1 ] ;<CR/><TAB/>[ &quot;notification.type&quot; ; 1 ; 2 ] ; // 0 : Grey | 1 : Green | 2 : Orange | 3 : Red<CR/><TAB/>[ &quot;notification.autoDismissTime&quot; ; 5 ; 2 ] ; // Number of seconds until dismiss<CR/><TAB/>[ &quot;notification.autoDismiss&quot; ; True ; 5 ] // Dismiss after x seconds<CR/><CR/>)</TargetText>
+	<Comment>com.fmi.scriptstep.text.JSONSetElement ( &quot;&quot; ; _CR/__CR/__TAB/_[ &quot;notification.title&quot; ; &quot;Success&quot; ; 1 ] ;_CR/__TAB/_[ &quot;notification.message&quot; ; &quot;Hello World!&quot; ; 1 ] ;_CR/__TAB/_[ &quot;notification.type&quot; ; 1 ; 2 ] ; // 0 : Grey | 1 : Green | 2 : Orange | 3 : Red_CR/__TAB/_[ &quot;notification.autoDismissTime&quot; ; 5 ; 2 ] ; // Number of seconds until dismiss_CR/__TAB/_[ &quot;notification.autoDismiss&quot; ; True ; 5 ] // Dismiss after x seconds_CR/__CR/_)</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.8AF690BDE87DCB0165A95BA1F34C7625</StringID>
+	<SourceText>Scripts Called: <TAB/><TAB/><TAB/>None</SourceText>
+	<TargetText>Scripts Called: <TAB/><TAB/><TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Scripts Called: _TAB/__TAB/__TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.96B9EAF2EB659E4566A07E0498F97E59</StringID>
+	<SourceText>Run Custom Notifications Widget on FM Layouts</SourceText>
+	<TargetText>Run Custom Notifications Widget on FM Layouts</TargetText>
+	<Comment>com.fmi.scriptstep.text.Run Custom Notifications Widget on FM Layouts</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.9B1593FD8D651695766C5A292A1EB124</StringID>
+	<SourceText>Clears notification widget and refreshes window</SourceText>
+	<TargetText>Clears notification widget and refreshes window</TargetText>
+	<Comment>com.fmi.scriptstep.text.Clears notification widget and refreshes window</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.B5875114EC452C2A7619FDF071D9970A</StringID>
+	<SourceText>Written on 16.08.2021 |  Updated: 19.12.2024  | Valid: Yes  | jonni@me.com</SourceText>
+	<TargetText>Written on 16.08.2021 |  Updated: 19.12.2024  | Valid: Yes  | jonni@me.com</TargetText>
+	<Comment>com.fmi.scriptstep.text.Written on 16.08.2021 |  Updated: 19.12.2024  | Valid: Yes  | jonni@me.com</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.C812A157B0B20D4DE25833A8B3B49EFD</StringID>
+	<SourceText>Version:<TAB/><TAB/><TAB/><TAB/><TAB/>1.0.5</SourceText>
+	<TargetText>Version:<TAB/><TAB/><TAB/><TAB/><TAB/>1.0.5</TargetText>
+	<Comment>com.fmi.scriptstep.text.Version:_TAB/__TAB/__TAB/__TAB/__TAB/_1.0.5</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CDFDD882E2FC15C7EB360422FE24AC03</StringID>
+	<SourceText>++++++++++++++++++++++++++++++++++++++++++++++++</SourceText>
+	<TargetText>++++++++++++++++++++++++++++++++++++++++++++++++</TargetText>
+	<Comment>com.fmi.scriptstep.text.++++++++++++++++++++++++++++++++++++++++++++++++</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CF75706246C73938F859E51873FF2443</StringID>
+	<SourceText>Activation: <TAB/><TAB/><TAB/><TAB/>User action, script or trigger</SourceText>
+	<TargetText>Activation: <TAB/><TAB/><TAB/><TAB/>User action, script or trigger</TargetText>
+	<Comment>com.fmi.scriptstep.text.Activation: _TAB/__TAB/__TAB/__TAB/_User action, script or trigger</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CF9D1306E14F7F8ACFDE859B03E3DB70</StringID>
+	<SourceText>Dependencies: <TAB/><TAB/><TAB/>None</SourceText>
+	<TargetText>Dependencies: <TAB/><TAB/><TAB/>None</TargetText>
+	<Comment>com.fmi.scriptstep.text.Dependencies: _TAB/__TAB/__TAB/_None</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D584B99618061892EF20ED360FCC6B23</StringID>
+	<SourceText>Clear notificaiton message and notification type</SourceText>
+	<TargetText>Clear notificaiton message and notification type</TargetText>
+	<Comment>com.fmi.scriptstep.text.Clear notificaiton message and notification type</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D729C973FC1D552E8E03C84F4C41A858</StringID>
+	<SourceText>Intialise notification widget and reveal message</SourceText>
+	<TargetText>Intialise notification widget and reveal message</TargetText>
+	<Comment>com.fmi.scriptstep.text.Intialise notification widget and reveal message</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D899B0D1693F7B2B50221CB609523F9F</StringID>
+	<SourceText>Sets values for notification widget object <CR/>toggles object visibility and dismisses on <CR/>timer if requested</SourceText>
+	<TargetText>Sets values for notification widget object <CR/>toggles object visibility and dismisses on <CR/>timer if requested</TargetText>
+	<Comment>com.fmi.scriptstep.text.Sets values for notification widget object _CR/_toggles object visibility and dismisses on _CR/_timer if requested</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D8AAD3C6B0DC94F144A0B6D4698E237A</StringID>
+	<SourceText>Cancel onTimer</SourceText>
+	<TargetText>Cancel onTimer</TargetText>
+	<Comment>com.fmi.scriptstep.text.Cancel onTimer</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D9F051C5D4BD328ABABBDEE03D769828</StringID>
+	<SourceText>RESET NOTIFICATION WIDGET</SourceText>
+	<TargetText>RESET NOTIFICATION WIDGET</TargetText>
+	<Comment>com.fmi.scriptstep.text.RESET NOTIFICATION WIDGET</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.EADDD2C4D83E8E67F746BEFAE77BC9A8</StringID>
+	<SourceText>Activation: <TAB/><TAB/><TAB/><TAB/>Script or onTimerInstallScript</SourceText>
+	<TargetText>Activation: <TAB/><TAB/><TAB/><TAB/>Script or onTimerInstallScript</TargetText>
+	<Comment>com.fmi.scriptstep.text.Activation: _TAB/__TAB/__TAB/__TAB/_Script or onTimerInstallScript</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F88E03118E1569639E93336A97CA2D23</StringID>
+	<SourceText>Cancel onTime Scripts</SourceText>
+	<TargetText>Cancel onTime Scripts</TargetText>
+	<Comment>com.fmi.scriptstep.text.Cancel onTime Scripts</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F8C692C443F93C94F89751BC18D8150A</StringID>
+	<SourceText>Expected Payload Syntax</SourceText>
+	<TargetText>Expected Payload Syntax</TargetText>
+	<Comment>com.fmi.scriptstep.text.Expected Payload Syntax</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.FDB1F6FD826331EBD3D678070B0E9809</StringID>
+	<SourceText>Initiate automatic notification dismissal</SourceText>
+	<TargetText>Initiate automatic notification dismissal</TargetText>
+	<Comment>com.fmi.scriptstep.text.Initiate automatic notification dismissal</Comment>
+</DynamicTemplateString>

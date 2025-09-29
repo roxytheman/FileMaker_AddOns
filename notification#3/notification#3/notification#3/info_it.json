@@ -1,0 +1,14 @@
+﻿{
+	"Title": "Notification#3",
+	"Description": "Aggiungi un pannello di notifiche a comparsa elegante ai layout di FileMaker. Questo widget scorre dolcemente da destra e mostra avvisi a colori (Grigio, Verde, Arancione, Rosso) con aggiornamenti dinamici.",
+	"Category": "Interfaccia utente",
+	"Features": [
+		"Pannello notifiche a scorrimento da destra",
+		"Quattro livelli di gravità: 0 = Grigio, 1 = Verde, 2 = Arancione, 3 = Rosso",
+		"Testo, colori e chiusura automatica personalizzabili",
+		"Aggiornamenti dinamici tramite script FileMaker",
+		"Leggero, reattivo e facile da integrare",
+		"Ideale per avvisi, promemoria o messaggi di stato"
+	],
+	"Optimized": ["Desktop", "Tablet", "Mobile", "WebDirect"]
+}

@@ -1,0 +1,14 @@
+﻿{
+	"Title": "Notification#3",
+	"Description": "Ajoutez un panneau de notifications coulissant élégant aux modèles FileMaker. Ce widget glisse en douceur depuis la droite et affiche des alertes codées par couleur (Gris, Vert, Orange, Rouge) avec des mises à jour dynamiques.",
+	"Category": "Interface utilisateur",
+	"Features": [
+		"Panneau de notification coulissant depuis la droite",
+		"Quatre niveaux de gravité : 0 = Gris, 1 = Vert, 2 = Orange, 3 = Rouge",
+		"Texte, couleurs et minuterie personnalisables",
+		"Mises à jour dynamiques via scripts FileMaker",
+		"Léger, réactif et facile à intégrer",
+		"Parfait pour alertes, rappels ou messages d’état"
+	],
+	"Optimized": ["Ordinateur", "Tablette", "Mobile", "WebDirect"]
+}

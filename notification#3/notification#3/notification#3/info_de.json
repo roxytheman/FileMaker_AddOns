@@ -1,0 +1,14 @@
+﻿{
+	"Title": "Notification#3",
+	"Description": "Fügen Sie den FileMaker-Layouts ein übersichtliches Benachrichtigungsfeld hinzu, das von rechts herein gleitet. Dieses Widget blendet farbcodierte Hinweise (Grau, Grün, Orange, Rot) mit dynamischen Updates ein.",
+	"Category": "Benutzeroberfläche",
+	"Features": [
+		"Einblendbares Benachrichtigungs-Panel von rechts",
+		"Vier Schweregrade: 0 = Grau, 1 = Grün, 2 = Orange, 3 = Rot",
+		"Anpassbarer Text, Farben und automatische Ausblendung",
+		"Dynamische Updates per FileMaker-Skripte",
+		"Leichtgewichtig, reaktionsschnell und einfach zu integrieren",
+		"Perfekt für Warnungen, Erinnerungen oder Statusmeldungen"
+	],
+	"Optimized": ["Desktop", "Tablet", "Mobil", "WebDirect"]
+}
