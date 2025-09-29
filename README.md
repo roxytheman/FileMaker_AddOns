@@ -1,3 +1,16 @@
+# FileMaker AddOns
+
+This collection of free FileMaker add-ons is designed to simplify and elevate your development process. Each add-on is lightweight, self-contained, and comes with its own installer file—removing the hassle of navigating deeply nested folders. From interactive charts and dynamic progress indicators to modern UI components like date pickers, color selectors, notifications, and code editors, these add-ons give you powerful tools that drop directly into your FileMaker solutions. Built with SVG, JavaScript, and responsive design in mind, they deliver performance, customization, and visual polish without relying on external plug-ins.
+
+Together, these add-ons provide a versatile toolkit for FileMaker developers:
+- Data Visualization – Render charts (doughnut, column, row, progress rings, stacked bars) with fully customizable, script-driven updates.
+- UI Enhancements – Add intuitive controls like date pickers, color pickers, and pill-style tag clouds for richer user interactions.
+- Feedback & Alerts – Integrate clean, animated notifications to guide users and communicate status dynamically.
+- Development Tools – Boost productivity with utilities like the embedded CodeMirror editor for testing and debugging.
+
+Whether you need to track progress, present data more clearly, or streamline user input, these add-ons are built to integrate seamlessly and make your FileMaker apps both more functional and more engaging.
+
+
 # [badgeStack](https://github.com/roxytheman/FileMaker_AddOns/tree/main/badgeStack)
 WebWidget add-on for FileMaker displaying progress doughnut using SVG.
 [<img width="600" height="400" alt="483030771-f439ad88-a364-46f6-ac3c-0b7c6db14560" src="https://github.com/user-attachments/assets/f0ea0cb2-49bb-41de-80c9-f311fa311c87" />](https://github.com/roxytheman/FileMaker_AddOns/tree/main/badgeStack)
