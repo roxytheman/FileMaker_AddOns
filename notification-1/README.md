@@ -1,5 +1,6 @@
 # notification-1
 In-layout slide in notification widget
+
 <img width="600" height="400" alt="492757282-3ec4bca4-2cd7-4208-bad8-7cc5567f00d4" src="https://github.com/user-attachments/assets/4754cca0-2848-4cb0-b004-01c01021db66" />
 
 Add a clean slide-in notification panel to FileMaker layouts. This widget smoothly slides in from the right and displays color-coded alerts (Green, Orange, Red) with dynamic updates.
