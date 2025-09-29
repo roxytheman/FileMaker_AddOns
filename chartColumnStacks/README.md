@@ -21,17 +21,17 @@ Column Stacks Chart is a stacked column chart widget for FileMaker layouts, styl
 ### Default Array Example
 
 ```
-	JSONSetElement ( "" ; 
+JSONSetElement ( "" ; 
 
-		[ "min" ; 0 ; 2 ] ;
-		[ "max" ; 50 ; 2 ] ;
-		[ "padding" ; 10 ; 2 ] ;
-		[ "stroke" ; 20 ; 2 ] ;
-		[ "endCap" ; "round" ; 1 ] ;
-		[ "background.fill" ; "#FFFFFF" ; 1 ] ;
-		[ "color.background" ; "#CCCCCC" ; 1 ] ;
-		[ "color.foreground" ; "#CB4400" ; 1 ] ;
-		[ "align" ; "center" ; 1 ]
+	[ "min" ; 0 ; 2 ] ;
+	[ "max" ; 50 ; 2 ] ;
+	[ "padding" ; 10 ; 2 ] ;
+	[ "stroke" ; 20 ; 2 ] ;
+	[ "endCap" ; "round" ; 1 ] ;
+	[ "background.fill" ; "#FFFFFF" ; 1 ] ;
+	[ "color.background" ; "#CCCCCC" ; 1 ] ;
+	[ "color.foreground" ; "#CB4400" ; 1 ] ;
+	[ "align" ; "center" ; 1 ]
 
 )
 ```
@@ -39,30 +39,30 @@ Column Stacks Chart is a stacked column chart widget for FileMaker layouts, styl
 ### Data Array Example
 
 ```
-	JSONSetElement ( "" ; 
+JSONSetElement ( "" ; 
 
-		[ "columns[+]value" ; 30 ; 2 ] ;
-		[ "columns[:]color" ; "#F4511E" ; 1 ] ;
-		[ "columns[:]stroke" ; 10 ; 2 ] ;
-		[ "columns[:]cap" ; "" ; 1 ] ;
+	[ "columns[+]value" ; 30 ; 2 ] ;
+	[ "columns[:]color" ; "#F4511E" ; 1 ] ;
+	[ "columns[:]stroke" ; 10 ; 2 ] ;
+	[ "columns[:]cap" ; "" ; 1 ] ;
 
-		[ "columns[+]value" ; 25 ; 2 ] ;
+	[ "columns[+]value" ; 25 ; 2 ] ;
 
-		[ "columns[+]value" ; 45 ; 2 ] ;
-		[ "columns[:]color" ; "#F4511E" ; 1 ] ;
-		[ "columns[:]cap" ; "square" ; 1 ]  ;
+	[ "columns[+]value" ; 45 ; 2 ] ;
+	[ "columns[:]color" ; "#F4511E" ; 1 ] ;
+	[ "columns[:]cap" ; "square" ; 1 ]  ;
 
-		[ "columns[+]value" ; 15 ; 2 ] ;
-		[ "columns[:]color" ; "#F4511E" ; 1 ] ;
-		[ "columns[:]stroke" ; 18 ; 2 ] ;
-		[ "columns[:]cap" ; "" ; 1 ] ;
+	[ "columns[+]value" ; 15 ; 2 ] ;
+	[ "columns[:]color" ; "#F4511E" ; 1 ] ;
+	[ "columns[:]stroke" ; 18 ; 2 ] ;
+	[ "columns[:]cap" ; "" ; 1 ] ;
 
-		[ "columns[+]value" ; 32 ; 2 ] ;
-		[ "columns[:]color" ; "#F4511E" ; 1 ] ;
+	[ "columns[+]value" ; 32 ; 2 ] ;
+	[ "columns[:]color" ; "#F4511E" ; 1 ] ;
 
-		[ "columns[+]value" ; 22 ; 2 ] ;
-		[ "columns[:]color" ; "#F4511E" ; 1 ] ;
-		[ "columns[:]cap" ; "" ; 1 ] 
+	[ "columns[+]value" ; 22 ; 2 ] ;
+	[ "columns[:]color" ; "#F4511E" ; 1 ] ;
+	[ "columns[:]cap" ; "" ; 1 ] 
 
-
+)
 ```
