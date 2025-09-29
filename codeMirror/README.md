@@ -8,3 +8,22 @@ A split-pane, syntax-aware code editor for FileMaker, built with CodeMirror. Pro
 - Responsive and resizable code editor interface
 - Built using the CodeMirror library for modern editing features
 - Ideal for testing calculations and debugging in place
+
+## codeMirrorSetCode script
+
+Launches a single pane code mirror editor in a webviewer object. When deployed on server you can split the panes in two segments and have the server perform FileMaker functions and return the results to the second pane.
+The second pane can also be used to render and edit different code by applying the same calls as pane one is targeted with. **Note**: This is a beta add-on. Features and functions may change.
+
+### Script parameter array example
+
+```
+JSONSetElement ( "" ;
+
+    [ "windowMode" ; JSONGetElement ( $$CODEMIRROR ; "target.code" ) ; 2 ] ;
+    [ "code1" ; Evaluate ( JSONGetElement ( $$CODEMIRROR ; "target.name" ) ) ; 1 ] ;
+    [ "code2" ; "" ; 6 ] ;
+    [ "fontFamily" ; If ( Left ( JSONGetElement ( $$CODEMIRROR ; "codeMirror.font" ) ; 1 ) = "?" ; "Courier" ; JSONGetElement ( $$CODEMIRROR ; "codeMirror.font" ) ) ; 1 ] ;
+    [ "fontSize" ; If ( Left ( JSONGetElement ( $$CODEMIRROR ; "codeMirror.fontSize" ) ; 1 ) = "?" ; 12 ; JSONGetElement ( $$CODEMIRROR ; "codeMirror.fontSize" ) ) ; 2 ]
+
+)
+```
