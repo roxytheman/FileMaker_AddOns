@@ -100,7 +100,7 @@ Add a clean slide-in notification panel to FileMaker layouts. This widget smooth
 
 # [notification-2](https://github.com/roxytheman/FileMaker_AddOns/tree/main/notification-2)
 In-layout slide in notification widget
-[<img width="600" height="400" alt="492756973-740b48ec-7012-4837-a7ff-b2d7326bb1b2" src="https://github.com/user-attachments/assets/778b71a8-12d3-4537-84e2-fd2deca63ac8" />]((https://github.com/roxytheman/FileMaker_AddOns/tree/main/notification-2))
+[<img width="600" height="400" alt="492756973-740b48ec-7012-4837-a7ff-b2d7326bb1b2" src="https://github.com/user-attachments/assets/778b71a8-12d3-4537-84e2-fd2deca63ac8" />]https://github.com/roxytheman/FileMaker_AddOns/tree/main/notification-2)
 
 Add a clean slide-in notification panel to FileMaker layouts. This widget smoothly slides in from the right and displays color-coded alerts (Grey, Green, Orange, Red) with dynamic updates.
 - Slide-in notification panel that animates from the right
@@ -112,7 +112,7 @@ Add a clean slide-in notification panel to FileMaker layouts. This widget smooth
 
 # [notification-3](https://github.com/roxytheman/FileMaker_AddOns/tree/main/notification-3)
 In-layout slide in notification widget
-[<img width="600" height="400" alt="preview" src="https://github.com/user-attachments/assets/212fe280-d253-44a1-aceb-1bddcb3b229a" />]((https://github.com/roxytheman/FileMaker_AddOns/tree/main/notification-3))
+[<img width="600" height="400" alt="preview" src="https://github.com/user-attachments/assets/212fe280-d253-44a1-aceb-1bddcb3b229a" />](https://github.com/roxytheman/FileMaker_AddOns/tree/main/notification-3)
 
 Add a clean slide-in notification panel to FileMaker layouts. This widget smoothly slides in from the right and displays color-coded alerts (Grey, Green, Orange, Red) with dynamic updates.
 - Slide-in notification panel that animates from the right
