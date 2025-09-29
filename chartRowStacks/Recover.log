@@ -1,4 +1,0 @@
-﻿Timestamp	Filename	Error	Message
-2025-09-28 22:11:58.433 +0000	chartRow_installer.fmp12	0	*** Started consistency check of improperly closed file, total of 282 block(s) to check
-2025-09-28 22:11:58.434 +0000	chartRow_installer.fmp12	0	Reset maximum block sequence number to 880033
-2025-09-28 22:11:58.434 +0000	chartRow_installer.fmp12	0	*** Completed consistency check, checked 282 block(s)
