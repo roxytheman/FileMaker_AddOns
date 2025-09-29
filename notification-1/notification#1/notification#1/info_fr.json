@@ -1,10 +1,10 @@
 ﻿{
-	"Title": "slideNotify-1",
-	"Description": "Ajoutez un panneau de notification coulissant à vos mises en page FileMaker. Le widget glisse depuis la droite et affiche des alertes codées par couleur (Vert, Orange, Rouge) avec mises à jour dynamiques.",
+	"Title": "Notification#1",
+	"Description": "Ajoutez un panneau de notifications coulissant élégant aux modèles FileMaker. Ce widget glisse en douceur depuis la droite et affiche des alertes codées par couleur (Gris, Vert, Orange, Rouge) avec des mises à jour dynamiques.",
 	"Category": "Interface utilisateur",
 	"Features": [
 		"Panneau de notification coulissant depuis la droite",
-		"Trois niveaux de gravité : 0 = Vert, 1 = Orange, 2 = Rouge",
+		"Quatre niveaux de gravité : 0 = Gris, 1 = Vert, 2 = Orange, 3 = Rouge",
 		"Texte, couleurs et minuterie personnalisables",
 		"Mises à jour dynamiques via scripts FileMaker",
 		"Léger, réactif et facile à intégrer",

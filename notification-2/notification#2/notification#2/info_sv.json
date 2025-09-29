@@ -1,10 +1,10 @@
 ﻿{
-	"Title": "slideNotify-2",
-	"Description": "Lägg till ett snyggt infällbart notifieringspanel i FileMaker-layouts. Widgeten glider in från höger och visar färgkodade aviseringar (Grön, Orange, Röd) med dynamiska uppdateringar.",
+	"Title": "Notification#2",
+	"Description": "Lägg till en snygg skjut-in-notifikationspanel i FileMaker-layouts. Denna widget glider smidigt in från höger och visar färgkodade aviseringar (Grå, Grön, Orange, Röd) med dynamiska uppdateringar.",
 	"Category": "Användargränssnitt",
 	"Features": [
 		"Notifieringspanel som glider in från höger",
-		"Tre allvarlighetsnivåer: 0 = Grön, 1 = Orange, 2 = Röd",
+		"Fyra allvarlighetsnivåer: 0 = Grå, 1 = Grön, 2 = Orange, 3 = Röd",
 		"Anpassningsbar text, färger och automatisk stängning",
 		"Dynamiska uppdateringar via FileMaker-skript",
 		"Lättviktigt, responsivt och enkelt att integrera",

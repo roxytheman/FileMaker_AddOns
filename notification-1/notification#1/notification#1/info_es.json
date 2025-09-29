@@ -1,10 +1,10 @@
 ﻿{
-	"Title": "slideNotify-1",
-	"Description": "Agregue un panel de notificaciones deslizante a sus diseños de FileMaker. El widget se desliza desde la derecha y muestra alertas codificadas por color (Verde, Naranja, Rojo) con actualizaciones dinámicas.",
+	"Title": "Notification#1",
+	"Description": "Agregue un panel de notificaciones deslizante y limpio a los diseños de FileMaker. Este widget se desliza suavemente desde la derecha y muestra alertas codificadas por colores (Gris, Verde, Naranja, Rojo) con actualizaciones dinámicas.",
 	"Category": "Interfaz de usuario",
 	"Features": [
 		"Panel de notificación que se desliza desde la derecha",
-		"Tres niveles de severidad: 0 = Verde, 1 = Naranja, 2 = Rojo",
+		"Cuatro niveles de gravedad: 0 = Gris, 1 = Verde, 2 = Naranja, 3 = Rojo",
 		"Texto, colores y tiempo de cierre automático personalizables",
 		"Actualizaciones dinámicas mediante scripts de FileMaker",
 		"Ligero, adaptable y fácil de integrar",
