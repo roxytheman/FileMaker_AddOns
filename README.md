@@ -1,10 +1,10 @@
 # FileMaker AddOns
 
-This collection of free FileMaker add-ons is designed to simplify and elevate your development process. Each add-on is lightweight, self-contained, and comes with its own installer file—removing the hassle of navigating deeply nested folders. From interactive charts and dynamic progress indicators to modern UI components like date pickers, color selectors, notifications, and code editors, these add-ons give you powerful tools that drop directly into your FileMaker solutions. Built with SVG, JavaScript, and responsive design in mind, they deliver performance, customization, and visual polish without relying on external plug-ins.
+This collection of free FileMaker add-ons is designed to simplify and elevate your development process. Each add-on is lightweight, self-contained, and comes with its own installer file—removing the hassle of navigating deeply nested folders for installation. From interactive charts and dynamic progress indicators to modern UI components like date pickers, colour selectors, notifications, and code editors, these add-ons give you powerful tools that drop directly into your FileMaker solutions. Built with SVG, JavaScript, and responsive design in mind, they deliver performance, customisation, and visual polish without relying on external plug-ins.
 
 Together, these add-ons provide a versatile toolkit for FileMaker developers:
-- Data Visualization – Render charts (doughnut, column, row, progress rings, stacked bars) with fully customizable, script-driven updates.
-- UI Enhancements – Add intuitive controls like date pickers, color pickers, and pill-style tag clouds for richer user interactions.
+- Data Visualisation – Render charts (doughnut, column, row, progress rings, stacked bars) with fully customisable, script-driven updates.
+- UI Enhancements – Add intuitive controls like date pickers, colour pickers, and pill-style tag clouds for richer user interactions.
 - Feedback & Alerts – Integrate clean, animated notifications to guide users and communicate status dynamically.
 - Development Tools – Boost productivity with utilities like the embedded CodeMirror editor for testing and debugging.
 
