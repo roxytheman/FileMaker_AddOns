@@ -49,6 +49,7 @@ Let ( [
 )
 ```
 
+### Parameters:
 **fileMakerScript** : Name of FileMaker script to launch upon selecting date(s) ( CAL_responseHandler )  
 **dateStart** : Initialising start date  
 **dateEnd** : Initialising end date (optional when calendar is in range mode)  
