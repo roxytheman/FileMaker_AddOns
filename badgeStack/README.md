@@ -16,7 +16,7 @@ The function is called in a FileMaker Webviewer Object to generate overlapping c
 
 **Function Name** : badgeStack  
 **Parameters** : width ; height ; defaultArray ; badgeArray  
-**Use example** : badgeStack ( 400 ; 400 ; $defaultArray ; $pillArray )  
+**Use example** : badgeStack ( 400 ; 400 ; $defaultArray ; $badgeArray )  
 
 This function produces a visually stacked row of circular badges using SVG, styled and controlled entirely via JSON. Each badge supports individual text, background and font colour, and border styles, with layout dynamically handled based on Web Viewer dimensions. The leftmost badge appears on top, enabling a clean and readable stack that’s perfect for representing users, tags, roles or assignments in FileMaker layouts.
 
