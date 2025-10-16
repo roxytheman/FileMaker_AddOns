@@ -183,6 +183,7 @@ Display multi-ring progress indicators inspired by Apple Watch activity rings us
 
 
 # [JSONViewer](https://github.com/roxytheman/FileMaker_AddOns/tree/main/jsonViewer)
+JSON Viewing WebWidget add-on for Claris FileMaker.
 [<img width="600" height="400" alt="preview" src="https://github.com/user-attachments/assets/fe92fd56-79f3-4502-bee6-9db0cd9b16ae" />]
 (https://github.com/roxytheman/FileMaker_AddOns/tree/main/jsonViewer)
 
