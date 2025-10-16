@@ -183,7 +183,7 @@ Display multi-ring progress indicators inspired by Apple Watch activity rings us
 
 
 # [JSONViewer](https://github.com/roxytheman/FileMaker_AddOns/tree/main/jsonViewer)
-<img width="600" height="400" alt="preview" src="https://github.com/user-attachments/assets/fe92fd56-79f3-4502-bee6-9db0cd9b16ae" />
+[<img width="600" height="400" alt="preview" src="https://github.com/user-attachments/assets/fe92fd56-79f3-4502-bee6-9db0cd9b16ae" />]
 (https://github.com/roxytheman/FileMaker_AddOns/tree/main/jsonViewer)
 
 A self-contained web component Add-On for FileMaker that displays structured JSON data. Expand objects individually or all at once by holding the Option key. Supports light and dark mode, custom background colors, and adjustable font size in points. Compatible with FileMaker 22+.
