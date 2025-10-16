@@ -1,0 +1,15 @@
+﻿{
+  "Title": "JSONViewer",
+  "Description": "一个用于 FileMaker 的独立 Web 组件，可显示结构化的 JSON 数据。按住 Option 键可一次性展开所有对象，也可逐个展开。支持浅色和深色模式、自定义背景颜色，以及以磅为单位的字体大小设置。兼容 FileMaker 22+。",
+  "Category": "开发者工具",
+  "Features": [
+    "显示和浏览 JSON 数组与对象",
+    "按住 Option 键可单独或全部展开",
+    "支持浅色/深色模式与自定义背景颜色",
+    "字体大小可按磅调整",
+    "独立、易于集成的 Web 组件"
+  ],
+  "Optimized": [
+    "桌面", "平板", "移动设备", "WebDirect"
+  ]
+}

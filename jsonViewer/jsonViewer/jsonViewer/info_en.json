@@ -1,0 +1,15 @@
+﻿{
+  "Title": "JSONViewer",
+  "Description": "A self-contained web component Add-On for FileMaker that displays structured JSON data. Expand objects individually or all at once by holding the Option key. Supports light and dark mode, custom background colors, and adjustable font size in points. Compatible with FileMaker 22+.",
+  "Category": "Developer Tools",
+  "Features": [
+    "Display and explore JSON arrays and objects",
+    "Expand individual or all objects by holding the Option key",
+    "Supports light and dark mode with customizable background color",
+    "Adjustable font size in points",
+    "Self-contained and easy to integrate web component"
+  ],
+  "Optimized": [
+    "Desktop", "Tablet", "Mobile", "WebDirect"
+  ]
+}

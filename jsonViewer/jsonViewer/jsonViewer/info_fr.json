@@ -1,0 +1,15 @@
+﻿{
+  "Title": "JSONViewer",
+  "Description": "Composant Web autonome pour FileMaker affichant des données JSON structurées. Les objets peuvent être développés individuellement ou tous à la fois en maintenant la touche Option. Prend en charge le mode clair et sombre, les couleurs d’arrière-plan personnalisées et la taille de police réglable en points. Compatible avec FileMaker 22+.",
+  "Category": "Outils de développement",
+  "Features": [
+    "Affichage et exploration de tableaux et objets JSON",
+    "Développement individuel ou global des objets avec la touche Option",
+    "Prise en charge des modes clair et sombre avec arrière-plan personnalisable",
+    "Taille de police réglable en points",
+    "Composant Web autonome et facile à intégrer"
+  ],
+  "Optimized": [
+    "Ordinateur", "Tablette", "Mobile", "WebDirect"
+  ]
+}
