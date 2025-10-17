@@ -180,3 +180,17 @@ Display multi-ring progress indicators inspired by Apple Watch activity rings us
 - Responsive to Web Viewer width and height
 - Zoom-compensated for consistent rendering across devices
 - Optimized SVG output for FileMaker Pro, Go, and WebDirect
+
+
+# [JSONViewer](https://github.com/roxytheman/FileMaker_AddOns/tree/main/jsonViewer)
+JSON Viewing WebWidget add-on for Claris FileMaker.
+
+[<img width="600" height="400" alt="preview" src="https://github.com/user-attachments/assets/fe92fd56-79f3-4502-bee6-9db0cd9b16ae" />]
+(https://github.com/roxytheman/FileMaker_AddOns/tree/main/jsonViewer)
+
+A self-contained web component Add-On for FileMaker that displays structured JSON data. Expand objects individually or all at once by holding the Option key. Supports light and dark mode, custom background colors, and adjustable font size in points. Compatible with FileMaker 22+.
+- Display and explore JSON arrays and objects
+- Expand individual or all objects by holding the Option key
+- Supports light and dark mode with customizable background color
+- Adjustable font size in points
+- Self-contained and easy to integrate web component
