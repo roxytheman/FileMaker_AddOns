@@ -21,10 +21,10 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.layoutobject.BECCEEFBD01BCC427AD71E7C9BFBD649</StringID>
-	<SourceText>wvJSONViewer</SourceText>
-	<TargetText>wvJSONViewer</TargetText>
-	<Comment>com.fmi.layoutobject.wvJSONViewer</Comment>
+	<StringID>com.fmi.layoutobject.0164EF597E464498B434FE8C8EE5EE32</StringID>
+	<SourceText>wvJSONViewer_[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>wvJSONViewer_[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.layoutobject.wvJSONViewer_[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -77,13 +77,6 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.45DB370B3D8DA49DEE819C8333A8526E</StringID>
-	<SourceText>Written on 2025-10-15 by Jonni |  Updated: 00.00.0000  | Valid: Yes</SourceText>
-	<TargetText>Written on 2025-10-15 by Jonni |  Updated: 00.00.0000  | Valid: Yes</TargetText>
-	<Comment>com.fmi.scriptstep.text.Written on 2025-10-15 by Jonni |  Updated: 00.00.0000  | Valid: Yes</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.scriptstep.text.6E93D27030534AD82F0364250B306C64</StringID>
 	<SourceText>Subscripts Called: <TAB/>None</SourceText>
 	<TargetText>Subscripts Called: <TAB/>None</TargetText>
@@ -105,10 +98,10 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.C0F1990D1D149A064F3DFFBB76E4137F</StringID>
-	<SourceText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;jsonPayload&quot; ; $myJSONArray ; 0 ] ; // JSON array to display in viewer, can also be a field or global variable<CR/><TAB/>[ &quot;fontSize&quot; ; 10 ; 2 ] ; // font size in pt<CR/><TAB/>[ &quot;darkMode&quot; ; False ; 5 ] ; // True/False toggle between dark and light mode<CR/><TAB/>[ &quot;target&quot; ; &quot;jsonViewer_964A92EE-845A-4F8F-A519-622CEAA19552&quot; ; 1 ] ; // name of target webViewer on layout<CR/><TAB/>[ &quot;backgroundColor&quot; ; &quot;#D9D9D9&quot; ; 1 ] // optional override<CR/><CR/>)</SourceText>
-	<TargetText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;jsonPayload&quot; ; $myJSONArray ; 0 ] ; // JSON array to display in viewer, can also be a field or global variable<CR/><TAB/>[ &quot;fontSize&quot; ; 10 ; 2 ] ; // font size in pt<CR/><TAB/>[ &quot;darkMode&quot; ; False ; 5 ] ; // True/False toggle between dark and light mode<CR/><TAB/>[ &quot;target&quot; ; &quot;jsonViewer_964A92EE-845A-4F8F-A519-622CEAA19552&quot; ; 1 ] ; // name of target webViewer on layout<CR/><TAB/>[ &quot;backgroundColor&quot; ; &quot;#D9D9D9&quot; ; 1 ] // optional override<CR/><CR/>)</TargetText>
-	<Comment>com.fmi.scriptstep.text.JSONSetElement ( &quot;&quot; ; _CR/__CR/__TAB/_[ &quot;jsonPayload&quot; ; $myJSONArray ; 0 ] ; // JSON array to display in viewer, can also be a field or global variable_CR/__TAB/_[ &quot;fontSize&quot; ; 10 ; 2 ] ; // font size in pt_CR/__TAB/_[ &quot;darkMode&quot; ; False ; 5 ] ; // True/False toggle between dark and light mode_CR/__TAB/_[ &quot;target&quot; ; &quot;jsonViewer_964A92EE-845A-4F8F-A519-622CEAA19552&quot; ; 1 ] ; // name of target webViewer on layout_CR/__TAB/_[ &quot;backgroundColor&quot; ; &quot;#D9D9D9&quot; ; 1 ] // optional override_CR/__CR/_)</Comment>
+	<StringID>com.fmi.scriptstep.text.B770A49E09372EE91A9BF0230784BE9B</StringID>
+	<SourceText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;jsonPayload&quot; ; $myJSONArray ; 0 ] ; // JSON array to display in viewer, can also be a field or global variable<CR/><TAB/>[ &quot;fontSize&quot; ; 10 ; 2 ] ; // font size in pt<CR/><TAB/>[ &quot;darkMode&quot; ; False ; 5 ] ; // True/False toggle between dark and light mode<CR/><TAB/>[ &quot;target&quot; ; &quot;wvJSONViewer_964A92EE-845A-4F8F-A519-622CEAA19552&quot; ; 1 ] ; // copy the name of target webViewer from the layout<CR/><TAB/>[ &quot;backgroundColor&quot; ; &quot;#D9D9D9&quot; ; 1 ] // optional background colour override<CR/><CR/>)</SourceText>
+	<TargetText>JSONSetElement ( &quot;&quot; ; <CR/><CR/><TAB/>[ &quot;jsonPayload&quot; ; $myJSONArray ; 0 ] ; // JSON array to display in viewer, can also be a field or global variable<CR/><TAB/>[ &quot;fontSize&quot; ; 10 ; 2 ] ; // font size in pt<CR/><TAB/>[ &quot;darkMode&quot; ; False ; 5 ] ; // True/False toggle between dark and light mode<CR/><TAB/>[ &quot;target&quot; ; &quot;wvJSONViewer_964A92EE-845A-4F8F-A519-622CEAA19552&quot; ; 1 ] ; // copy the name of target webViewer from the layout<CR/><TAB/>[ &quot;backgroundColor&quot; ; &quot;#D9D9D9&quot; ; 1 ] // optional background colour override<CR/><CR/>)</TargetText>
+	<Comment>com.fmi.scriptstep.text.JSONSetElement ( &quot;&quot; ; _CR/__CR/__TAB/_[ &quot;jsonPayload&quot; ; $myJSONArray ; 0 ] ; // JSON array to display in viewer, can also be a field or global variable_CR/__TAB/_[ &quot;fontSize&quot; ; 10 ; 2 ] ; // font size in pt_CR/__TAB/_[ &quot;darkMode&quot; ; False ; 5 ] ; // True/False toggle between dark and light mode_CR/__TAB/_[ &quot;target&quot; ; &quot;wvJSONViewer_964A92EE-845A-4F8F-A519-622CEAA19552&quot; ; 1 ] ; // copy the name of target webViewer from the layout_CR/__TAB/_[ &quot;backgroundColor&quot; ; &quot;#D9D9D9&quot; ; 1 ] // optional background colour override_CR/__CR/_)</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -130,4 +123,11 @@
 	<SourceText>Expected Payload Syntax</SourceText>
 	<TargetText>Expected Payload Syntax</TargetText>
 	<Comment>com.fmi.scriptstep.text.Expected Payload Syntax</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F9BDFB599C5607698489D3FC8CE4B630</StringID>
+	<SourceText>Written on 2025-10-15 by Jonni |  Updated: 00.00.0000  | Valid: Yes  |  Ver. 1.0</SourceText>
+	<TargetText>Written on 2025-10-15 by Jonni |  Updated: 00.00.0000  | Valid: Yes  |  Ver. 1.0</TargetText>
+	<Comment>com.fmi.scriptstep.text.Written on 2025-10-15 by Jonni |  Updated: 00.00.0000  | Valid: Yes  |  Ver. 1.0</Comment>
 </DynamicTemplateString>
