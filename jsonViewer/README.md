@@ -5,13 +5,14 @@ JSON Viewing WebWidget add-on for Claris FileMaker.
 A self-contained web component Add-On for FileMaker that displays structured JSON data. Expand objects individually or all at once by holding the Option key. Supports light and dark mode, custom background colors, and adjustable font size in points. Compatible with FileMaker 22+.
 - Display and explore JSON arrays and objects
 - Expand individual or all objects by holding the Option key
-- Supports light and dark mode with customizable background color
+- Supports light and dark mode with customisable background color
 - Adjustable font size in points
 - Self-contained and easy to integrate web component
 
 ## loadJSONViewer
 
-Loads JSON Viewing tool into a webviewer object. Pass the JSON array in a variable or text field. Set optional background colour to match UI.  **Note**: REQUIRES FILEMAKER 22+
+Loads JSON Viewing tool into a webviewer object. Pass the JSON array in a variable or text field. Set optional background colour to match UI.  
+**Note: REQUIRES FILEMAKER 22+**
 
 ### Script parameter array example
 
